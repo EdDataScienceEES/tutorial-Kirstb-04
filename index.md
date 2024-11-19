@@ -23,7 +23,7 @@ This tutorial follows on from the [Intro to Github for version control](https://
 ## Learning Objectives of this tutorial:
 
 1. **Github**
-- [Moving files and folders about in github](Movnig-files-and-folders-about-in-github)
+- [Moving files and folders about in github](##1a.-Moving-files-and-folders-about-in-Github)
 - Changing file names
 - Undoing commits 
 - Merge conflicts - what do they mean?
