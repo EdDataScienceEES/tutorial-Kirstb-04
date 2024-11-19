@@ -1,10 +1,10 @@
 # Plastic in our oceans: where does it come from?
 
-Kirsty Booth, member of the BBC data visualisation team
+*Kirsty Booth, member of the BBC data visualisation team*
 
-29th of October 2024
+*29th of October 2024*
  
-#### Plastic waste is a global issue affecting marine ecosystems across the world. It negatively impacts the marine environment in a multitude of ways, through changing the natural balance of ecosystems, as well as causing marine animals to die. However recent scientific research shows us where this ocean waste comes from and what it's made up of, which could be crucial in tackling the problem.
+Plastic waste is a global issue affecting marine ecosystems across the world. It negatively impacts the marine environment in a multitude of ways, through changing the natural balance of ecosystems, as well as causing marine animals to die. However recent scientific research shows us where this ocean waste comes from and what it's made up of, which could be crucial in tackling the problem.
 
 
 Initially seen as a good alternative to natural materials, plastic has been in use since the early 20th century with 
@@ -37,5 +37,5 @@ Plastic pollution is a global issue which is leading to harmful consequences for
 
 
 ### References
-* The journal article on total plastic contributed to the ocean by each country can be found at the following link - (https://www.science.org/doi/10.1126/sciadv.aaz5803) - [Accompanying raw data](https://ourworldindata.org/grapher/share-of-global-plastic-waste-emitted-to-the-ocean)
-* The journal article on the types of plastic each gloabl region contributes to the ocean can be found at the following link - (https://www.nature.com/articles/s41893-021-00720-8) - [Accompanying raw data](https://ourworldindata.org/grapher/waste-items-ocean-region)
+* The journal article on total plastic contributed to the ocean by each country can be found at the following link - https://www.science.org/doi/10.1126/sciadv.aaz5803; The raw data can be found at https://ourworldindata.org/grapher/share-of-global-plastic-waste-emitted-to-the-ocean
+* The journal article on the types of plastic each gloabl region contributes to the ocean can be found at the following link - https://www.nature.com/articles/s41893-021-00720-8; The raw data can be found at https://ourworldindata.org/grapher/waste-items-ocean-region
