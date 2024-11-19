@@ -23,7 +23,7 @@ This tutorial follows on from the [Intro to Github for version control](https://
 ## Learning Objectives of this tutorial:
 
 1. **Github**
-- Moving files and folders about in github
+- [Moving-files-and-folders-about-in-github](Movnig-files-and-folders-about-in-github)
 - Changing file names
 - Undoing commits 
 - Merge conflicts - what do they mean?
@@ -43,3 +43,12 @@ This tutorial follows on from the [Intro to Github for version control](https://
 
 3. **General tips for a professional markdown**
 
+## 1a. Moving files and folders about in Github
+
+
+
+3. General tips for a professional markdown
+
+
+
+When trying to make a document look good it can be easy to under or over do-it. Plain black and white text  is proffessional right? Adding lots of colours and pictures will make it more interesing! No and No. It's tricky but you need to find a balance. A plain document can be boring and tedious to read, whilst a document that uses an array of colours and pictures without adding to the readers understanding, can be overwhelming and unproffessional.
