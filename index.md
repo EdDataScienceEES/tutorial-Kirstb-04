@@ -5,7 +5,7 @@
 <p>&nbsp;</p>
 
 
- # Making the most of GitHub - tips, tricks & hacks
+ # Making the most of GitHub - Github hacks, markdown formatting & general tips
 
 *Created by Kirsty (November 2024)*
 
@@ -39,7 +39,7 @@ This tutorial follows on from the [Intro to Github for version control](https://
 - Inserting code
 - How to centre text
 - How to create automatic copying
--  How to add spaing into your Markdown
+- How to add spaing into your Markdown
 
 3. **General tips for a professional markdown**
 
@@ -47,8 +47,8 @@ This tutorial follows on from the [Intro to Github for version control](https://
 
 
 
-3. General tips for a professional markdown
+## 3. General tips for a professional markdown
 
 
 
-When trying to make a document look good it can be easy to under or over do-it. Plain black and white text  is proffessional right? Adding lots of colours and pictures will make it more interesing! No and No. It's tricky but you need to find a balance. A plain document can be boring and tedious to read, whilst a document that uses an array of colours and pictures without adding to the readers understanding, can be overwhelming and unproffessional.
+When trying to make a document look good it can be easy to under or over do-it. Plain black and white text  is proffessional right? Adding lots of colours and pictures will make it more interesing! No and no. It's tricky but you need to find a balance. A plain document can be boring and tedious to read, whilst a document that uses an array of colours and pictures without adding to the readers understanding, can be overwhelming and unproffessional.
