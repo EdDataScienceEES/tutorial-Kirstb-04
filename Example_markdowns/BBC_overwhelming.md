@@ -39,7 +39,7 @@ However <ins>_**recent scientific research looks at which countries this plastic
 
 
 ## $\color{Purple}{\text{The\ Research}}$
-The BBC looked at data on the total plastic contributed to the ocean by each country, and on what types of plastic waste each gloabl region contributes. This data came from journal articles in the scientific journals *Science Advances* and *Nature*, respectively, whilst the raw data came from Our World of Data. For the references to these articles and the raw data see the [References](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/edit/master/Example_markdowns/BBC_overwhelming.md#colorpurpletextreferences) section below. This data was used to create the figure below. 
+The BBC looked at data on the total plastic contributed to the ocean by each country, and on what types of plastic waste each gloabl region contributes. This data came from journal articles in the scientific journals *Science Advances* and *Nature*, respectively, whilst the raw data came from Our World of Data. For the references to these articles and the raw data see the [References](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/Example_markdowns/BBC_overwhelming.md#colorpurpletextreferences) section below. This data was used to create the figure below. 
 
 From the below figure we can see that the five main contributors to ocean plastic are bottle lids, drink cans, food cans, clothing, and fishing nets, however drink cans are the main contributor. We can also see that the countries contributing the most plastic to the oceans include Brazil, China, and India.
 
