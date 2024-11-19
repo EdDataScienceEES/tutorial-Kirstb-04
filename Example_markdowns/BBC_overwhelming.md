@@ -16,7 +16,7 @@
 $\color{blue}{\text{Member\ of\ the\ BBC\ data\ visualisation\ team}}$
 
 $\color{#FF0000}{@s2359118}$
-> 29th of October 2024
+> $\color{Purple}{\text{29th\ of\ October\ 2024}}$
 
 
 
@@ -43,7 +43,7 @@ The BBC looked at data on the total plastic contributed to the ocean by each cou
 
 From the below figure we can see that the five main contributors to ocean plastic are bottle lids, drink cans, food cans, clothing, and fishing nets, however drink cans are the main contributor. We can also see that the countries contributing the most plastic to the oceans include Brazil, China, and India.
 
-**A note about the graph section of the figure:** only the top five most common waste items were included as they accounted for 60 % of all plastic waste.
+$\color{Purple}{\text{A\ note\ about\ the\ graph\ section\ of\ the\ figure:\}}$ only the top five most common waste items were included as they accounted for 60 % of all plastic waste.
 
 
 
@@ -54,15 +54,15 @@ From the below figure we can see that the five main contributors to ocean plasti
 > The right panel on this figure shows the share of global plastics emitted to the ocean as a percentage for each country; the grey colour means that there is no data present for that country
 
 
-Plastic pollution is a global issue which is leading to harmful consequences for our marine environments. However, through the use of scientific data we can pinpoint where this plastic is coming from, and the key plastic items that we need to phase out of our lives.
+<ins>_**Plastic pollution is a global issue which is leading to harmful consequences for our marine environments. However, through the use of scientific data we can pinpoint where this plastic is coming from, and the key plastic items that we need to phase out of our lives.**_</ins>
 
 <img align="right" width="500" height="350" src="https://github.com/user-attachments/assets/1d588cf9-43ca-44ab-a54b-3fa4d9308ff3" />
 
 
 
-### $\color{Purple}{\text{References}}$
-* [The journal article](https://www.science.org/doi/10.1126/sciadv.aaz5803) on total plastic contributed to the ocean by each country - [Accompanying raw data](https://ourworldindata.org/grapher/share-of-global-plastic-waste-emitted-to-the-ocean)
-* [The journal article](https://www.nature.com/articles/s41893-021-00720-8) on the types of plastic each gloabl region contributes to the ocean - [Accompanying raw data](https://ourworldindata.org/grapher/waste-items-ocean-region)
+### $\color{Green}{\text{References}}$
+* **[The journal article](https://www.science.org/doi/10.1126/sciadv.aaz5803) on total plastic contributed to the ocean by each country - [Accompanying raw data](https://ourworldindata.org/grapher/share-of-global-plastic-waste-emitted-to-the-ocean)**
+* **[The journal article](https://www.nature.com/articles/s41893-021-00720-8) on the types of plastic each gloabl region contributes to the ocean - [Accompanying raw data](https://ourworldindata.org/grapher/waste-items-ocean-region)**
 
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/66539a0b-a874-49e7-b256-f486b6788d61">
 
