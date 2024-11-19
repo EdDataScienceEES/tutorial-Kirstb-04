@@ -28,6 +28,8 @@ Alongside this giant leap in consumption however, there has also been a drastic 
 
 However recent scientific research looks at which countries this plastic comes from and what it’s composed of. By knowing which countries and specific items contribute most to the plastic waste being introduced into our oceans, we can better focus our efforts on the countries contributing the most, and can be more efficient in choosing which plastic items to phase out/find sustainable alternatives for.
 
+![image](https://github.com/user-attachments/assets/8b2d717a-7ae9-44d4-a25f-148f73bef971)
+
 
 ## The Research
 The BBC looked at data on the total plastic contributed to the ocean by each country, and on what types of plastic waste each gloabl region contributes. This data came from journal articles in the scientific journals *Science Advances* and *Nature*, respectively, whilst the raw data came from Our World of Data. For the references to these articles and the raw data see the [References](#References) section below. This data was used to create the figure below. 
