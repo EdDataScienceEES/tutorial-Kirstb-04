@@ -6,7 +6,7 @@
 >Plastic waste can harm marine animals; they can mistake it for food, and can also get caught in it
 
 #### Kirsty Booth
-*Member of the BBC data visualisation team*
+Member of the BBC data visualisation team
 
 $\color{#FF0000}{@s2359118}$
 > 29th of October 2024
