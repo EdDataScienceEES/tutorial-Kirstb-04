@@ -40,7 +40,7 @@ This tutorial follows on from the [Intro to Github for version control](https://
 - How to create automatic copying
 - How to add spacing into your Markdown
 
-3. **Bonus section - General tips for a professional markdown**
+3. **Bonus section** - General tips for a professional markdown
 
 ## 1a. Moving files and folders about in Github
 
