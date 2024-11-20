@@ -7,7 +7,7 @@
 
 # Plastic in our oceans: $\color{blue}{\text{Where\ does\ it\ come\ from?}}$
 
-<img width="750" alt="image" src="https://github.com/user-attachments/assets/928fe335-151d-45cb-bede-c3c7bb6a1777">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/928fe335-151d-45cb-bede-c3c7bb6a1777">
 
 >*Plastic waste can harm marine animals; they can mistake it for food, and can also get caught in it*
 
@@ -43,7 +43,7 @@ The BBC looked at data on the total plastic contributed to the ocean by each cou
 
 From the below figure we can see that the five main contributors to ocean plastic are bottle lids, drink cans, food cans, clothing, and fishing nets, however drink cans are the main contributor. We can also see that the countries contributing the most plastic to the oceans include Brazil, China, and India.
 
-$\color{Purple}{\text{A\ note\ about\ the\ graph\ section\ of\ the\ figure:\}}$ only the top five most common waste items were included as they accounted for 60 % of all plastic waste.
+$\color{Orange}{\text{A\ note\ about\ the\ graph\ section\ of\ the\ figure:\}}$ only the top five most common waste items were included as they accounted for 60 % of all plastic waste.
 
 
 
