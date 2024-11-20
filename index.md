@@ -62,7 +62,8 @@ The paragraphs of text in this example immediately gives the sense that it's mor
   
 2. [Too messy](Example_markdowns/BBC_overwhelming.md)
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/69f7b295-95ec-46f4-bf57-050efeb182ff">
+<img width="261" alt="image" src="https://github.com/user-attachments/assets/8cb7112b-fcaa-4e3a-bf9d-9b46cd2bc5db">
+
 
 
 On the other hand this example looks more like a school project than a proffessional document to be taken seriously. It has no set formatting e.g. different picture sizes and alignments, a range of text colours, and overuse of underlining and making words bold, and so looks messy and unproffessional. 
