@@ -59,8 +59,15 @@ The paragraphs of text in this example immediately gives the sense that it's mor
   
 2. [Too messy](Example_markdowns/BBC_overwhelming.md)
 
+   <img width="400" alt="image" src="https://github.com/user-attachments/assets/a26de187-f2fd-47ac-aea5-3c339b138ea7">
+
+
 On the other hand this example looks more like a school project than a proffessional document to be taken seriously. It has no set formatting e.g. different picture sizes and alignments, a range of text colours, and overuse of underlining and making words bold, and so looks messy and unproffessional. 
 
 3. [Just right](Example_markdowns/BBC_good.md)
+
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/9c9f1349-06c0-4c1a-8f36-0dff6c3910d9">
+
+
 
 This is a good mix of these two. It has a set format throughout, and only uses images and colours where necessary. It both engages the viewer but also provides only the necessary information, resulting in a concise and professional README document.
