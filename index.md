@@ -52,5 +52,5 @@ When trying to make a document look good it can be easy to under or over do-it. 
 
 For example look at these three markdown examples on creating a BBC news story:
 1. [Too simple](Example_markdowns/BBC_too_simple.md)
-2. Too messy
-3. Just right
+2. [Too messy](Example_markdowns/BBC_overwhelming.md)
+3. [Just right](Example_markdowns/BBC_good.md)
