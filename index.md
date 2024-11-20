@@ -59,7 +59,7 @@ For example look at these three markdown examples on creating a BBC news story:
 
 The paragraphs of text in **example 1** immediately gives the sense that it's more of an essay than a README document, and it therefore doesn't engage or entice the viewer to read on. 
 
-**Example 2** on the otherhand looks more like a school project than a proffessional document to be taken seriously. It has no set formatting e.g. different picture sizes and alignments, a range of text colours, and underlined words when unnecessary, and so looks messy and unproffessional. 
+On the other hand **Example 2** looks more like a school project than a proffessional document to be taken seriously. It has no set formatting e.g. different picture sizes and alignments, a range of text colours, and underlined words when unnecessary, and so looks messy and unproffessional. 
 
 **Example 3** is a good mix of these two. It has a set format throughout, and only uses images and colours where necessary. For example, the BBC news logo at the top immediately informs the viewer of what they're reading. a BBC news story (well, a mock up of one)
 
