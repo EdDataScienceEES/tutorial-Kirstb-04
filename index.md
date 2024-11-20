@@ -48,7 +48,7 @@ This tutorial follows on from the [Intro to Github for version control](https://
 
 ## 3. Bonus section - General tips for a professional markdown
 
-The style and layout of your markdown will vary depending on your specific project and if you have to follow specific instructions, but these are some general tips of what to do and what not to do, read on to find out!
+The style and layout of your markdown will vary depending on your specific project, but these are some general tips that will no doubt apply to many situations, read on to find out!
 
 When trying to make a document look good it can be easy to under or over do-it. Plain black and white text is proffessional right? Adding lots of colours and pictures will make it more interesing! No and no. It's tricky but you need to find a balance. A plain document can be boring and tedious to read, whilst a document that uses an array of colours and pictures without adding to the readers understanding, can be overwhelming and unproffessional. 
 
@@ -59,8 +59,8 @@ The paragraphs of text in this example immediately gives the sense that it's mor
   
 2. [Too messy](Example_markdowns/BBC_overwhelming.md)
 
-On the other hand this exaple looks more like a school project than a proffessional document to be taken seriously. It has no set formatting e.g. different picture sizes and alignments, a range of text colours, and overuse of underlining and making words bold, and so looks messy and unproffessional. 
+On the other hand this example looks more like a school project than a proffessional document to be taken seriously. It has no set formatting e.g. different picture sizes and alignments, a range of text colours, and overuse of underlining and making words bold, and so looks messy and unproffessional. 
 
 3. [Just right](Example_markdowns/BBC_good.md)
 
-This is a good mix of these two. It has a set format throughout, and only uses images and colours where necessary. It both engages the viewer but also provides only the necessary information to create a concise and professional README document.
+This is a good mix of these two. It has a set format throughout, and only uses images and colours where necessary. It both engages the viewer but also provides only the necessary information, resulting in a concise and professional README document.
