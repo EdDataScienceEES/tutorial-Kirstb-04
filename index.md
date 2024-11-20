@@ -23,9 +23,9 @@ This tutorial follows on from the [Intro to Github for version control](https://
 
 1. **Github**
 - [Moving files about in github](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1a-moving-files-about-in-github)
-- Changing file names
-- Undoing commits 
-- Merge conflicts - what do they mean?
+- [Changing file names](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/edit/master/index.md#1b-changing-file-names)
+- [Undoing commits](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/edit/master/index.md#1c-undoing-commits)
+- [Merge Conflicts - what do they mean? ](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/edit/master/index.md#1d-merge-conflicts---what-do-they-mean)
 2. **Formatting a markdown**
 - Adding images
 - Changing image and text size/alignment
@@ -42,9 +42,15 @@ This tutorial follows on from the [Intro to Github for version control](https://
 
 3. **Bonus section** - General tips for a professional markdown
 
-## 1a. Moving files about in Github
+## 1a. Moving Files About in Github
 
-One of the first things I struggled with when I first started to use Github was how to move files. I got very frustrated but soon realised there are actually multiple ways you can do this. The first way (and I find the easiest) is to manually 
+One of the first things I struggled with when I first started to use Github was how to move files. I got very frustrated but soon realised there are actually multiple ways you can do this. The first way (and I find the easiest) is to manually
+
+## 1b. Changing File Names
+
+## 1c. Undoing Commits
+
+## 1d. Merge conflicts - what do they mean?
 
 ## 3. Bonus section - General tips for a professional markdown
 
