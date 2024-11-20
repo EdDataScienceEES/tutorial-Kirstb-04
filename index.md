@@ -50,7 +50,7 @@ This tutorial follows on from the [Intro to Github for version control](https://
 
 The style and layout of your markdown will vary depending on your specific project, but these are some general tips that will no doubt apply to many situations, read on to find out!
 
-When trying to make a document look good it can be easy to under or over do-it. Plain black and white text is proffessional right? Adding lots of colours and pictures will make it more interesing! No and no. It's tricky but you need to find a balance. A plain document can be boring and tedious to read, whilst a document that uses an array of colours and pictures without adding to the readers understanding, can be overwhelming and unproffessional. 
+When trying to make a document look good it can be easy to under or over do-it. Plain black and white text is proffessional right? Adding lots of colours and pictures will make it more interesing! No and no. It's tricky but you need to find a balance. A plain document can be boring and tedious to read, whilst a document that uses an array of colours and pictures without adding to the readers understanding can be overwhelming and unproffessional. 
 
 For example look at these three markdown examples on creating a BBC news story:
 1. [Too simple](Example_markdowns/BBC_too_simple.md)
@@ -62,7 +62,7 @@ The paragraphs of text in this example immediately gives the sense that it's mor
   
 2. [Too messy](Example_markdowns/BBC_overwhelming.md)
 
-<img width="261" alt="image" src="https://github.com/user-attachments/assets/8cb7112b-fcaa-4e3a-bf9d-9b46cd2bc5db">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/0480b644-01a8-4529-a29a-b276b4a0aa85">
 
 
 
@@ -70,7 +70,8 @@ On the other hand this example looks more like a school project than a proffessi
 
 3. [Just right](Example_markdowns/BBC_good.md)
 
- <img width="400" alt="image" src="https://github.com/user-attachments/assets/9c9f1349-06c0-4c1a-8f36-0dff6c3910d9">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/0c0a8227-6f44-4276-9cf9-6a18830551d9">
+
 
 
 
