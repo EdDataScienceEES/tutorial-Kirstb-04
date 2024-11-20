@@ -54,13 +54,13 @@ When trying to make a document look good it can be easy to under or over do-it. 
 
 For example look at these three markdown examples on creating a BBC news story:
 1. [Too simple](Example_markdowns/BBC_too_simple.md)
+
+The paragraphs of text in this example immediately gives the sense that it's more of an essay than a README document, and it therefore doesn't engage or entice the viewer to read on. 
+  
 2. [Too messy](Example_markdowns/BBC_overwhelming.md)
+
+On the other hand this exaple looks more like a school project than a proffessional document to be taken seriously. It has no set formatting e.g. different picture sizes and alignments, a range of text colours, and overuse of underlining and making words bold, and so looks messy and unproffessional. 
+
 3. [Just right](Example_markdowns/BBC_good.md)
 
-The paragraphs of text in **example 1** immediately gives the sense that it's more of an essay than a README document, and it therefore doesn't engage or entice the viewer to read on. 
-
-On the other hand **Example 2** looks more like a school project than a proffessional document to be taken seriously. It has no set formatting e.g. different picture sizes and alignments, a range of text colours, and overuse of underlining and making words bold, and so looks messy and unproffessional. 
-
-**Example 3** is a good mix of these two. It has a set format throughout, and only uses images and colours where necessary. It both engages the viewer but also provides only the necessary information to create a concise and professional README document.
-
-Hopefully you can see what I mean - 
+This is a good mix of these two. It has a set format throughout, and only uses images and colours where necessary. It both engages the viewer but also provides only the necessary information to create a concise and professional README document.
