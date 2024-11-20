@@ -1,7 +1,7 @@
 ![Screenshot 2024-10-29 080129](https://github.com/user-attachments/assets/669518a3-b93a-49bc-bce8-4d1c48c18c11)
 # Plastic in our oceans: where does it come from?
 
-<img width="750" alt="image" src="https://github.com/user-attachments/assets/928fe335-151d-45cb-bede-c3c7bb6a1777">
+<img width="830" alt="image" src="https://github.com/user-attachments/assets/928fe335-151d-45cb-bede-c3c7bb6a1777">
 
 >Plastic waste can harm marine animals; they can mistake it for food, and can also get caught in it
 
