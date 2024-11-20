@@ -22,7 +22,7 @@ This tutorial follows on from the [Intro to Github for version control](https://
 ## Learning Objectives of this tutorial:
 
 1. **Github**
-- [Moving files and folders about in github](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1a-moving-files-and-folders-about-in-github)
+- [Moving files about in github](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1a-moving-files-about-in-github)
 - Changing file names
 - Undoing commits 
 - Merge conflicts - what do they mean?
@@ -42,7 +42,7 @@ This tutorial follows on from the [Intro to Github for version control](https://
 
 3. **Bonus section** - General tips for a professional markdown
 
-## 1a. Moving files and folders about in Github
+## 1a. Moving files about in Github
 
 
 
