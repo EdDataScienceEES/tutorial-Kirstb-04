@@ -1,4 +1,6 @@
 **Plastic in our oceans: where does it come from?**
+
+Kirsty Booth, 29th of October 2024
  
 Plastic waste is a global issue affecting marine ecosystems across the world. It negatively impacts the marine environment in a multitude of ways, through changing the natural balance of ecosystems, as well as causing marine animals to die. However recent scientific research shows us where this ocean waste comes from and what it's made up of, which could be crucial in tackling the problem.
 
