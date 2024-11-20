@@ -48,7 +48,7 @@ This tutorial follows on from the [Intro to Github for version control](https://
 
 ## 3. Bonus section - General tips for a professional markdown
 
-The style and layout of your markdown will vary depending on your specific project and if you have to follow specific instructions, but there are some general tips of what to do and what not to do, read on to find out!
+The style and layout of your markdown will vary depending on your specific project and if you have to follow specific instructions, but these are some general tips of what to do and what not to do, read on to find out!
 
 When trying to make a document look good it can be easy to under or over do-it. Plain black and white text is proffessional right? Adding lots of colours and pictures will make it more interesing! No and no. It's tricky but you need to find a balance. A plain document can be boring and tedious to read, whilst a document that uses an array of colours and pictures without adding to the readers understanding, can be overwhelming and unproffessional. 
 
