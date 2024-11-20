@@ -18,7 +18,6 @@ Do you want to make exciting and interactive README.md files? Do you want to eas
 
 This tutorial follows on from the [Intro to Github for version control](https://ourcodingclub.github.io/tutorials/git/) Coding Club tutorial where you can learn how to connect up your R studio with Github, and how version control works (go there now if you’re completely new to Github!). For those who have completed that tutorial or are already familiar with Github, carry on reading! 
  
-<p>&nbsp;</p>
 
 ## Learning Objectives of this tutorial:
 
@@ -39,16 +38,19 @@ This tutorial follows on from the [Intro to Github for version control](https://
 - Inserting code
 - How to centre text
 - How to create automatic copying
-- How to add spaing into your Markdown
+- How to add spacing into your Markdown
 
-3. **General tips for a professional markdown**
+3. **Bonus section: General tips for a professional markdown**
 
 ## 1a. Moving files and folders about in Github
 
 
 
-## 3. General tips for a professional markdown
+## 3. Bonus section: General tips for a professional markdown
 
 When trying to make a document look good it can be easy to under or over do-it. Plain black and white text is proffessional right? Adding lots of colours and pictures will make it more interesing! No and no. It's tricky but you need to find a balance. A plain document can be boring and tedious to read, whilst a document that uses an array of colours and pictures without adding to the readers understanding, can be overwhelming and unproffessional.
 
-For example look at these three markdwon examples of a BBC news story:
+For example look at these three markdown examples on creating a BBC news story:
+1. [Too simple](Example_markdowns/BBC_too_simple.md)
+2. Too messy
+3. Just right
