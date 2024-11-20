@@ -24,8 +24,8 @@ This tutorial follows on from the [Intro to Github for version control](https://
 1. **Github**
 - [Moving files about in github](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1a-moving-files-about-in-github)
 - [Changing file names](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1b-changing-file-names)
-- [Undoing commits](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/edit/master/index.md#1c-undoing-commits)
-- [Merge Conflicts - what do they mean? ](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/edit/master/index.md#1d-merge-conflicts---what-do-they-mean)
+- [Undoing commits](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1c-undoing-commits)
+- [Merge Conflicts - what do they mean? ](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1d-merge-conflicts---what-do-they-mean)
 2. **Formatting a markdown**
 - Adding images
 - Changing image and text size/alignment
