@@ -55,21 +55,21 @@ When trying to make a document look good it can be easy to under or over do-it. 
 For example look at these three markdown examples on creating a BBC news story:
 1. [Too simple](Example_markdowns/BBC_too_simple.md)
 
-   <img width="400" alt="image" src="https://github.com/user-attachments/assets/be79bc35-17cc-496a-b7bc-a1ccb549fc5b">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/bcf290ce-08bc-49c3-b9bd-5e06e628146d">
 
 
 The paragraphs of text in this example immediately gives the sense that it's more of an essay than a README document, and it therefore doesn't engage or entice the viewer to read on. 
   
 2. [Too messy](Example_markdowns/BBC_overwhelming.md)
 
-   <img width="400" alt="image" src="https://github.com/user-attachments/assets/a26de187-f2fd-47ac-aea5-3c339b138ea7">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/69f7b295-95ec-46f4-bf57-050efeb182ff">
 
 
 On the other hand this example looks more like a school project than a proffessional document to be taken seriously. It has no set formatting e.g. different picture sizes and alignments, a range of text colours, and overuse of underlining and making words bold, and so looks messy and unproffessional. 
 
 3. [Just right](Example_markdowns/BBC_good.md)
 
-  <img width="400" alt="image" src="https://github.com/user-attachments/assets/9c9f1349-06c0-4c1a-8f36-0dff6c3910d9">
+ <img width="400" alt="image" src="https://github.com/user-attachments/assets/9c9f1349-06c0-4c1a-8f36-0dff6c3910d9">
 
 
 
