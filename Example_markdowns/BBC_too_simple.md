@@ -1,8 +1,4 @@
 **Plastic in our oceans: where does it come from?**
-
-Kirsty Booth, member of the BBC data visualisation team
-
-29th of October 2024
  
 Plastic waste is a global issue affecting marine ecosystems across the world. It negatively impacts the marine environment in a multitude of ways, through changing the natural balance of ecosystems, as well as causing marine animals to die. However recent scientific research shows us where this ocean waste comes from and what it's made up of, which could be crucial in tackling the problem.
 
@@ -18,11 +14,12 @@ However recent scientific research looks at which countries this plastic comes f
 
 
 **The Research**
+
 The BBC looked at data on the total plastic contributed to the ocean by each country, and on what types of plastic waste each gloabl region contributes. This data came from journal articles in the scientific journals *Science Advances* and *Nature*, respectively, whilst the raw data came from Our World of Data. For the references to these articles and the raw data see the References section below. This data was used to create the figure below. 
 
 From the below figure we can see that the five main contributors to ocean plastic are bottle lids, drink cans, food cans, clothing, and fishing nets, however drink cans are the main contributor. We can also see that the countries contributing the most plastic to the oceans include Brazil, China, and India.
 
-**A note about the graph section of the figure:** only the top five most common waste items were included as they accounted for 60 % of all plastic waste.
+A note about the graph section of the figure: only the top five most common waste items were included as they accounted for 60 % of all plastic waste.
 
 
 
