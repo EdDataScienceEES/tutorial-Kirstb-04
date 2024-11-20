@@ -40,17 +40,24 @@ This tutorial follows on from the [Intro to Github for version control](https://
 - How to create automatic copying
 - How to add spacing into your Markdown
 
-3. **Bonus section: General tips for a professional markdown**
+3. **Bonus section - General tips for a professional markdown**
 
 ## 1a. Moving files and folders about in Github
 
 
 
-## 3. Bonus section: General tips for a professional markdown
+## 3. Bonus section - General tips for a professional markdown
 
-When trying to make a document look good it can be easy to under or over do-it. Plain black and white text is proffessional right? Adding lots of colours and pictures will make it more interesing! No and no. It's tricky but you need to find a balance. A plain document can be boring and tedious to read, whilst a document that uses an array of colours and pictures without adding to the readers understanding, can be overwhelming and unproffessional.
+The style and layout of your markdown will vary depending on your specific project and if you have to follow specific instructions, but there are some general tips of what to do and what not to do, read on to find out!
+
+When trying to make a document look good it can be easy to under or over do-it. Plain black and white text is proffessional right? Adding lots of colours and pictures will make it more interesing! No and no. It's tricky but you need to find a balance. A plain document can be boring and tedious to read, whilst a document that uses an array of colours and pictures without adding to the readers understanding, can be overwhelming and unproffessional. 
 
 For example look at these three markdown examples on creating a BBC news story:
 1. [Too simple](Example_markdowns/BBC_too_simple.md)
 2. [Too messy](Example_markdowns/BBC_overwhelming.md)
 3. [Just right](Example_markdowns/BBC_good.md)
+
+Hopefully you can see what I mean from the first two examples. 
+- Example 1 immediately gives the sense that it's more of an essay than a README document with paragraphs of text, and it therefore doesn't engage or entice the viewer to read on.
+- Example 2 on the otherhand looks more like a school project than a proffessional document to be taken seriously. It has no set formatting e.g. different picture sizes and alignments, a range of text colours, and underlined words when unnecessary, and so looks messy and unproffessional.
+- Example 3 is a good mix of these two. It has a set format throughout, and only uses images and colours where necessary. For example, the BBC news logo at the top immediately informs the viewer of what they're reading. a BBC news story (well, a mock up of one)
