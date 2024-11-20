@@ -44,7 +44,7 @@ This tutorial follows on from the [Intro to Github for version control](https://
 
 ## 1a. Moving files about in Github
 
-
+One of the first things I struggled with when I first started to use Github was how to move files. I got very frustrated but soon realised there are actually multiple ways you can do this. The first way (and I find the easiest) is to manually 
 
 ## 3. Bonus section - General tips for a professional markdown
 
