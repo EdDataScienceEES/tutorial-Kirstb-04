@@ -57,6 +57,8 @@ This tutorial follows on from the [Intro to Github for version control](https://
 
 ## 1a. Recap - what is Github?
 
+One of the most confusing things I found when I first started using Github was what is it? So to start lets answer the question 'What is Github?'. Founded in 2008, Github is an online software development programme, used by programmers to store, and collaborate on software projects. 
+
 ## 1b. Moving Files About in Github
 
 One of the first things I struggled with when I first started to use Github was how to move files. I got very frustrated but soon realised 
