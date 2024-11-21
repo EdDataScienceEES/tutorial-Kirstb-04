@@ -59,13 +59,15 @@ This tutorial follows on from the [Intro to Github for version control](https://
 
 One of the most confusing things I found when I first started using Github was what exactly am I using?? So to start lets answer the question 'What is Github?'. Founded in 2008, Github is an online software development programme, used by programmers to store, and collaborate on software projects. 
 
-Still confused? Visit these websites that go into more depth; https://blog.hubspot.com/website/what-is-github-used-for#what-github
+Still confused? Visit these websites that go into more depth: https://blog.hubspot.com/website/what-is-github-used-for#what-github
 
 ## 1b. Moving Files About in Github
 
 One of the first things I struggled with when I first started to use Github was how to move files. I got very frustrated but soon realised 
 
 ## 1c. Changing File Names & Deleting Files
+
+There are a number of ways to change file names and delete files. You can do this in R studio by commiting and pushing your changes onto Github, but my preferred way is to 
 
 ## 1d. Undoing Commits
 
@@ -112,3 +114,5 @@ On the other hand this example looks more like a school project than a proffessi
 
 
 This is a good mix of these two. It has a set format throughout, and only uses images and colours where necessary. It engages the viewer but also provides only the necessary information, resulting in a concise and professional README document.
+
+$ pandoc How_I_got_svg-resizer_working_on_Mac_OSX.md -s -o test1.pdf
