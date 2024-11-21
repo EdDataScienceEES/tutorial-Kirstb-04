@@ -69,7 +69,8 @@ One of the first things I struggled with when I first started to use Github was 
 
 ## 2. What is a Markdown?
 
-https://ourcodingclub.github.io/tutorials/rmarkdown/
+[R markdown](https://ourcodingclub.github.io/tutorials/rmarkdown/)
+
 
 ## 3a. Images and Text
 
