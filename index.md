@@ -13,7 +13,7 @@
 
 ```
 
-Do you want to make exciting and interactive README.md files? Do you want to easily change folder names, and move files about in Github but don’t know how to? Well then, this is the tutorial for you! When people are first introduced to Github they can find it confusing and hard to follow (as I did initially) but through some simple hacks and codes you will soon be a Github pro! 
+Do you want to make exciting and interactive Markdown files? Do you want to easily change folder names, and move files about in Github but don’t know how to? Well then, this is the tutorial for you! When people are first introduced to Github they can find it confusing and hard to follow (as I did initially) but through some simple hacks and codes you will soon be a Github pro! 
 
 
 This tutorial follows on from the [Intro to Github for version control](https://ourcodingclub.github.io/tutorials/git/) Coding Club tutorial where you can learn how to connect up your R studio with Github, and how version control works (go there now if you’re completely new to Github). For those who have completed that tutorial or are already familiar with Github, carry on reading! 
