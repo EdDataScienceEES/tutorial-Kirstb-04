@@ -51,6 +51,8 @@ This tutorial follows on from the [Intro to Github for version control](https://
 - Sectioning your readme
 - How to add spacing into your Markdown
 
+<p>&nbsp;</p>
+
 4. **Bonus section** - General tips for a professional markdown
 
 ## 1a. Recap - what is Github?
