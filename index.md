@@ -27,17 +27,18 @@ This tutorial follows on from the [Intro to Github for version control](https://
 - [Undoing commits](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1c-undoing-commits)
 - [Merge Conflicts - what do they mean? ](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1d-merge-conflicts---what-do-they-mean)
 2. **Formatting a markdown**
+*Images and Text*
 - Adding images
-- Changing image and text size/alignment
-- Changing text colours
+- Changing image size and alignment
+- Text (bold, italic, headings, fonts, and colours)
+- Changing text size and alignment
+- Adding quotes
+- Inserting code & automatic copying
+*Adding Links*
 - Linking within Github
 - Linking outwith Github
-- Adding quotes
+*General formatting*
 - Sectioning your readme
-- Text (bold, italic, headings)
-- Inserting code
-- How to centre text
-- How to create automatic copying
 - How to add spacing into your Markdown
 
 3. **Bonus section** - General tips for a professional markdown
