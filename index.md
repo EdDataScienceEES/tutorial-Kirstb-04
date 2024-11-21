@@ -22,6 +22,7 @@ This tutorial follows on from the [Intro to Github for version control](https://
 ## Learning Objectives of this tutorial:
 
 1. **Github**
+- Recap - what is Github?
 - [Moving files about in github](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1a-moving-files-about-in-github)
 - [Changing file names](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1b-changing-file-names)
 - [Undoing commits](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1c-undoing-commits)
@@ -52,15 +53,17 @@ This tutorial follows on from the [Intro to Github for version control](https://
 
 4. **Bonus section** - General tips for a professional markdown
 
-## 1a. Moving Files About in Github
+## 1a. Recap - what is Github?
+
+## 1b. Moving Files About in Github
 
 One of the first things I struggled with when I first started to use Github was how to move files. I got very frustrated but soon realised 
 
-## 1b. Changing File Names
+## 1c. Changing File Names
 
-## 1c. Undoing Commits
+## 1d. Undoing Commits
 
-## 1d. Merge conflicts - what do they mean?
+## 1e. Merge conflicts - what do they mean?
 
 ## 2. What is a markdown?
 
