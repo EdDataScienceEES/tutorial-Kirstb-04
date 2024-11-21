@@ -62,6 +62,10 @@ One of the first things I struggled with when I first started to use Github was 
 
 ## 1d. Merge conflicts - what do they mean?
 
+## 2. What is a markdown?
+
+https://ourcodingclub.github.io/tutorials/rmarkdown/
+
 ## 4. Bonus section - General tips for a professional markdown
 
 The style and layout of your markdown will vary depending on your specific project, but these are some general tips that are good to keep in mind, read on to find out!
