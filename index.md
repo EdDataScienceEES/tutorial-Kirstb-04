@@ -67,7 +67,7 @@ One of the first things I struggled with when I first started to use Github was 
 
 ## 1c. Changing File Names & Deleting Files
 
-There are a number of ways to change file names and delete files. You can do this in R studio by commiting and pushing your changes onto Github, but my preferred way is to 
+There are a number of ways to change file names and delete files. You can do this in R studio, but my preferred way is to 
 
 ## 1d. Undoing Commits
 
@@ -114,5 +114,3 @@ On the other hand this example looks more like a school project than a proffessi
 
 
 This is a good mix of these two. It has a set format throughout, and only uses images and colours where necessary. It engages the viewer but also provides only the necessary information, resulting in a concise and professional README document.
-
-$ pandoc How_I_got_svg-resizer_working_on_Mac_OSX.md -s -o test1.pdf
