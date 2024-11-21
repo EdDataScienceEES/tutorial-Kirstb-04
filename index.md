@@ -71,6 +71,12 @@ One of the first things I struggled with when I first started to use Github was 
 
 https://ourcodingclub.github.io/tutorials/rmarkdown/
 
+## 3a. Images and text
+
+## 3b. Adding links
+
+## 3c. General formatting
+
 ## 4. Bonus section - General tips for a professional markdown
 
 The style and layout of your markdown will vary depending on your specific project, but these are some general tips that are good to keep in mind, read on to find out!
