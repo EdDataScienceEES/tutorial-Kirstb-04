@@ -63,11 +63,11 @@ Still confused? Visit these websites that go into more depth: https://blog.hubsp
 
 ## 1b. Moving Files About in Github
 
-One of the first things I struggled with when I first started to use Github was how to move files. I got very frustrated but soon realised 
+ 
 
 ## 1c. Changing File Names & Deleting Files
 
-There are a number of ways to change file names and delete files. You can do this in R studio, but my preferred way is to 
+There are a number of ways to change file names and delete files. You can do this in R studio, but my preferred way is to use 
 
 ## 1d. Undoing Commits
 
@@ -83,6 +83,15 @@ There are a number of ways to change file names and delete files. You can do thi
 ## 3b. Adding Links
 
 ## 3c. General Formatting
+
+```diff
+<details>
+<summary> Your section title </summary>
+
+Your section contents
+
+</details>
+```
 
 ## 4. Bonus Section - General tips for a professional markdown
 
