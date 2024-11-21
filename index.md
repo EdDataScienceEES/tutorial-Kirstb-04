@@ -59,7 +59,8 @@ This tutorial follows on from the [Intro to Github for version control](https://
 
 One of the most confusing things I found when I first started using Github was what exactly am I using?? So to start lets answer the question 'What is Github?'. Founded in 2008, Github is an online software development programme, used by programmers to store, and collaborate on software projects. 
 
-Still confused? Visit these websites that go into more depth: https://blog.hubspot.com/website/what-is-github-used-for#what-github
+Still confused? Visit these websites that go into more details: 
+- https://blog.hubspot.com/website/what-is-github-used-for#what-github
 
 ## 1b. Moving Files About in Github
 
@@ -67,7 +68,18 @@ Still confused? Visit these websites that go into more depth: https://blog.hubsp
 
 ## 1c. Changing File Names & Deleting Files
 
-There are a number of ways to change file names and delete files. You can do this in R studio, but my preferred way is to use 
+There are a number of ways that you can change file names and delete files. You can makes changes in R studio (if you have connected your Github repository and your R studio), in your Github repository, or you can use the Github web editor. 
+
+Changing names
+
+- In Github
+- In R
+- Using the Github web editor 
+
+Deleting files
+
+- In R
+- Using the Github web editor 
 
 ## 1d. Undoing Commits
 
@@ -92,6 +104,8 @@ Your section contents
 
 </details>
 ```
+
+You may have noticed that no matter how many times you hit 'Enter' in your markdown code as soon as you click 'Preview' 
 
 ## 4. Bonus Section - General tips for a professional markdown
 
