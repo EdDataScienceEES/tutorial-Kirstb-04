@@ -72,7 +72,7 @@ The paragraphs of text in this example makes it seem more like an essay than a R
 
 
 
-On the other hand this example looks more like a school project than a proffessional document to be taken seriously. It has no set formatting e.g. different picture sizes and alignments, a range of text colours, and overuse of underlining and making words bold, and so looks messy and unproffessional. 
+On the other hand this example looks more like a school project than a proffessional document to be taken seriously. It has no set formatting e.g. different picture sizes and alignments, a range of text colours, and overuse of underlining and making words bold, and so it looks messy and unproffessional. 
 
 3. [Just right](Example_markdowns/BBC_good.md)
 
