@@ -64,7 +64,7 @@ For example look at these three markdown examples on creating a BBC news story:
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/bcf290ce-08bc-49c3-b9bd-5e06e628146d">
 
 
-The paragraphs of text in this example immediately gives the sense that it's more of an essay than a README document, and it therefore doesn't engage or entice the viewer to read on. 
+The paragraphs of text in this example makes it seem more like an essay than a README document, and it therefore doesn't engage or entice the viewer to read on. 
   
 2. [Too messy](Example_markdowns/BBC_overwhelming.md)
 
