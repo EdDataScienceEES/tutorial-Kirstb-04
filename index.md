@@ -5,7 +5,7 @@
 <p>&nbsp;</p>
 
 
- # Making the most of GitHub - Github hacks, markdown formatting & general tips
+ # Making the Most of GitHub - Github hacks, markdown formatting & general tips
 
 *Created by Kirsty (November 2024)*
 
@@ -19,18 +19,18 @@ Do you want to make exciting and interactive README.md files? Do you want to eas
 This tutorial follows on from the [Intro to Github for version control](https://ourcodingclub.github.io/tutorials/git/) Coding Club tutorial where you can learn how to connect up your R studio with Github, and how version control works (go there now if you’re completely new to Github). For those who have completed that tutorial or are already familiar with Github, carry on reading! 
  
 
-## Learning Objectives of this tutorial:
+## Tutorial Aims:
 
 1. **Github**
 - Recap - what is Github?
 - [Moving files about in github](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1a-moving-files-about-in-github)
-- [Changing file names & deleting files](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1b-changing-file-names-&-deleting-files)
-- [Undoing commits](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1c-undoing-commits)
+- [Changing File Names & Deleting Files](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1b-changing-file-names-&-deleting-files)
+- [Undoing Commits](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1c-undoing-commits)
 - [Merge Conflicts - what do they mean? ](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1d-merge-conflicts---what-do-they-mean)
 
-2. **What is a markdown?**
+2. **What is a Markdown?**
 
-3. **Formatting a markdown**
+3. **Formatting a Markdown**
   
 *Images and Text*
 
@@ -46,14 +46,14 @@ This tutorial follows on from the [Intro to Github for version control](https://
 - Linking within Github
 - Linking outwith Github
   
-*General formatting*
+*General Formatting*
 
-- Sectioning your readme
-- How to add spacing into your Markdown
+- Sectioning your markdown
+- How to add spacing into your markdown
 
 <p>&nbsp;</p>
 
-4. **Bonus section** - General tips for a professional markdown
+4. **Bonus Section** - General tips for a professional markdown
 
 ## 1a. Recap - what is Github?
 
@@ -61,23 +61,23 @@ This tutorial follows on from the [Intro to Github for version control](https://
 
 One of the first things I struggled with when I first started to use Github was how to move files. I got very frustrated but soon realised 
 
-## 1c. Changing File Names & deleting files
+## 1c. Changing File Names & Deleting Files
 
 ## 1d. Undoing Commits
 
-## 1e. Merge conflicts - what do they mean?
+## 1e. Merge Conflicts - what do they mean?
 
-## 2. What is a markdown?
+## 2. What is a Markdown?
 
 https://ourcodingclub.github.io/tutorials/rmarkdown/
 
-## 3a. Images and text
+## 3a. Images and Text
 
-## 3b. Adding links
+## 3b. Adding Links
 
-## 3c. General formatting
+## 3c. General Formatting
 
-## 4. Bonus section - General tips for a professional markdown
+## 4. Bonus Section - General tips for a professional markdown
 
 The style and layout of your markdown will vary depending on your specific project, but these are some general tips that are good to keep in mind, read on to find out!
 
