@@ -81,4 +81,4 @@ On the other hand this example looks more like a school project than a proffessi
 
 
 
-This is a good mix of these two. It has a set format throughout, and only uses images and colours where necessary. It both engages the viewer but also provides only the necessary information, resulting in a concise and professional README document.
+This is a good mix of these two. It has a set format throughout, and only uses images and colours where necessary. It engages the viewer but also provides only the necessary information, resulting in a concise and professional README document.
