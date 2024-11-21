@@ -26,7 +26,10 @@ This tutorial follows on from the [Intro to Github for version control](https://
 - [Changing file names](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1b-changing-file-names)
 - [Undoing commits](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1c-undoing-commits)
 - [Merge Conflicts - what do they mean? ](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1d-merge-conflicts---what-do-they-mean)
-2. **Formatting a markdown**
+
+2. **What is a markdown?**
+
+3. **Formatting a markdown**
   
 *Images and Text*
 
@@ -47,7 +50,7 @@ This tutorial follows on from the [Intro to Github for version control](https://
 - Sectioning your readme
 - How to add spacing into your Markdown
 
-3. **Bonus section** - General tips for a professional markdown
+4. **Bonus section** - General tips for a professional markdown
 
 ## 1a. Moving Files About in Github
 
@@ -59,7 +62,7 @@ One of the first things I struggled with when I first started to use Github was 
 
 ## 1d. Merge conflicts - what do they mean?
 
-## 3. Bonus section - General tips for a professional markdown
+## 4. Bonus section - General tips for a professional markdown
 
 The style and layout of your markdown will vary depending on your specific project, but these are some general tips that are good to keep in mind, read on to find out!
 
