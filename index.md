@@ -36,7 +36,7 @@ This tutorial follows on from the [Intro to Github for version control](https://
 
 - Adding images
 - Changing image size and alignment
-- Text (bold, italic, headings, fonts, and colours)
+- Text (bold, italic, headings, fonts, colours, highlighting)
 - Changing text size and alignment
 - Adding quotes
 - Inserting code & automatic copying
@@ -57,9 +57,9 @@ This tutorial follows on from the [Intro to Github for version control](https://
 
 ## 1a. Recap - what is Github?
 
-One of the most confusing things I found when I first started using Github was what exactly am I using?? So to start lets answer the question 'What is Github?'. Founded in 2008, Github is an online software development programme, used by programmers to store, and collaborate on software projects. 
+One of the first things I struggled with when I first started using Github was not fully understanding what Github is. So to start lets answer the question **'What is Github?'**. Founded in 2008, Github is an online software development programme, used by programmers to store, track, and collaborate on software projects. 
 
-Still confused? Visit these websites that go into more details: 
+<mark>Still confused? Visit these websites that go into more detail on what Github is and what it's used for:</mark>
 - https://blog.hubspot.com/website/what-is-github-used-for#what-github
 
 ## 1b. Moving Files About in Github
@@ -68,7 +68,7 @@ Still confused? Visit these websites that go into more details:
 
 ## 1c. Changing File Names & Deleting Files
 
-There are a number of ways that you can change file names and delete files. You can makes changes in R studio (if you have connected your Github repository and your R studio), in your Github repository, or you can use the Github web editor. 
+There are a number of ways that you can change file names and delete files. You can makes changes in R studio (if you have connected your Github repository and your R studio), you can make changes in your Github repository, or you can use the Github web editor. 
 
 Changing names
 
@@ -87,6 +87,7 @@ Deleting files
 
 ## 2. What is a Markdown?
 
+A markdown is a document which uses the Markdown markup coding language (confusing names I know!) 
 [R markdown](https://ourcodingclub.github.io/tutorials/rmarkdown/)
 
 
