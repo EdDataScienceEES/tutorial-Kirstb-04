@@ -9,7 +9,7 @@
 
 *Created by Kirsty (November 2024)*
 
-For some background on why I chose this tutorial topic see the main [README.md](tutorial_Kirstb_04/README.md) document for this repository.
+For some background on why I chose this tutorial topic see the main [README.md](README.md) document for this repository.
 
 Do you want to make exciting and interactive Markdown files? Do you want to easily change folder names, and move files about in Github but don’t know how to? Well then, this is the tutorial for you! When people are first introduced to Github they can find it confusing and hard to follow (as I did initially) but through some simple hacks and codes you will soon be a Github pro! 
 
