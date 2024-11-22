@@ -5,7 +5,7 @@
 <p>&nbsp;</p>
 
 
- # Making the Most of GitHub - Github hacks, markdown formatting & general tips
+ # Making the Most of GitHub - Github hacks, Markdown formatting & general tips
 
 _Created by Kirsty (November 2024) - For some background on why I chose this tutorial topic see the main [README.md](README.md) document of this repository._
 
@@ -44,12 +44,12 @@ This tutorial follows on from the [Intro to Github for version control](https://
   
 *General Formatting*
 
-- Sectioning your markdown
-- How to add spacing into your markdown
+- Sectioning your Markdown
+- How to add spacing into your Markdown
 
 <p>&nbsp;</p>
 
-4. **Bonus Section** - General tips for a professional markdown
+4. **Bonus Section** - General tips for a professional Markdown
 
 ## 1a. Recap - what is Github?
 
@@ -83,8 +83,8 @@ Deleting files
 
 ## 2. What is a Markdown?
 
-A markdown is a document which uses the Markdown markup coding language (confusing names I know!) 
-[R markdown](https://ourcodingclub.github.io/tutorials/rmarkdown/)
+A Markdown is a document which uses the Markdown markup coding language (confusing names I know!) 
+[R Markdown](https://ourcodingclub.github.io/tutorials/rmarkdown/)
 
 
 ## 3a. Images and Text
@@ -162,21 +162,21 @@ Your section contents
 </details>
 ```
 
-You may have noticed that no matter how many times you hit 'Enter' in your markdown code as soon as you click 'Preview' 
+You may have noticed that no matter how many times you hit 'Enter' in your Markdown code as soon as you click 'Preview' 
 
-## 4. Bonus Section - General tips for a professional markdown
+## 4. Bonus Section - General tips for a professional Markdown
 
-The style and layout of your markdown will vary depending on your specific project, but these are some general tips that are good to keep in mind, read on to find out!
+The style and layout of your Markdown will vary depending on your specific project, but in this section I will go over some general tips that are good to keep in mind!
 
 When trying to make a document look good it can be easy to under or over do-it. Plain black and white text is proffessional right? Adding lots of colours and pictures will make it more interesing! No and no. It's tricky but you need to find a balance. A plain document can be boring and tedious to read, whilst a document that uses an array of colours and pictures without adding to the readers understanding can be overwhelming and unproffessional. 
 
-For example look at these three markdown examples on creating a BBC news story:
+For example look at these three Markdown examples on creating a BBC news story:
 1. [Too simple](Example_markdowns/BBC_too_simple.md)
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/bcf290ce-08bc-49c3-b9bd-5e06e628146d">
 
 
-The paragraphs of text in this example makes it seem more like an essay than a README document, and it therefore doesn't engage or entice the viewer to read on. 
+The paragraphs of text in this example makes it seem more like an essay than a Markdown document, and it therefore doesn't engage or entice the viewer to read on. 
   
 2. [Too messy](Example_markdowns/BBC_overwhelming.md)
 
@@ -193,4 +193,4 @@ On the other hand this example looks more like a school project than a proffessi
 
 
 
-This is a good mix of these two. It has a set format throughout, and only uses images and colours where necessary. It engages the viewer but also provides only the necessary information, resulting in a concise and professional README document.
+This is a good mix of the two above examples. It has a set format throughout, and only uses images and colours where necessary. It engages the viewer but also provides only the necessary information, resulting in a concise and professional Markdown document.
