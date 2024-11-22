@@ -5,7 +5,7 @@
 <p>&nbsp;</p>
 
 
- # Making the Most of GitHub - Github hacks, Markdown formatting & general tips
+ # Making the Most of GitHub - Github basics, Markdown formatting & general tips
 
 _Created by Kirsty (November 2024) - For some background on why I chose this tutorial topic see the main [README](README.md) document of this repository._
 
