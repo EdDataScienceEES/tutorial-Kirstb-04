@@ -96,17 +96,51 @@ Deleting files
 
 ## 1d. Reverting Commits
 
-You have to be very cafeful when reverting commits as you need to make sure that people haven't already pulled the commit your trying to revert. In the majority of cases it is best to just manually edit the file to get rid of the changes you just commited. You can do this by going onto your commits, and then you can select the commit that you made the changes on (in this example lets say you want to change 'Adding to section 1D'). 
+Ever mistakenly made a commit that you desperately want to take back? Don't worry we've all done it. Simply use the Github web editor to revert your commit. 
 
-<img width="925" alt="Screenshot 2024-11-22 152608" src="https://github.com/user-attachments/assets/e93fc2dd-660b-4148-935f-d751284d2498">
+First you need to copy the id code of the commit your wanting to convert.
+- Go into your commit history
 
-<img width="933" alt="Screenshot 2024-11-22 153013" src="https://github.com/user-attachments/assets/0829410c-8d82-417f-ae3e-95649687f466">
+<img width="676" alt="Screenshot 2024-11-22 155851" src="https://github.com/user-attachments/assets/db009ca0-02ac-44f0-9565-044385bcb833">
 
-Once you're on the commit, the red boxes show what you deleted and the green boxes show what you added. This allows you to see what you need to change back in your document. 
+<p>&nbsp;</p>
 
-<img width="793" alt="image" src="https://github.com/user-attachments/assets/48fb15ce-0564-4648-89ce-0dd68ae26c98">
+- Then copy the id code
+
+<img width="930" alt="Screenshot 2024-11-22 155511" src="https://github.com/user-attachments/assets/31ce3b36-5905-4f11-bc9b-098bbef000fc">
+
+You then need to open the Github web page editor. To do this go to your repository home page and press **.**.
+- You should get a page that looks something like this.
+
+<img width="955" alt="Screenshot 2024-11-22 160336" src="https://github.com/user-attachments/assets/1de26c52-b74a-40c9-82f4-e22e7cd0b989">
+
+- You then need to select 'Continue working in Github code spaces' so that you can work in an environment where you can run code. Once you've done this you should be taken to a sepearate page called **Codespace**. Here is where you revert your commit.
+- At the bottom of the **Codespace** page you will have a terminal where you can type in code. After the $ type **git revert** and then paste your commit id and press enter.
+
+<img width="692" alt="Screenshot 2024-11-22 160919" src="https://github.com/user-attachments/assets/73ecf72c-0047-43f1-b41b-a7e0084f95d8">
+
+Now if it was a merge commit like the below then you will need a slightly different code. After the $ type **git revert -m 1** and then paste your commit id and press enter.
+
+<img width="494" alt="image" src="https://github.com/user-attachments/assets/23adc034-247d-4564-a66c-77130682c2a1">
+
+Once you have run the code you need to go onto the **Source Control** tab where you can commit your revert.
+
+<img width="949" alt="Screenshot 2024-11-22 161724" src="https://github.com/user-attachments/assets/0f784f74-081e-4d3e-9016-9cc8fd5a25c6">
+
+Finally you sync the changes, cross the page and return to your repository.
+
+<img width="227" alt="Screenshot 2024-11-22 161942" src="https://github.com/user-attachments/assets/13e57c9b-6ad9-4653-91b6-3f7735061cb6">
+
+In your repository check that your revert was successful. You should have a new commit that looks like this.
+
+<img width="298" alt="image" src="https://github.com/user-attachments/assets/27d900f3-1aff-4141-98bb-8eadad9da3f0">
 
 
+
+
+
+
+You have to be very cafeful when reverting commits as you need to make sure that people haven't already pulled the commit your trying to revert, especially if you are reverting a commit you made to the master branch.
 
 
 ## 1e. Merge Conflicts - what do they mean?
