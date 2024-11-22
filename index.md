@@ -62,16 +62,17 @@ To fully understand Github you first need to understand what Git is. First relea
 - <mark>Files for particular projects are saved in **repositories** </mark> (or repos as they are often referred to), which are essentially storage spaces for all of the files relating to your project. 
 - <mark>Another word that you'll come across when using Github is **branches**. </mark> Your repositories contain the master branch which is the main code of the repository. From this master branch you can create other branches where you can experiment with the code without having to change the main code. If you are happy with changes you have made in your branch you can then commit them to the master branch. This means that you can safely experiment with code without interfering with the main code 
 
-This leads us to Github which essentially acts as the cloud for Git. Github is a cloud-based system that holds all of your Git repositories and is specifically designed to make managing your repositories easier. For instance Github has pull requests. This is when you request to merge changes from one branch to another branch, collaborators can then discuss and examine the changes before commiting the changes to another branch. There is also an **issues tab** in Github repositories where you can flag issues you are having with your collaborators and you can then discuss ways of resolving them. A final note about Github is that its repositories are largely open to the public, making collaborating and discussing with the wider programming community easier
+This leads us to Github which essentially acts as the cloud for Git. Github is a cloud-based system that holds all of your Git repositories and is specifically designed to make managing your repositories easier. For instance Github has **pull requests**. This is when you request to merge changes from one branch to another branch, collaborators can then discuss and examine the changes before commiting the changes to another branch. There is also an **issues tab** in Github repositories where you can flag issues you are having with your collaborators and you can then discuss ways of resolving them. A final note about Github is that its repositories are largely open to the public, making collaborating and discussing with the wider programming community easier.
 
 <img width="641" alt="Screenshot 2024-11-22 150049" src="https://github.com/user-attachments/assets/faa81953-9701-462a-85aa-ca03bfb237d6">
 
 
  ### Essentially Git is the software and Github is the programme that hosts and manages the software. 
 
-<mark>Still confused? Visit these websites that go into more detail on what Github is and what it's used for:</mark>
+<mark>Still confused? Visit these websites that go into more detail:</mark>
 - [What is Github?](https://blog.hubspot.com/website/what-is-github-used-for#what-github)
 - [Git vs Github: Key differences](https://www.simplilearn.com/tutorials/git-tutorial/git-vs-github)
+- [Collaborating made easier on Github](https://www.gitkraken.com/blog/collaborate-on-github#:~:text=Using%20Branches%20Effectively,or%20implementing%20a%20particular%20feature.)
 
 ## 1b. Moving Files About in Github
 
