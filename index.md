@@ -9,10 +9,6 @@
 
 *Created by Kirsty (November 2024)*
 
-```diff
-
-```
-
 Do you want to make exciting and interactive Markdown files? Do you want to easily change folder names, and move files about in Github but don’t know how to? Well then, this is the tutorial for you! When people are first introduced to Github they can find it confusing and hard to follow (as I did initially) but through some simple hacks and codes you will soon be a Github pro! 
 
 
@@ -92,6 +88,46 @@ A markdown is a document which uses the Markdown markup coding language (confusi
 
 
 ## 3a. Images and Text
+
+Adding images, changing image size and alignment
+
+```diff
+<img align="left" width="150" height="100" src="https://github.com/user-attachments/assets/15e3d8bb-acb0-4014-8505-b250fbc23c71" />
+```
+
+
+Text (bold, italic, headings, fonts, colours, highlighting)
+
+- **ctrl** + **b** to automatically get the code for bold text
+
+```diff
+**Your bold text here**
+```
+
+- **ctrl** + **i** to automatically get the code for italic text
+
+```diff
+**Your italic text here**
+```
+
+Changing text size and alignment
+
+Adding quotes
+
+To add a quote simply put a **>** before your quote
+
+```diff
+> Your quote here
+```
+
+This becomes;
+
+> Your quote here
+
+Inserting code & automatic copying
+
+To add code 
+
 
 ## 3b. Adding Links
 
