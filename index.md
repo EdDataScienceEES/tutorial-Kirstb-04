@@ -21,7 +21,7 @@ This tutorial follows on from the [Intro to Github for version control](https://
 - [Recap - what is Github?](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1a-recap---what-is-github)
 - Moving files about in github
 - Changing Names & Deleting - Files and Folders
-- Reverting Commits
+- [Reverting Commits](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/edit/blob/index.md#1d-reverting-commits)
 - Merge Conflicts - what do they mean?
   
 2. **What is a Markdown?**
@@ -117,6 +117,7 @@ You then need to open the Github **web page editor**. To do this go to your repo
 <img width="955" alt="Screenshot 2024-11-22 160336" src="https://github.com/user-attachments/assets/1de26c52-b74a-40c9-82f4-e22e7cd0b989">
 
 <p>&nbsp;</p>
+
 - You then need to select **Continue working in Github Codespaces** so that you can work in an environment where you can run code. Once you've done this you should be taken to a sepearate page called **Codespace**. Here is where you revert your commit.
 - At the bottom of the **Codespace** page you will have a terminal where you can type in code. After the **$** type **git revert**, then paste your commit id, and press enter.
 
@@ -125,14 +126,17 @@ You then need to open the Github **web page editor**. To do this go to your repo
 
 <p>&nbsp;</p>
 
-<mark> **Important Note!** If it was a merge commit, like the below example, then you will need a slightly different code. After the **$** type **git revert -m 1**, then paste your commit id, and press enter </mark>
+**Important Note!** <mark> If it was a merge commit, like the below example, then you will need a slightly different code. After the **$** type **git revert -m 1**, then paste your commit id, and press enter </mark>
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/23adc034-247d-4564-a66c-77130682c2a1">
 
 <p>&nbsp;</p>
+
 Once you have run the code you need to go onto the **Source Control** tab where you can commit your revert.
 
 <img width="949" alt="Screenshot 2024-11-22 161724" src="https://github.com/user-attachments/assets/0f784f74-081e-4d3e-9016-9cc8fd5a25c6">
+
+<p>&nbsp;</p>
 
 Finally, sync the changes, cross the page, and return to your repository.
 
@@ -141,7 +145,7 @@ Finally, sync the changes, cross the page, and return to your repository.
 <p>&nbsp;</p>
 Once back to your repository check that your revert was successful. You should have a new commit that looks like this.
 
-<img width="298" alt="image" src="https://github.com/user-attachments/assets/27d900f3-1aff-4141-98bb-8eadad9da3f0">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/27d900f3-1aff-4141-98bb-8eadad9da3f0">
 
 <p>&nbsp;</p>
 
