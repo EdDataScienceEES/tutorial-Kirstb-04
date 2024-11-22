@@ -21,7 +21,7 @@ This tutorial follows on from the [Intro to Github for version control](https://
 - [Recap - what is Github?](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1a-recap---what-is-github)
 - Moving files about in github
 - Changing Names & Deleting - Files and Folders
-- [Reverting Commits](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/edit/blob/index.md#1d-reverting-commits)
+- [Reverting Commits](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1d-reverting-commits)
 - Merge Conflicts - what do they mean?
   
 2. **What is a Markdown?**
