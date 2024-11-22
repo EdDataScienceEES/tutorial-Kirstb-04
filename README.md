@@ -1,3 +1,12 @@
+# Final Assessment in Data Science 2024: Creating a tutorial
+
+**Overall Tutorial Aim:** To give the reader a comprehensive overview of how to use Github in a tutorial that will act as a part two to the coding club's 
+
+
+Although some parts may seem simple 
+
+
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6eRt7-90)
 # tutorial-instructions
 ## Instructions for Tutorial Assignment
