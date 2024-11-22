@@ -1,9 +1,8 @@
 # Final Assessment in Data Science 2024: Creating a tutorial
 
-**Overall Tutorial Aim:** To give the reader a comprehensive overview of how to use Github in a tutorial that will act as a part two to the coding club's 
+**Overall Tutorial Aim:** To give the reader a comprehensive overview of how to use Github, in a tutorial that will act as a part two to the coding club's [Intro to Github for version control](https://ourcodingclub.github.io/tutorials/git/) tutorial. 
 
-
-Although some parts may seem simple 
+When first starting the Data Science course I was completely new to Github and it took me quite a while to get to grips with it. I had never heard of a markdown document before, I didn't understand what merge conflicts were or how to resolve them, and I couldn't even figure out how to delete and move files about in my repository. Many of my peers were having the same issues and so I saw a gap in the coding club tutorials that I wanted to fill. This tutorial will therefore cover many of the basics of Github and will have the following format;  
 
 
 
