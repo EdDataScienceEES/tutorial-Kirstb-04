@@ -20,7 +20,7 @@ This tutorial follows on from the [Intro to Github for version control](https://
 1. **Github**
 - Recap - what is Github?
 - Moving files about in github
-- Changing File and Folder Names & Deleting Them
+- Changing Names & Deleting - Files and Folders
 - Reverting Commits
 - Merge Conflicts - what do they mean?
   
@@ -60,9 +60,9 @@ To fully understand Github you first need to understand what Git is. First relea
 <img align="centre" width="632" alt="image" src="https://github.com/user-attachments/assets/514e5702-fd33-414d-beae-2c358ef7d80c">
 
 - <mark>Files for particular projects are saved in **repositories** </mark> (or repos as they are often referred to), which are essentially storage spaces for all of the files relating to your project. 
-- <mark>Another word that you'll come across when using Github is **branches**. </mark> Your repositories contain the master branch which is the main code of the repository. From this master branch you can create other branches where you can experiment with the code without having to change the main code. If you are happy with changes you have made in your branch you can then commit them to the master branch. This means that you can safely experiment with code without interfering with the main code 
+- <mark>Another word that you'll come across when using Github is **branches**. </mark> Your repositories contain the master branch which is the main code of the repository. From this master branch you can create other branches where you can experiment with the code without having to change the main code. If you are happy with changes you have made in your branch you can then commit them to the master branch. This means that you can safely experiment with code without interfering with the main code.
 
-This leads us to Github which essentially acts as the cloud for Git. Github is a cloud-based system that holds all of your Git repositories and is specifically designed to make managing your repositories easier. For instance Github has **pull requests**. This is when you request to merge changes from one branch to another branch, collaborators can then discuss and examine the changes before commiting the changes to another branch. There is also an **issues tab** in Github repositories where you can flag issues you are having with your collaborators and you can then discuss ways of resolving them.
+This leads us onto Github which essentially acts as the cloud for Git. Github is a cloud-based system that holds all of your Git repositories and is specifically designed to make managing your repositories easier. For instance Github has **pull requests**. This is when you request to merge changes from one branch to another branch, collaborators can then discuss and examine the changes before commiting the changes to another branch. There is also an **issues tab** in Github repositories where you can flag issues you are having with your collaborators and you can then discuss ways of resolving them.
 
 <img width="641" alt="Screenshot 2024-11-22 150049" src="https://github.com/user-attachments/assets/faa81953-9701-462a-85aa-ca03bfb237d6">
 
@@ -79,7 +79,7 @@ A final note about Github is that its repositories are largely open to the publi
 
  
 
-## 1c. Changing File Names & Deleting Files
+## 1c. Changing Names & Deleting - Files and Folders
 
 There are a number of ways that you can change file names and delete files. You can makes changes in R studio (if you have connected your Github repository and your R studio), you can make changes in your Github repository, or you can use the Github web editor. 
 
@@ -99,27 +99,27 @@ Deleting files
 Ever mistakenly made a commit that you desperately want to take back? Don't worry we've all done it. Simply use the Github web editor to revert your commit. 
 
 First you need to copy the id code of the commit your wanting to convert.
-- Go into your commit history
+- <mark>Go into your commit history</mark>
 
 <img width="676" alt="Screenshot 2024-11-22 155851" src="https://github.com/user-attachments/assets/db009ca0-02ac-44f0-9565-044385bcb833">
 
 <p>&nbsp;</p>
 
-- Then copy the id code
+- <mark>Then copy the id code</mark>
 
 <img width="930" alt="Screenshot 2024-11-22 155511" src="https://github.com/user-attachments/assets/31ce3b36-5905-4f11-bc9b-098bbef000fc">
 
-You then need to open the Github web page editor. To do this go to your repository home page and press **.**.
-- You should get a page that looks something like this.
+You then need to open the Github **web page editor**. To do this go to your repository home page and press **.**
+- <mark>You should get a page that looks something like this </mark>
 
 <img width="955" alt="Screenshot 2024-11-22 160336" src="https://github.com/user-attachments/assets/1de26c52-b74a-40c9-82f4-e22e7cd0b989">
 
-- You then need to select 'Continue working in Github code spaces' so that you can work in an environment where you can run code. Once you've done this you should be taken to a sepearate page called **Codespace**. Here is where you revert your commit.
-- At the bottom of the **Codespace** page you will have a terminal where you can type in code. After the $ type **git revert** and then paste your commit id and press enter.
+- You then need to select **Continue working in Github code spaces** so that you can work in an environment where you can run code. Once you've done this you should be taken to a sepearate page called **Codespace**. Here is where you revert your commit.
+- At the bottom of the **Codespace** page you will have a terminal where you can type in code. After the **$** type **git revert**, then paste your commit id, and press enter.
 
 <img width="692" alt="Screenshot 2024-11-22 160919" src="https://github.com/user-attachments/assets/73ecf72c-0047-43f1-b41b-a7e0084f95d8">
 
-Now if it was a merge commit like the below then you will need a slightly different code. After the $ type **git revert -m 1** and then paste your commit id and press enter.
+**Important Note!** <mark> If it was a merge commit, like the below example, then you will need a slightly different code. After the **$** type **git revert -m 1**, then paste your commit id, and press enter </mark>
 
 <img width="494" alt="image" src="https://github.com/user-attachments/assets/23adc034-247d-4564-a66c-77130682c2a1">
 
@@ -127,20 +127,16 @@ Once you have run the code you need to go onto the **Source Control** tab where 
 
 <img width="949" alt="Screenshot 2024-11-22 161724" src="https://github.com/user-attachments/assets/0f784f74-081e-4d3e-9016-9cc8fd5a25c6">
 
-Finally you sync the changes, cross the page and return to your repository.
+Finally, sync the changes, cross the page, and return to your repository.
 
 <img width="227" alt="Screenshot 2024-11-22 161942" src="https://github.com/user-attachments/assets/13e57c9b-6ad9-4653-91b6-3f7735061cb6">
 
-In your repository check that your revert was successful. You should have a new commit that looks like this.
+Once back to your repository check that your revert was successful. You should have a new commit that looks like this.
 
 <img width="298" alt="image" src="https://github.com/user-attachments/assets/27d900f3-1aff-4141-98bb-8eadad9da3f0">
 
 
-
-
-
-
-You have to be very cafeful when reverting commits as you need to make sure that people haven't already pulled the commit your trying to revert, especially if you are reverting a commit you made to the master branch.
+You have to be very cafeful when reverting commits as you need to make sure that people haven't already pulled the commit your trying to revert, especially if you are reverting a commit you made to the master branch, as this can cause major issues. But as long as you're sensible with it and let collaborators know all should be fine!
 
 
 ## 1e. Merge Conflicts - what do they mean?
