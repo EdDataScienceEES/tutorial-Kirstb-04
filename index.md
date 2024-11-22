@@ -53,10 +53,23 @@ This tutorial follows on from the [Intro to Github for version control](https://
 
 ## 1a. Recap - what is Github?
 
-One of the first things I struggled with when I first started using Github was not fully understanding what Github is. So to start lets answer the question **'What is Github?'**. Founded in 2008, Github is an online software development programme, used by programmers to store, track, and collaborate on software projects. 
+One of the first things I struggled with when I first started using Github was not fully understanding what Github is. So to start lets answer the question **What is Github?**
+
+To fully understand Github you first need to understand what Git is. First released in 2005, Git is one of the most popular version control tools used by developers. It is installed locally onto your personal computer and allows you to track the changes you make to files, giving you a record of what has been changed, meaning you can revert to old versions of files where necessary. It is also highly useful when collaborating with others, as it means that multiple people can make changes which can then be merged together on the one file. 
+
+<img align="centre" width="632" alt="image" src="https://github.com/user-attachments/assets/514e5702-fd33-414d-beae-2c358ef7d80c">
+
+- <mark>Files for particular projects are saved in repositories, which are essentially storage spaces for all of the files relating to your project.
+- Another word that you'll come across when using Github is branches. Your repositories contain the master branch which is the main code that the code that will likely be published. From this master branch you can create other branches where you can experiment with the code without having to change the main code. If you are happy with changes you have made in your branch you can then commit them to the master branch, which changes the data in the master branch. </mark>
+
+This leads us to Github which essentially acts as the cloud for Git. Github is a cloud-based system that holds all of your repositories and is specifically designed to make managing your different projects and repositories easier. For instance Github has pull requests. This is when you request to merge changes from one branch to another branch, collaborators can then discuss and examine the changes before commiting the changes to another branch. 
+
+ 
 
 <mark>Still confused? Visit these websites that go into more detail on what Github is and what it's used for:</mark>
 - https://blog.hubspot.com/website/what-is-github-used-for#what-github
+- https://www.nobledesktop.com/learn/git/what-is git#:~:text=Git%20is%20the%20most%20commonly,be%20merged%20into%20one%20source.
+- https://www.simplilearn.com/tutorials/git-tutorial/git-vs-github
 
 ## 1b. Moving Files About in Github
 
