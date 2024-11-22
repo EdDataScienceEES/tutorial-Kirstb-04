@@ -107,7 +107,7 @@ Text (bold, italic, headings, fonts, colours, highlighting)
 - **ctrl** + **i** to automatically get the code for italic text
 
 ```diff
-**Your italic text here**
+_Your italic text here_
 ```
 
 Changing text size and alignment
@@ -126,7 +126,27 @@ This becomes;
 
 Inserting code & automatic copying
 
-To add code 
+To add code you simply add backticks (**`**) around the code
+
+```diff
+`Your code here`
+```
+
+This becomes;
+
+`Your code here`
+
+
+To add automatic copying around text, as I have been using throughout this tutorial simply use the below code;
+
+```diff
+
+```diff
+The text you want copied here
+```
+```
+
+```
 
 
 ## 3b. Adding Links
