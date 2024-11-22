@@ -35,7 +35,7 @@ This tutorial follows on from the [Intro to Github for version control](https://
 - Text (bold, italic, headings, fonts, colours, highlighting)
 - Changing text size and alignment
 - Adding quotes
-- Inserting code & automatic copying
+- Adding code & automatic copying
   
 *Adding Links*
 
