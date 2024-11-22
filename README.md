@@ -2,6 +2,9 @@
 # tutorial-instructions
 ## Instructions for Tutorial Assignment
 
+The Aim of my tutorial is to give a comprehensive overview of how to use Github. Although some parts may seem simple 
+
+
 The key final assignment for the Data Science course is to create your own tutorial. Your tutorial has to communicate a specific quantitative skill - you can choose the level at which you pitch your tutorial and how advanced or introductory it is. You can create "part 2" tutorials where "part 1" is an existing Coding Club tutorial.
 
 You are encouraged to add your peers to your tutorial development repositories so that you can exchange feedback - remember that the best way to check if your tutorial makes sense is to have someone that is not you go through it.
