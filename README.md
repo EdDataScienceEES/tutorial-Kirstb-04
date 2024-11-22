@@ -6,43 +6,11 @@ To give the reader a comprehensive overview of how to use Github, in a tutorial 
 
 **Background:**
 
-When first starting the Data Science course I was completely new to Github and it took me quite a while to get to grips with it. I had never heard of a markdown document before, I didn't understand what merge conflicts were or how to resolve them, and I couldn't even figure out how to delete and move files about in my repository. I asked around and many of my peers were having the same issues and so when contemplating what I wanted my tutorial to be on I thought it would be very useful to fill these knowledge gaps. This tutorial will therefore cover many of the basics of Github, as well as some of the more complex issues. It will cover the following topics;  
+When first starting the Data Science course I was completely new to Github and it took me quite a while to get to grips with it. I had never heard of a markdown document before, I didn't understand what merge conflicts were or how to resolve them, and I couldn't even figure out how to delete and move files about in my repository. I asked around and many of my peers were having the same issues and so when contemplating what I wanted my tutorial to be on I thought it would be very useful to fill these knowledge gaps. This tutorial will therefore cover many of the basics of Github, as well as some of the more complex issues. For the topics covered return to [my tutorial](index.md).
 
-<p>&nbsp;</p>
 
-1. **Github**
-- Recap - what is Github?
-- Moving files about in github
-- Changing File Names & Deleting Files
-- Undoing Commits
-- Merge Conflicts - what do they mean?
-  
-2. **What is a Markdown?**
 
-3. **Formatting a Markdown**
-  
-*Images and Text*
 
-- Adding images
-- Changing image size and alignment
-- Text (bold, italic, headings, fonts, colours, highlighting)
-- Changing text size and alignment
-- Adding quotes
-- Inserting code & automatic copying
-  
-*Adding Links*
-
-- Linking within Github
-- Linking outwith Github
-  
-*General Formatting*
-
-- Sectioning your markdown
-- How to add spacing into your markdown
-
-<p>&nbsp;</p>
-
-4. **Bonus Section** - General tips for a professional markdown
 
 
 
