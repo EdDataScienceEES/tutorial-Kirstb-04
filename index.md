@@ -81,18 +81,9 @@ A final note about Github is that its repositories are largely open to the publi
 
 ## 1c. Changing Names & Deleting - Files and Folders
 
-There are a number of ways that you can change file names and delete files. You can makes changes in R studio (if you have connected your Github repository and your R studio), you can make changes in your Github repository, or you can use the Github web editor. 
+There are a number of ways that you can change file and folder names as well as deleting them. You can makes changes in R studio (if you have connected your Github repository and your R studio), you can make changes in your Github repository directly, or you can use the Github web editor. 
 
-Changing names
-
-- In Github
-- In R
-- Using the Github web editor 
-
-Deleting files
-
-- In R
-- Using the Github web editor 
+Although all valid choices I will be showing you how to do this in the web editor. It's a very useful tool and it's therefore good to get to grips with it. 
 
 ## 1d. Reverting Commits
 
