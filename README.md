@@ -4,6 +4,41 @@
 
 When first starting the Data Science course I was completely new to Github and it took me quite a while to get to grips with it. I had never heard of a markdown document before, I didn't understand what merge conflicts were or how to resolve them, and I couldn't even figure out how to delete and move files about in my repository. I asked around and many of my peers were having the same issues and so I saw a gap in the coding club tutorials that I wanted to fill. This tutorial will therefore cover many of the basics of Github, as well as some of the more complex issues, and will have the following format;  
 
+1. **Github**
+- Recap - what is Github?
+- Moving files about in github
+- Changing File Names & Deleting Files
+- Undoing Commits
+- Merge Conflicts - what do they mean?
+  
+2. **What is a Markdown?**
+
+3. **Formatting a Markdown**
+  
+*Images and Text*
+
+- Adding images
+- Changing image size and alignment
+- Text (bold, italic, headings, fonts, colours, highlighting)
+- Changing text size and alignment
+- Adding quotes
+- Inserting code & automatic copying
+  
+*Adding Links*
+
+- Linking within Github
+- Linking outwith Github
+  
+*General Formatting*
+
+- Sectioning your markdown
+- How to add spacing into your markdown
+
+<p>&nbsp;</p>
+
+4. **Bonus Section** - General tips for a professional markdown
+
+
 
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6eRt7-90)
