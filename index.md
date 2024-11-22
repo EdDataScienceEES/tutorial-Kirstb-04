@@ -109,12 +109,12 @@ First you need to copy the id code of the commit your wanting to convert.
 
 <img width="930" alt="Screenshot 2024-11-22 155511" src="https://github.com/user-attachments/assets/31ce3b36-5905-4f11-bc9b-098bbef000fc">
 
-You then need to open the Github **web page editor**. To do this go to your repository home page and press **.**
+You then need to open the Github **web page editor**. To do this go to your repository home page and press '**.**'
 - <mark>You should get a page that looks something like this </mark>
 
 <img width="955" alt="Screenshot 2024-11-22 160336" src="https://github.com/user-attachments/assets/1de26c52-b74a-40c9-82f4-e22e7cd0b989">
 
-- You then need to select **Continue working in Github code spaces** so that you can work in an environment where you can run code. Once you've done this you should be taken to a sepearate page called **Codespace**. Here is where you revert your commit.
+- You then need to select **Continue working in Github Codespaces** so that you can work in an environment where you can run code. Once you've done this you should be taken to a sepearate page called **Codespace**. Here is where you revert your commit.
 - At the bottom of the **Codespace** page you will have a terminal where you can type in code. After the **$** type **git revert**, then paste your commit id, and press enter.
 
 <img width="692" alt="Screenshot 2024-11-22 160919" src="https://github.com/user-attachments/assets/73ecf72c-0047-43f1-b41b-a7e0084f95d8">
