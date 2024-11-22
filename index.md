@@ -71,8 +71,8 @@ A final note about Github is that its repositories are largely open to the publi
  ### Essentially Git is the software and Github is the programme that hosts and manages the software. 
 
 <mark>Still confused? Visit these websites that go into more detail:</mark>
-- [What is Github?](https://blog.hubspot.com/website/what-is-github-used-for#what-github)
 - [Git vs Github: Key differences](https://www.simplilearn.com/tutorials/git-tutorial/git-vs-github)
+- [What is Github?](https://blog.hubspot.com/website/what-is-github-used-for#what-github)
 - [Collaborating made easier on Github](https://www.gitkraken.com/blog/collaborate-on-github#:~:text=Using%20Branches%20Effectively,or%20implementing%20a%20particular%20feature.)
 
 ## 1b. Moving Files About in Github
