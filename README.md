@@ -1,6 +1,5 @@
 # Final Assessment in Data Science 2024: Creating a tutorial
 
-<p>&nbsp;</p>
 
 **Overall Tutorial Aim:** 
 To give the reader a comprehensive overview of how to use Github, in a tutorial that will act as a part two to the coding club's [Intro to Github for version control](https://ourcodingclub.github.io/tutorials/git/) tutorial. 
@@ -9,6 +8,8 @@ To give the reader a comprehensive overview of how to use Github, in a tutorial 
 **Background:**
 
 When first starting the Data Science course I was completely new to Github and it took me quite a while to get to grips with it. I had never heard of a markdown document before, I didn't understand what merge conflicts were or how to resolve them, and I couldn't even figure out how to delete and move files about in my repository. I asked around and many of my peers were having the same issues and so when contemplating what I wanted my tutorial to be on I thought it would be very useful to fill these knowledge gaps. This tutorial will therefore cover many of the basics of Github, as well as some of the more complex issues. It will cover the following topics;  
+
+<p>&nbsp;</p>
 
 1. **Github**
 - Recap - what is Github?
@@ -47,11 +48,9 @@ When first starting the Data Science course I was completely new to Github and i
 
 
 
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6eRt7-90)
-# tutorial-instructions
-## Instructions for Tutorial Assignment
-
-The Aim of my tutorial is to give a comprehensive overview of how to use Github. Although some parts may seem simple 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 The key final assignment for the Data Science course is to create your own tutorial. Your tutorial has to communicate a specific quantitative skill - you can choose the level at which you pitch your tutorial and how advanced or introductory it is. You can create "part 2" tutorials where "part 1" is an existing Coding Club tutorial.
