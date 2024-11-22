@@ -21,7 +21,7 @@ This tutorial follows on from the [Intro to Github for version control](https://
 - Recap - what is Github?
 - Moving files about in github
 - Changing File and Folder Names & Deleting Them
-- Undoing Commits
+- Reverting Commits
 - Merge Conflicts - what do they mean?
   
 2. **What is a Markdown?**
@@ -94,7 +94,13 @@ Deleting files
 - In R
 - Using the Github web editor 
 
-## 1d. Undoing Commits
+## 1d. Reverting Commits
+
+You have to be very cafeful when reverting commits as you need to make sure that people haven't already pulled the commit your trying to revert. In the majority of cases it is best to just manually edit the file to get rid of the changes you just commited. You can do this by going onto your commits, and then you can select the commit that you made the changes on. 
+
+<img width="925" alt="Screenshot 2024-11-22 152608" src="https://github.com/user-attachments/assets/e93fc2dd-660b-4148-935f-d751284d2498">
+
+
 
 ## 1e. Merge Conflicts - what do they mean?
 
