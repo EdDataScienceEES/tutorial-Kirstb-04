@@ -19,11 +19,11 @@ This tutorial follows on from the [Intro to Github for version control](https://
 
 1. **Github**
 - Recap - what is Github?
-- [Moving files about in github](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1a-moving-files-about-in-github)
-- [Changing File Names & Deleting Files](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1b-changing-file-names-&-deleting-files)
-- [Undoing Commits](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1c-undoing-commits)
-- [Merge Conflicts - what do they mean? ](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1d-merge-conflicts---what-do-they-mean)
-
+- Moving files about in github
+- Changing File and Folder Names & Deleting Them
+- Undoing Commits
+- Merge Conflicts - what do they mean?
+  
 2. **What is a Markdown?**
 
 3. **Formatting a Markdown**
