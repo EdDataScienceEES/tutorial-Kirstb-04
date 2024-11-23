@@ -107,7 +107,7 @@ First you need to copy the id code of the commit your wanting to convert.
 
 <p>&nbsp;</p>
 
-You then need to open the Github **web page editor**. To do this go to your repository home page and press '**.**'
+You then need to open the Github **web page editor**. To do this go to your repository home page and press the full stop/period key (**.**)
 - You should get a page that looks something like this
 
 <img width="955" alt="Screenshot 2024-11-22 160336" src="https://github.com/user-attachments/assets/1de26c52-b74a-40c9-82f4-e22e7cd0b989">
