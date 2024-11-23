@@ -145,7 +145,7 @@ Once back to your repository check that your revert was successful. You should h
 
 <p>&nbsp;</p>
 
-You have to be very cafeful when reverting commits as you need to make sure that people haven't already pulled the commit your trying to revert, especially if you are reverting a commit you made to the master branch, as this can cause major issues. But as long as you're sensible with it and let collaborators know all should be fine!
+<mark>**You have to be very cafeful when reverting commits as you need to make sure that people haven't already pulled the commit your trying to revert, especially if you are reverting a commit you made to the master branch, as this can cause major issues. But as long as you're sensible with it and let collaborators know all should be fine!**</mark>
 
 
 ## 1e. Merge Conflicts - what do they mean?
