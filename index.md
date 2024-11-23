@@ -51,7 +51,8 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
 
 <p>&nbsp;</p>
 
-4. **Bonus Section** - [General tips for a professional Markdown](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#4-bonus-section---general-tips-for-a-professional-markdown)
+4. **Bonus Section** - This section will offer some general tips for the topics covered in this tutorial
+- [General tips for a professional Markdown](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#4-bonus-section---general-tips-for-a-professional-markdown)
 
 ## 1a. Recap - what is Github?
 
