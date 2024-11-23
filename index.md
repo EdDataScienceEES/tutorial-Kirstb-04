@@ -21,8 +21,7 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
 
 1. **Github** - Section one aims to cover some of the Github basics that a lot of people struggle with
 - [Recap - what is Github?](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1a-recap---what-is-github)
-- Moving files about in github
-- Changing Names & Deleting - Files and Folders
+- Folders & Files - Creating them, moving them, changing their names, and deleting them
 - [Reverting Commits](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1d-reverting-commits)
 - Merge Conflicts - what do they mean?
   
@@ -80,17 +79,24 @@ A final note about Github is that its repositories are largely open to the publi
 - [What is Github?](https://blog.hubspot.com/website/what-is-github-used-for#what-github)
 - [Collaborating made easier on Github](https://www.gitkraken.com/blog/collaborate-on-github#:~:text=Using%20Branches%20Effectively,or%20implementing%20a%20particular%20feature.)
 
-## 1b. Moving Files About in Github
+## 1b. Folders & Files - Creating them, moving them, changing their names, and deleting them
 
- 
+### Creating Folders & Files
+To create a file in Github simply go to the homepage of your repository, click **Add file**, and then **Create new file**.
 
-## 1c. Changing Names & Deleting - Files and Folders
+<img width="691" alt="Screenshot 2024-11-23 152318" src="https://github.com/user-attachments/assets/ddac8102-b3f0-4395-8e37-4997ba0b3986">
+
+If you want to put your file in a folder, in the **Name your file...** box just type the name of the folder you want (this can be a pre-existing folder or you can create a new one) then type a forward slash (**/**). You will then get another **Name your file...** box where you can type in the name of your new file. Finally, commit your changes. 
+
+<img width="938" alt="Screenshot 2024-11-23 152842" src="https://github.com/user-attachments/assets/84c3948b-473a-4056-8c74-563cfbc85066">
+
+
 
 There are a number of ways that you can change file and folder names as well as deleting them. You can makes changes in R studio (if you have connected your Github repository and your R studio), you can make changes in your Github repository directly, or you can use the Github web editor. 
 
 Although all valid choices I will be showing you how to do this in the web editor. It's a very useful tool and it's therefore good to get to grips with it. 
 
-## 1d. Reverting Commits
+## 1c. Reverting Commits
 
 Ever mistakenly made a commit that you desperately want to take back? Don't worry we've all done it. Simply use the Github web editor to revert your commit. 
 
