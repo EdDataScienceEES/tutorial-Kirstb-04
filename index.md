@@ -138,7 +138,7 @@ Open the Github Web Editor (on the homepage of your repository press the full st
 
 <p>&nbsp;</p>
 
-Then simply follow the on-screen instructions. Before returning to your repository remember to **Commit & Push** on the **Source Control** tab, and write a meaningful commit message. **Forgotten how do do these steps?** See the [Moving Folders & Files](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#moving-folders--files) section above
+Then simply follow the on-screen instructions. Before returning to your repository remember to **Commit & Push** on the **Source Control** tab, and write a meaningful commit message. **Forgotten how do do these steps?** <mark>See the [Moving Folders & Files](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#moving-folders--files) section above </mark>
 
 
 ## 1c. Reverting Commits
