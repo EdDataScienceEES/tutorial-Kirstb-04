@@ -81,15 +81,24 @@ A final note about Github is that its repositories are largely open to the publi
 
 ## 1b. Folders & Files - Creating them, moving them, changing their names, and deleting them
 
+As a very organised person I like to have folders within folders, and I am constantly deleting and moving files about in my repositories. However when I first started using Github I could not get my head around how to do this. So for the hyper organised like me, follow these simple steps to get a beautiful and easy to organise repo!
+
 ### Creating Folders & Files
 To create a file in Github simply go to the homepage of your repository, click **Add file**, and then **Create new file**.
 
 <img width="691" alt="Screenshot 2024-11-23 152318" src="https://github.com/user-attachments/assets/ddac8102-b3f0-4395-8e37-4997ba0b3986">
 
+<p>&nbsp;</p>
+
 If you want to put your file in a folder, in the **Name your file...** box just type the name of the folder you want (this can be a pre-existing folder or you can create a new one) then type a forward slash (**/**). You will then get another **Name your file...** box where you can type in the name of your new file. Finally, commit your changes. 
 
 <img width="938" alt="Screenshot 2024-11-23 152842" src="https://github.com/user-attachments/assets/84c3948b-473a-4056-8c74-563cfbc85066">
 
+<p>&nbsp;</p>
+
+To have a folder within a folder simply type a forward slash (**/**) after your previous folder name in the **Name your file...** box, then type another forward slash (**/**) and type in your new file name. 
+
+<img width="937" alt="Screenshot 2024-11-23 153739" src="https://github.com/user-attachments/assets/e8e790cf-a336-4a5a-b9d3-283db643cbf3">
 
 
 There are a number of ways that you can change file and folder names as well as deleting them. You can makes changes in R studio (if you have connected your Github repository and your R studio), you can make changes in your Github repository directly, or you can use the Github web editor. 
