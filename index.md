@@ -100,21 +100,29 @@ To have a folder within a folder simply type a forward slash (**/**) after your 
 
 <img width="937" alt="Screenshot 2024-11-23 153739" src="https://github.com/user-attachments/assets/e8e790cf-a336-4a5a-b9d3-283db643cbf3">
 
+<p>&nbsp;</p>
+
 ### Moving Folders & Files
 
 The easiest way to move folders and files in Github is to use the Github Web Editor. To access this go to the homepage of your repository and press the full stop/period key (**.**). This should open a page that looks something like this:
 
 <img width="958" alt="image" src="https://github.com/user-attachments/assets/d1b72e49-c16b-4299-bc73-158b2dd96729">
 
+<p>&nbsp;</p>
+
 Whether you want to move a single file or a whole folder the process is the same. Simply **left click** on the folder or file you want to move and **drag** it to whatever folder you want to add it to. You will then get a message pop up asking if you are sure, click **Move**
 
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/6b80685f-d198-4ab2-9b9e-47b9c24ca68e">
+
+<p>&nbsp;</p>
 
 Once you have done this you will need to commit your changes. Go to the **Source Control** tab on the left hand side of the Web Editor, add a meaninfull commit message and then click **Commit & Push**
 
 <img width="400" alt="Screenshot 2024-11-23 155905" src="https://github.com/user-attachments/assets/dfb5acd2-00e1-4165-9b81-12261dddb18e">
 
-To return to your repository click the three horizontal lines in the top left of the screen and select **Go to Repository**
+<p>&nbsp;</p>
+
+To return to your repository click the three horizontal lines in the top left of the screen and select **Go to Repository**.
 
 <img width = "400" alt="Screenshot 2024-11-23 160154" src="https://github.com/user-attachments/assets/0a8f74a9-6ea1-4d68-99cc-442cf6fda83e">
 
@@ -122,16 +130,15 @@ To return to your repository click the three horizontal lines in the top left of
 
 ### Renaming and Deleting Folders and Files
 
-There are a number of ways that you can change folder and file names as well as deleting them. You can makes changes in R studio (if you have connected your Github repository and your R studio), you can make changes in your Github repository directly, or you can use the Github web editor. 
-
-Although all valid choices I will again be showing you how to do this in the web editor. It's a very useful tool and it's therefore good to get to grips with it. 
+There are a number of ways that you can change folder and file names as well as deleting them. You can makes changes in R studio (if you have connected your Github repository and your R studio), you can make changes in your Github repository directly, or you can use the Github web editor. Although all valid choices I will again be showing you how to do this in the web editor. It's a very useful tool and it's therefore good to get to grips with it. 
 
 Open the Github Web Editor (on the homepage of your repository press the full stop/period key (**.**)). Once on the Web Editor simply right click on whatever folder or file you want to rename or delete and select whichever option is appropriate.
 
 <img width = "400" alt="Screenshot 2024-11-23 160820" src="https://github.com/user-attachments/assets/ab92481a-3d13-422a-8ea4-f946a4193a7c">
 
+<p>&nbsp;</p>
 
-Then simply follow the on-screen demands. Before returning to your repository remember to **Commit & Push** on the **Source Control** tab, and write a meaningful commit message. **Forgotten how do do these steps?** See the [Moving Folders & Files](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#moving-folders--files) section above
+Then simply follow the on-screen instructions. Before returning to your repository remember to **Commit & Push** on the **Source Control** tab, and write a meaningful commit message. **Forgotten how do do these steps?** See the [Moving Folders & Files](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#moving-folders--files) section above
 
 
 ## 1c. Reverting Commits
