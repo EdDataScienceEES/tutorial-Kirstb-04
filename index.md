@@ -115,14 +115,14 @@ You then need to open the Github **web page editor**. To do this go to your repo
 <p>&nbsp;</p>
 
 - You then need to select **Continue working in Github Codespaces** so that you can work in an environment where you can run code. Once you've done this you should be taken to a sepearate page called **Codespace**. Here is where you revert your commit.
-- At the bottom of the **Codespace** page you will have a terminal where you can type in code. After the **$** type **git revert**, then paste your commit id, and press enter.
+- At the bottom of the **Codespace** page you will have a terminal where you can type in code. After the dollar sign (**$**) type **git revert**, then paste your commit id, and press enter.
 
 <p>&nbsp;</p>
 <img width="692" alt="Screenshot 2024-11-22 160919" src="https://github.com/user-attachments/assets/73ecf72c-0047-43f1-b41b-a7e0084f95d8">
 
 <p>&nbsp;</p>
 
-**Important Note!** <mark> If it was a merge commit, like the below example, then you will need a slightly different code. After the **$** type **git revert -m 1**, then paste your commit id, and press enter </mark>
+**Important Note!** <mark> If it was a merge commit, like the below example, then you will need a slightly different code. After the dollar sign (**$**) type **git revert -m 1**, then paste your commit id, and press enter </mark>
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/23adc034-247d-4564-a66c-77130682c2a1">
 
