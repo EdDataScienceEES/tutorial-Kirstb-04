@@ -53,6 +53,8 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
 4. **Bonus Section** - This section will offer general tips for the topics covered in this tutorial
 - [Tips for a professional Markdown](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#4-bonus-section---tips-for-a-professional-markdown)
 
+<p>&nbsp;</p>
+
 ## 1a. Recap - what is Github?
 
 One of the first things I struggled with when I first started using Github was not fully understanding what Github is. So to start lets answer the question **What is Github?**
@@ -79,9 +81,13 @@ A final note about Github is that its repositories are largely open to the publi
 - [What is Github?](https://blog.hubspot.com/website/what-is-github-used-for#what-github)
 - [Collaborating made easier on Github](https://www.gitkraken.com/blog/collaborate-on-github#:~:text=Using%20Branches%20Effectively,or%20implementing%20a%20particular%20feature.)
 
+<p>&nbsp;</p>
+
 ## 1b. Folders & Files - Creating them, moving them, changing their names, and deleting them
 
 As a very organised person I like to have folders within folders, and I am constantly deleting and moving files about in my repositories. However when I first started using Github I could not get my head around how to do this. So for the hyper organised like me, follow these simple steps to get a beautifully organised repo!
+
+<p>&nbsp;</p>
 
 ### Creating Folders & Files
 To create a file in Github simply go to the homepage of your repository, click **Add file**, and then **Create new file**.
@@ -126,7 +132,7 @@ To return to your repository click the three horizontal lines in the top left of
 
 <img width = "400" alt="Screenshot 2024-11-23 160154" src="https://github.com/user-attachments/assets/0a8f74a9-6ea1-4d68-99cc-442cf6fda83e">
 
-
+<p>&nbsp;</p>
 
 ### Renaming and Deleting Folders and Files
 
@@ -140,6 +146,7 @@ Open the Github Web Editor (on the homepage of your repository press the full st
 
 Then simply follow the on-screen instructions. Before returning to your repository remember to **Commit & Push** on the **Source Control** tab, and write a meaningful commit message. **Forgotten how do do these steps?** <mark>See the [Moving Folders & Files](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#moving-folders--files) section above </mark>
 
+<p>&nbsp;</p>
 
 ## 1c. Reverting Commits
 
@@ -198,14 +205,18 @@ Once back to your repository check that your revert was successful. You should h
 
 **You have to be very cafeful when reverting commits as you need to make sure that people haven't already pulled the commit your trying to revert, especially if you are reverting a commit you made to the master branch, as this can cause major issues. But as long as you're sensible with it and let collaborators know all should be fine!**
 
+<p>&nbsp;</p>
 
 ## 1e. Merge Conflicts - what do they mean?
+
+<p>&nbsp;</p>
 
 ## 2. What is a Markdown?
 
 A Markdown is a document which uses the Markdown markup coding language (confusing names I know!) 
 [R Markdown](https://ourcodingclub.github.io/tutorials/rmarkdown/)
 
+<p>&nbsp;</p>
 
 ## 3a. Images and Text
 
@@ -269,7 +280,11 @@ The text you want copied here
 ```
 
 
+<p>&nbsp;</p>
+
 ## 3b. Adding Links
+
+<p>&nbsp;</p>
 
 ## 3c. General Formatting
 
@@ -283,6 +298,8 @@ Your section contents
 ```
 
 You may have noticed that no matter how many times you hit 'Enter' in your Markdown code as soon as you click 'Preview' 
+
+<p>&nbsp;</p>
 
 ## 4. Bonus Section - tips for a professional Markdown
 
