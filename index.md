@@ -300,7 +300,7 @@ To get the link address hover over the link symbol next to you heading, right cl
 - <mark>You can only create a link to a heading, so much sure to add a hashtag (**#**) before the place you want to link to </mark>
 - If you are previewing your Markdown and copy the link address from the preview, then the link will take you to the preview. To change this either commit your changes and copy the link address from the fully updated Markdown or change the **/edit/** section of your link address to **/blob/**, e.g.
 
-<img width="450" alt="Screenshot 2024-11-23 175601" src="https://github.com/user-attachments/assets/539cadab-f60d-4b06-b132-be7f84b95cd0">
+<img width="600" alt="Screenshot 2024-11-23 175601" src="https://github.com/user-attachments/assets/539cadab-f60d-4b06-b132-be7f84b95cd0">
 
 
 ### Linking Outwith Github
