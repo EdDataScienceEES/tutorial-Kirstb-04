@@ -302,6 +302,13 @@ To get the link address hover over the link symbol next to you heading, right cl
 
 <img width="600" alt="Screenshot 2024-11-23 175601" src="https://github.com/user-attachments/assets/539cadab-f60d-4b06-b132-be7f84b95cd0">
 
+To link to elsewhere in your repository it will be a similar code:
+
+```diff
+[the title of your link](the file path)
+```
+
+If you want to link to a file that is in the same place as your markdown, then the file path is simply the files name e.g. README.md for example. However if the file or folder is not in the same place as your markdown then you need to type **../** before you type the file path. This command essentially says take me to the main directory and then find the file from there. So let's say you wanted to link to a file called **Outputs** that was in **Folder1**, then your file path would be <mark>(../Folder1/Outputs)</mark>.
 
 ### Linking Outwith Github
 
