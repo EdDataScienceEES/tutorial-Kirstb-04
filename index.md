@@ -291,7 +291,15 @@ To link within Github you can either link to something in your Markdown document
 [the title of your link](the link address)
 ```
 
-To get the link address
+To get the link address hover over the link symbol next to you heading, right click and select **Copy Link Address**, then copy this into the above code.
+
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/ecbc27b7-5e0d-4950-97f8-0074532e2f02">
+
+
+**Important Notes!** 
+- <mark>You can only create a link to a heading, so much sure to add **#** before the place you want to link to </mark>
+- If you are previewing your Markdown and copy the link address from the preview, then the link will take you to the preview. To change this either commit your changes and copy from the fully updated Markdown or change the **/edit/** section of your link address to **/blob/**
+
 ### Linking Outwith Github
 
 
