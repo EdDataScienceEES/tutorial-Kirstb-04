@@ -291,7 +291,7 @@ To link within Github you can either **link to something in your Markdown docume
 [the title of your link](the link address)
 ```
 
-To get the link address hover over the link symbol next to you heading, right click and select **Copy Link Address**, then copy this into the above code.
+To get the link address hover over the link symbol next to the heading, right click and select **Copy Link Address**, then copy this into the above code.
 
 <img height= "400" alt="Screenshot 2024-11-23 174945" src="https://github.com/user-attachments/assets/5d4a8000-749e-423d-b7a7-300000845088">
 
