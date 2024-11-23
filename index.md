@@ -309,7 +309,7 @@ Your section contents
 
 </details>
 
-You can add as many collapsable sections into your markdown as you like, it can be very useful if you have a very long document!
+You can add as many collapsable sections into your markdown as you like, it can be very useful if you have a long document!
 
 <p>&nbsp;</p>
 
