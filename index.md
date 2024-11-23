@@ -288,6 +288,7 @@ The text you want copied here
 
 ## 3c. General Formatting
 
+To add collapsable sections into your Markdown simply use the below code
 ```diff
 <details>
 <summary> Your section title </summary>
@@ -296,6 +297,15 @@ Your section contents
 
 </details>
 ```
+
+This will become
+
+<details>
+<summary> Your section title </summary>
+
+Your section contents
+
+</details>
 
 You may have noticed that no matter how many times you hit 'Enter' in your Markdown code as soon as you click 'Preview' 
 
