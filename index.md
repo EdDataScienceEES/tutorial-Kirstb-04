@@ -5,30 +5,30 @@
 <p>&nbsp;</p>
 
 
- # A Github Overview - Github basics, Markdown formatting & general tips
+ # An overview of Github - Github basics, Markdown formatting & general tips
 
 _Created by Kirsty (November 2024) - For some background on why I chose this tutorial topic see the main [README](README.md) document of this repository._
 
 Do you want to make exciting and interactive Markdown files? Do you want to easily change folder names, and move files about in Github but don’t know how to? Well then, this is the tutorial for you! When people are first introduced to Github they can find it confusing and hard to follow (as I did initially) but through some simple hacks and codes you will soon be a Github pro! 
 
 
-The overall aim of this tutorial is to give the reader a comprehensive overview of how to use Github, and it follows on from the [Intro to Github for version control](https://ourcodingclub.github.io/tutorials/git/) Coding Club tutorial. There you can learn a bit about what Github is, how version control works,  how to connect up your R studio with Github, and how to make your own repository in Github (go there now if you’re completely new to Github). For those who have completed that tutorial or are already familiar with Github, carry on reading! 
+The overall aim of this tutorial is to give the reader a comprehensive overview of how to use Github, and to cover a lot of the topics that people struggle with when first using Github. It acts as a part two to the [Intro to Github for version control](https://ourcodingclub.github.io/tutorials/git/) Coding Club tutorial. There you can learn a bit about what Github is, how version control works,  how to connect up your R studio with Github, and how to make your own repository in Github (go there now if you’re completely new to Github). For those who have completed that tutorial or are already familiar with Github, carry on reading! 
  
 
 
 
 ## Tutorial Aims:
 
-1. **Github**
+1. **Github** - Section one aims to cover some of the Github basics that a lot of people struggle with
 - [Recap - what is Github?](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1a-recap---what-is-github)
 - Moving files about in github
 - Changing Names & Deleting - Files and Folders
 - [Reverting Commits](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1d-reverting-commits)
 - Merge Conflicts - what do they mean?
   
-2. **What is a Markdown?**
+2. **What is a Markdown?** - Section two will cover what a markdown document is
 
-3. **Formatting a Markdown**
+3. **Formatting a Markdown** - Section three will cover useful markdown language
   
 *Images and Text*
 
