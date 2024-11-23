@@ -285,7 +285,7 @@ The text you want copied here
 ## 3b. Adding Links
 
 ### Linking Within Github
-To link within Github you can either link to something in your Markdown document or you can link to another folder/file in your general repository. To link to something that's in your Markdown document you simply use the following code:
+To link within Github you can either **link to something in your Markdown document** or you can **link to another folder/file in your general repository**. To link to something that's in your Markdown document you simply use the following code:
 
 ```diff
 [the title of your link](the link address)
