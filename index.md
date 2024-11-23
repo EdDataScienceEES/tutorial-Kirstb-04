@@ -45,8 +45,8 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
   
 *General Formatting*
 
-- Sectioning your Markdown
-- How to add spacing into your Markdown
+- Adding collapsable sections to your Markdown
+- Adding spacing to your Markdown
 
 <p>&nbsp;</p>
 
@@ -288,7 +288,7 @@ The text you want copied here
 
 ## 3c. General Formatting
 
-### Adding Sections
+### Adding Sections to Your Markdown
 
 To add **collapsable sections** into your Markdown simply use the below code:
 ```diff
@@ -313,9 +313,9 @@ You can add as many collapsable sections into your markdown as you like, it can 
 
 <p>&nbsp;</p>
 
-### Adding Spacing
+### Adding Spacing to Your Markdown
 
-You may have noticed that no matter how many times you hit 'Enter' in your Markdown code as soon as you click 'Preview' the space you created disappeared and your blocks of text comes one after the other. A useful code to sort this is:
+You may have noticed that no matter how many times you hit **Enter** in your Markdown code as soon as you click **Preview** the space you created disappeared and your blocks of text comes one after the other. A useful code to sort this is:
 
 ```diff
 <p>&nbsp;</p>
