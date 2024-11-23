@@ -112,11 +112,11 @@ Whether you want to move a single file or a whole folder the process is the same
 
 Once you have done this you will need to commit your changes. Go to the **Source Control** tab on the left hand side of the Web Editor, add a meaninfull commit message and then click **Commit & Push**
 
-<img width="500" alt="Screenshot 2024-11-23 155905" src="https://github.com/user-attachments/assets/dfb5acd2-00e1-4165-9b81-12261dddb18e">
+<img width="400" alt="Screenshot 2024-11-23 155905" src="https://github.com/user-attachments/assets/dfb5acd2-00e1-4165-9b81-12261dddb18e">
 
 To return to your repository click the three horizontal lines in the top left of the screen and select **Go to Repository**
 
-<img width = "500" alt="Screenshot 2024-11-23 160154" src="https://github.com/user-attachments/assets/0a8f74a9-6ea1-4d68-99cc-442cf6fda83e">
+<img width = "400" alt="Screenshot 2024-11-23 160154" src="https://github.com/user-attachments/assets/0a8f74a9-6ea1-4d68-99cc-442cf6fda83e">
 
 
 
@@ -128,7 +128,7 @@ Although all valid choices I will again be showing you how to do this in the web
 
 Open the Github Web Editor (on the homepage of your repository press the full stop/period key (**.**)). Once on the Web Editor simply right click on whatever folder or file you want to rename or delete and select whichever option is appropriate.
 
-<img width = "500" alt="Screenshot 2024-11-23 160820" src="https://github.com/user-attachments/assets/ab92481a-3d13-422a-8ea4-f946a4193a7c"
+<img width = "400" alt="Screenshot 2024-11-23 160820" src="https://github.com/user-attachments/assets/ab92481a-3d13-422a-8ea4-f946a4193a7c">
 
 
 Then simply follow the on-screen demands. Before returning to your repository remember to **Commit & Push** on the **Source Control** tab, and write a meaningful commit message. **Forgotten how do do these steps?** See the [Moving Folders & Files](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#moving-folders--files) section above
@@ -180,7 +180,7 @@ Once you have run the code you need to go onto the **Source Control** tab where 
 
 Finally, sync the changes, cross the page, and return to your repository.
 
-<img width="500" alt="Screenshot 2024-11-22 161942" src="https://github.com/user-attachments/assets/13e57c9b-6ad9-4653-91b6-3f7735061cb6">
+<img width="400" alt="Screenshot 2024-11-22 161942" src="https://github.com/user-attachments/assets/13e57c9b-6ad9-4653-91b6-3f7735061cb6">
 
 <p>&nbsp;</p>
 Once back to your repository check that your revert was successful. You should have a new commit that looks like this.
