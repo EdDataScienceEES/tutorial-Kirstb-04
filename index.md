@@ -45,8 +45,8 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
   
 *General Formatting*
 
-- Adding collapsable sections to your Markdown
-- Adding spacing to your Markdown
+- [Adding collapsable sections to your Markdown](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#adding-sections-to-your-markdown)
+- [Adding spacing to your Markdown](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#adding-spacing-to-your-markdown)
 
 <p>&nbsp;</p>
 
