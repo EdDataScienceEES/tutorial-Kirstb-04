@@ -288,7 +288,9 @@ The text you want copied here
 
 ## 3c. General Formatting
 
-To add collapsable sections into your Markdown simply use the below code
+### Adding Sections
+
+To add **collapsable sections** into your Markdown simply use the below code:
 ```diff
 <details>
 <summary> Your section title </summary>
@@ -298,7 +300,7 @@ Your section contents
 </details>
 ```
 
-This will become
+This will become:
 
 <details>
 <summary> Your section title </summary>
@@ -307,9 +309,19 @@ Your section contents
 
 </details>
 
-You may have noticed that no matter how many times you hit 'Enter' in your Markdown code as soon as you click 'Preview' 
+You can add as many collapsable sections into your markdown as you like, it can be very useful if you have a very long document!
 
 <p>&nbsp;</p>
+
+### Adding Spacing
+
+You may have noticed that no matter how many times you hit 'Enter' in your Markdown code as soon as you click 'Preview' the space you created disappeared and your blocks of text comes one after the other. A useful code to sort this is:
+
+```diff
+<p>&nbsp;</p>
+```
+
+This creates a line of space. Simply copy and paste this as many times as you like to create more and more lines of space.
 
 ## 4. Bonus Section - tips for a professional Markdown
 
