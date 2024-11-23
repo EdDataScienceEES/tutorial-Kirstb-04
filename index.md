@@ -28,7 +28,7 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
   
 2. **What is a Markdown?** - Section two will cover what a markdown document is
 
-3. **Formatting a Markdown** - Section three will cover useful markdown language
+3. **Formatting a Markdown** - Section three will go cover useful markdown language
   
 *Images and Text*
 
