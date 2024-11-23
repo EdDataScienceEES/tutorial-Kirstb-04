@@ -120,11 +120,19 @@ To return to your repository click the three horizontal lines in the top left of
 
 
 
+### Renaming and Deleting Folders and Files
+
+There are a number of ways that you can change folder and file names as well as deleting them. You can makes changes in R studio (if you have connected your Github repository and your R studio), you can make changes in your Github repository directly, or you can use the Github web editor. 
+
+Although all valid choices I will again be showing you how to do this in the web editor. It's a very useful tool and it's therefore good to get to grips with it. 
+
+Open the Github Web Editor (on the homepage of your repository press the full stop/period key (**.**)). Once on the Web Editor simply right click on whatever folder or file you want to rename or delete and select whichever option is appropriate.
+
+![Screenshot 2024-11-23 160820](https://github.com/user-attachments/assets/ab92481a-3d13-422a-8ea4-f946a4193a7c)
 
 
-There are a number of ways that you can change file and folder names as well as deleting them. You can makes changes in R studio (if you have connected your Github repository and your R studio), you can make changes in your Github repository directly, or you can use the Github web editor. 
+Then simply follow the on-screen demands. Before returning to your repository remember to **Commit & Push** on the **Source Control** tab, and write a meaningful commit message. Forgotten how do do these steps? See the [Moving Folders & Files](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#moving-folders--files) section above
 
-Although all valid choices I will be showing you how to do this in the web editor. It's a very useful tool and it's therefore good to get to grips with it. 
 
 ## 1c. Reverting Commits
 
