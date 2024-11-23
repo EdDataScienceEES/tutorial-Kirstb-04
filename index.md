@@ -21,7 +21,7 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
 
 1. **Github** - Section one aims to cover some of the Github basics that a lot of people struggle with
 - [Recap - what is Github?](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1a-recap---what-is-github)
-- [Folders & Files](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1b-folders--files---creating-them-moving-them-changing-their-names-and-deleting-them) - [Creating them](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#creating-folders--files), moving them, changing their names, and deleting them
+- [Folders & Files](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1b-folders--files---creating-them-moving-them-changing-their-names-and-deleting-them) - [Creating them](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#creating-folders--files), [moving them](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#moving-folders--files), changing their names, and deleting them
 - [Reverting Commits](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1d-reverting-commits)
 - Merge Conflicts - what do they mean?
   
