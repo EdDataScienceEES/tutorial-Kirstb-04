@@ -81,7 +81,7 @@ A final note about Github is that its repositories are largely open to the publi
 
 ## 1b. Folders & Files - Creating them, moving them, changing their names, and deleting them
 
-As a very organised person I like to have folders within folders, and I am constantly deleting and moving files about in my repositories. However when I first started using Github I could not get my head around how to do this. So for the hyper organised like me, follow these simple steps to get a beautiful and easy to organise repo!
+As a very organised person I like to have folders within folders, and I am constantly deleting and moving files about in my repositories. However when I first started using Github I could not get my head around how to do this. So for the hyper organised like me, follow these simple steps to get a beautifully organised repo!
 
 ### Creating Folders & Files
 To create a file in Github simply go to the homepage of your repository, click **Add file**, and then **Create new file**.
