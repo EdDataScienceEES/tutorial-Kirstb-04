@@ -22,7 +22,7 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
 1. **Github** - Section one aims to cover some of the Github basics that a lot of people struggle with
 - [Recap - what is Github?](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1a-recap---what-is-github)
 - [Folders & Files](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1b-folders--files---creating-them-moving-them-changing-their-names-and-deleting-them) - [Creating them](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#creating-folders--files), [moving them](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#moving-folders--files), [changing their names and deleting them](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#renaming-and-deleting-folders-and-files)
-- [Reverting Commits](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1d-reverting-commits)
+- [Reverting Commits](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1c-reverting-commits)
 - Merge Conflicts - what do they mean?
   
 2. **What is a Markdown?** - Section two will cover what a markdown document is
@@ -180,7 +180,7 @@ Once you have run the code you need to go onto the **Source Control** tab where 
 
 Finally, sync the changes, cross the page, and return to your repository.
 
-<img width="340" alt="Screenshot 2024-11-22 161942" src="https://github.com/user-attachments/assets/13e57c9b-6ad9-4653-91b6-3f7735061cb6">
+<img width="370" alt="Screenshot 2024-11-22 161942" src="https://github.com/user-attachments/assets/13e57c9b-6ad9-4653-91b6-3f7735061cb6">
 
 <p>&nbsp;</p>
 Once back to your repository check that your revert was successful. You should have a new commit that looks like this.
