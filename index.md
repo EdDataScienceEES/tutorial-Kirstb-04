@@ -323,6 +323,8 @@ You may have noticed that no matter how many times you hit **Enter** in your Mar
 
 This creates a line of space. Simply copy and paste this as many times as you like to create more and more lines of space.
 
+<p>&nbsp;</p>
+
 ## 4. Bonus Section - tips for a professional Markdown
 
 The style and layout of your Markdown will vary depending on your specific project, but in this section I will go over some general tips that are good to keep in mind!
