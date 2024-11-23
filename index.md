@@ -180,7 +180,7 @@ Once you have run the code you need to go onto the **Source Control** tab where 
 
 Finally, sync the changes, cross the page, and return to your repository.
 
-<img width="400" alt="Screenshot 2024-11-22 161942" src="https://github.com/user-attachments/assets/13e57c9b-6ad9-4653-91b6-3f7735061cb6">
+<img width="340" alt="Screenshot 2024-11-22 161942" src="https://github.com/user-attachments/assets/13e57c9b-6ad9-4653-91b6-3f7735061cb6">
 
 <p>&nbsp;</p>
 Once back to your repository check that your revert was successful. You should have a new commit that looks like this.
