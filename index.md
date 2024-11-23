@@ -49,7 +49,7 @@ This tutorial follows on from the [Intro to Github for version control](https://
 
 <p>&nbsp;</p>
 
-4. [**Bonus Section** - General tips for a professional Markdown](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#4-bonus-section---general-tips-for-a-professional-markdown)
+4. **Bonus Section** - [General tips for a professional Markdown](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#4-bonus-section---general-tips-for-a-professional-markdown)
 
 ## 1a. Recap - what is Github?
 
