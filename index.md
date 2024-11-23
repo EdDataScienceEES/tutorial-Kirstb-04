@@ -293,7 +293,7 @@ To link within Github you can either link to something in your Markdown document
 
 To get the link address hover over the link symbol next to you heading, right click and select **Copy Link Address**, then copy this into the above code.
 
-<img width="450" alt="image" src="https://github.com/user-attachments/assets/ecbc27b7-5e0d-4950-97f8-0074532e2f02">
+<img height= "400" alt="Screenshot 2024-11-23 174945" src="https://github.com/user-attachments/assets/5d4a8000-749e-423d-b7a7-300000845088">
 
 
 **Important Notes!** 
@@ -308,7 +308,7 @@ To link to elsewhere in your repository it will be a similar code:
 [the title of your link](the file path)
 ```
 
-If you want to link to a file that is in the same place as your markdown, then the file path is simply the files name e.g. README.md for example. However if the file or folder is not in the same place as your markdown then you need to type **../** before you type the file path. This command essentially says take me to the main directory and then find the file from there. So let's say you wanted to link to a file called **Outputs** that was in **Folder1**, then your file path would be <mark>(../Folder1/Outputs)</mark>.
+If you want to link to a file that is in the same place as your Markdown, then the file path is simply the files name e.g. README.md for example. However if the file or folder is not in the same place as your Markdown then you need to type **../** before you type the file path. This command essentially says take me to the main directory and then find the file from there. So let's say you wanted to link to a file called **Outputs** that was in **Folder1**, then your file path would be **<mark>(../Folder1/Outputs)</mark>**.
 
 ### Linking Outwith Github
 
