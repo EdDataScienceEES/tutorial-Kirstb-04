@@ -214,7 +214,9 @@ Once back to your repository check that your revert was successful. You should h
 
 ## 1e. Merge Conflicts - what do they mean?
 
-Merge conflicts occur when you are collaborating with others on the same project and multiple people are trying to merge branches that have competing commits. Essentially you have each made different edits to the same script and Github doesn't understand how to combine them and so instead comes up with an error, a **merge conflict**. The merge conflict will appear when you create a pull request to merge two branches _e.g. here I am trying to merge the alpha branch with the main branch but it isn't working due to a merge conflict._
+Merge conflicts occur when you are collaborating with others on the same project and multiple people are trying to merge branches that have competing commits. Essentially you have each made different edits to the same script and Github doesn't understand how to combine them and so instead comes up with an error, a **merge conflict**. The merge conflict will appear when you create a pull request to merge two branches e.g. here I am trying to merge the alpha branch with the main branch but it isn't working due to a merge conflict.
+
+<p>&nbsp;</p>
 
 <img width="787" alt="Screenshot 2024-11-24 131941" src="https://github.com/user-attachments/assets/1a64d344-597d-46e7-90e3-1650fee789f1">
 
@@ -225,9 +227,13 @@ The easiest way to resolve merge conflicts is use the Github **Web Editor**. The
 
 <img width="683" alt="Screenshot 2024-11-24 131300" src="https://github.com/user-attachments/assets/022b685f-ddbc-4d05-a574-851f048b5e74">
 
+<p>&nbsp;</p>
 Click on the Web Editor link and there you can view the competing codes (highlighted by the red lines), and you can manually go through it to ascertain where the problem lies and which code to keep, or how to combine them ( the resolution is very dependent on the specific situation).
 
-<img width="928" alt="image" src="https://github.com/user-attachments/assets/b3f92bda-31c6-43b3-9374-0b95df25a6e9">
+![Screenshot 2024-11-24 131425](https://github.com/user-attachments/assets/454c26b8-d33c-4f6e-8140-20d32b1d354d)
+
+
+<p>&nbsp;</p>
 
 Once you have resolved the code, you select **Mark as resolved** in the top right corner, then **Commit merge**. You will then be taken back to your repository where you can **Merge pull request** and **Confirm merge**.
 
