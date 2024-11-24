@@ -54,8 +54,9 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
 
 <p>&nbsp;</p>
 
-4. **Bonus Section** - This section will offer general tips for the topics covered in this tutorial
+4. **Bonus Section** - This section will offer some general tips for the topics covered in this tutorial
 - [Tips for a professional Markdown](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#tips-for-a-professional-markdown)
+- [Tips for getting help with Github]()
 
 <p>&nbsp;</p>
 
@@ -212,6 +213,8 @@ Once back to your repository check that your revert was successful. You should h
 <p>&nbsp;</p>
 
 ## 1e. Merge Conflicts - what do they mean?
+
+Merge conflicts occur when you are collaborating with others on the same project and multiple people are trying to merge branches that have competing commits. Essentially you have each made different edits to the same script and Github doesn't understand how to combine them and so instead comes up with an error, a **merge conflict**. The easiest way to resolve merge conflicts is use the Github **Web Editor**. Here you can view the competing codes, and you can manually go through it to ascertain where the problem lies and which code to keep, or how to combine them ( the resolution is very dependent on the specific situation).
 
 <p>&nbsp;</p>
 
