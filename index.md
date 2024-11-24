@@ -35,7 +35,7 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
 - Changing image size and alignment
 
 *Text*
-- Text - headings, bold, italic, highlighting, colours
+- Text - [headings](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#headings), [bold](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#bold-text), [italic](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/edit/master/index.md#italic-text), [highlighting](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#highlighted-text), [colours](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#coloured-text)
 - [Changing text alignment](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#changing-text-alignment)
 - [Adding quotes](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#adding-quotes)
 - [Adding code & automatic copying](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#adding-code--automatic-copying)
@@ -232,6 +232,8 @@ Adding images, changing image size and alignment
 ## 3b. Text 
 
 ### Headings
+
+To add headings into your document simply add a hashtag (**#**) and a **space** before your desired heading. The more hashtags you add before your heading, the smaller your heading will become e.g. they will become like subheadings to your bigger headings.  
 
 <p>&nbsp;</p>
 
