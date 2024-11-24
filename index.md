@@ -289,7 +289,7 @@ To generate different coloured text use the below code:
 $\color{blue}{\text{Your\ text\ here}}$
 ```
 
-Add a backslash (\) and a space after each word to create spaces between the words. To change the colour simply type the colour you want into the curly brackets where **blue** currently is e.g. purple, green, yellow.
+Add a backslash and a space after each word to create spaces between the words. To change the colour simply type the colour you want into the curly brackets where **blue** currently is e.g. purple, green, yellow.
 
 **Important Note!** <mark>By changing the colour of the text the font of the text also changes. There isn't a way around this and so bear this in mind before changing the colour of your text.</mark>
 
