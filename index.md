@@ -28,7 +28,7 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
 - [Reverting Commits](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1c-reverting-commits)
 - Merge Conflicts - what do they mean?
   
-2. **What is a Markdown?** - Section two will cover what a Markdown document is
+2. [**What is a Markdown?**](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#2-what-is-a-markdown) - Section two will cover what a Markdown document is
 
 3. **Formatting a Markdown** - Section three will go over useful Markdown language
   
