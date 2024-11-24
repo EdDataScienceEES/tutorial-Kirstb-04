@@ -36,7 +36,7 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
 - Text (bold, italic, headings, fonts, colours, highlighting)
 - Changing text size and alignment
 - Adding quotes
-- Adding code & automatic copying
+- [Adding code & automatic copying](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#adding-code--automatic-copying)
   
 *Adding Links*
 
@@ -255,20 +255,23 @@ This becomes;
 
 > Your quote here
 
+<p>&nbsp;</p>
+
 ### Adding Code & Automatic Copying
 
-To add code you simply add backticks (**`**) around the code:
+To **add code** you simply add backticks (**`**) around the code:
 
 ```diff
-`Your code here`
+`Your code here e.g. library(dplyr)`
 ```
 
 This becomes;
 
-`Your code here`
+`Your code here e.g. library(dplyr)`
 
+<p>&nbsp;</p>
 
-To add automatic copying around text, as I have been using throughout this tutorial simply use the below code:
+To **add automatic copying** around text, as I have been using throughout this tutorial, simply use the below code:
 
 ```diff
 
@@ -276,7 +279,6 @@ To add automatic copying around text, as I have been using throughout this tutor
 The text you want copied here
 ```
 
-```
 
 This allows others to quickly and easily copy whatever is in the box. It is a very useful code, especially if you are making a coding tutorial!
 
