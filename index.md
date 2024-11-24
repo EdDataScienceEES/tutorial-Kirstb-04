@@ -31,8 +31,7 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
   
 *Images*
 
-- Adding images
-- Changing image size and alignment
+- [Adding images, changing size & alignment](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#3a-images)
 
 *Text*
 - Text - [headings](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#headings), [bold](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#bold-text), [italic](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#italic-text), [highlighting](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#highlighted-text), [colours](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#coloured-text)
@@ -222,12 +221,24 @@ A Markdown is a document which uses the Markdown markup coding language (confusi
 
 ## 3a. Images
 
-Adding images, changing image size and alignment
+### Adding Images, Changing Size & Alignment
+Adding images into your markdown document is surprisingly easy. Simply copy your desired image and paste it in!
+You can then change your image size and alignment using the below code:
 
 ```diff
-<img align="left" width="150" height="100" src="https://github.com/user-attachments/assets/15e3d8bb-acb0-4014-8505-b250fbc23c71" />
+<img align="left" width="150" src="the link for your image" />
 ```
 
+To get the link for your image, paste your image into the Markdown and copy the link from the brackets e.g. 
+
+<img width="550" src="https://github.com/user-attachments/assets/d3f3c701-7174-4e90-8f24-a7e0ff1d8c8f">
+
+- You can change the alignment by replacing **"left"** with **"center"** or **"right"**
+- You can change the width simply by changing the width number
+
+
+
+<p>&nbsp;</p>
 
 ## 3b. Text 
 
@@ -245,7 +256,7 @@ The code for bold text is:
 **Your bold text here**
 ```
 
-<mark>To automatically get the code for bold text press **ctrl** + **b** together.</mark>
+<mark>To automatically make text bold highlight the desired text and press **ctrl** + **b** together.</mark>
 
 <p>&nbsp;</p>
 
@@ -256,7 +267,7 @@ The code for italic text is:
 _Your italic text here_
 ```
 
-<mark>To automatically get the code for italic text press **ctrl** + **i** together.</mark>
+<mark>To automatically make text italic highlight the desired text and press **ctrl** + **i** together.</mark>
 
 <p>&nbsp;</p>
 
