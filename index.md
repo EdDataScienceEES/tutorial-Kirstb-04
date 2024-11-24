@@ -220,7 +220,7 @@ Merge conflicts occur when you are collaborating with others on the same project
 
 <p>&nbsp;</p>
 
-The easiest way to resolve merge conflicts is use the Github **Web Editor**. 
+The easiest way to resolve merge conflicts is use the Github **Web Editor**. The below message will appear once you have submitted the pull request. 
 
 <img width="683" alt="Screenshot 2024-11-24 131300" src="https://github.com/user-attachments/assets/022b685f-ddbc-4d05-a574-851f048b5e74">
 
