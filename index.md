@@ -26,7 +26,7 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
 - [Recap - what is Github?](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1a-recap---what-is-github)
 - [Folders & Files](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1b-folders--files---creating-them-moving-them-changing-their-names-and-deleting-them) - [Creating them](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#creating-folders--files), [moving them](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#moving-folders--files), [changing their names and deleting them](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#renaming-and-deleting-folders-and-files)
 - [Reverting Commits](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1c-reverting-commits)
-- Merge Conflicts - what do they mean?
+- [Merge Conflicts: what they mean & how to resolve them](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1e-merge-conflicts---what-do-they-mean)
   
 2. [**What is a Markdown?**](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#2-what-is-a-markdown) - Section two will cover what a Markdown document is
 
@@ -212,7 +212,7 @@ Once back to your repository check that your revert was successful. You should h
 
 <p>&nbsp;</p>
 
-## 1e. Merge Conflicts - what do they mean?
+## 1e. Merge Conflicts: What they mean & how to resolve them?
 
 Merge conflicts occur when you are collaborating with others on the same project and multiple people are trying to merge branches that have competing commits. Essentially you have each made different edits to the same script and Github doesn't understand how to combine them and so instead comes up with an error, a **merge conflict**. The merge conflict will appear when you create a pull request to merge two branches e.g. here I am trying to merge the alpha branch with the main branch but it isn't working due to a merge conflict.
 
@@ -235,7 +235,7 @@ Click on the Web Editor link and there you can view the competing codes (highlig
 
 <p>&nbsp;</p>
 
-Once you have resolved the code, you select **Mark as resolved** in the top right corner, then **Commit merge**. You will then be taken back to your repository where you can **Merge pull request** and **Confirm merge**.
+Once you have resolved the code, select **Mark as resolved** in the top right corner, then **Commit merge**. You will then be taken back to your repository where you can **Merge pull request** and **Confirm merge**.
 
 <p>&nbsp;</p>
 
