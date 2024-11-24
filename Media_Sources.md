@@ -1,1 +1,15 @@
 # Media Sources
+
+This document will provide sources for the media used in [my tutorial](index.md).
+
+- The two images used at the top of the tutorial were from [Coding Club](https://ourcodingclub.github.io/) and [Github](https://github.com/) respectively.
+
+<img align="left" width="150" height="100" src="https://github.com/user-attachments/assets/15e3d8bb-acb0-4014-8505-b250fbc23c71" />
+
+<img align="left" width = "100" src="https://github.com/user-attachments/assets/20eb3c53-d63a-4dd8-8e51-1b1bce654f1d" />
+
+- The diagram used in the **Recap - What is Github?** section was from the website [Noble Desktop](https://www.nobledesktop.com/learn/git/what-is-git)
+
+<img align="centre" width="632" alt="image" src="https://github.com/user-attachments/assets/514e5702-fd33-414d-beae-2c358ef7d80c">
+
+- The example Markdown documents used in the **Tips for a Professional Markdown** section were adapted from the Markdown I made in [Challenge 2](../Challenge-2-group-7/Markdown/Markdown_BBC_News_Story.md) of Data Science 2024
