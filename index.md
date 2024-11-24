@@ -26,7 +26,7 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
 - [Recap - what is Github?](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1a-recap---what-is-github)
 - [Folders & Files](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1b-folders--files---creating-them-moving-them-changing-their-names-and-deleting-them) - [Creating them](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#creating-folders--files), [moving them](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#moving-folders--files), [changing their names and deleting them](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#renaming-and-deleting-folders-and-files)
 - [Reverting Commits](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1c-reverting-commits)
-- **Merge Conflicts:** [What they mean & how to resolve them](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1e-merge-conflicts-what-they-mean--how-to-resolve-them)
+- [**Merge Conflicts:**](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1e-merge-conflicts-what-they-mean--how-to-resolve-them) What they mean & how to resolve them
   
 2. [**What is a Markdown?**](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#2-what-is-a-markdown) - Section two will cover what a Markdown document is
 
