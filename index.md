@@ -29,11 +29,13 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
 
 3. **Formatting a Markdown** - Section three will go over useful markdown language
   
-*Images and Text*
+*Images*
 
 - Adding images
 - Changing image size and alignment
-- Text (heading, bold, italic, colours, highlighting)
+
+*Text*
+- Text - headings, bold, italic, highlighting, colours
 - [Changing text alignment](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#changing-text-alignment)
 - [Adding quotes](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#adding-quotes)
 - [Adding code & automatic copying](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#adding-code--automatic-copying)
@@ -218,7 +220,7 @@ A Markdown is a document which uses the Markdown markup coding language (confusi
 
 <p>&nbsp;</p>
 
-## 3a. Images and Text
+## 3a. Images
 
 Adding images, changing image size and alignment
 
@@ -227,19 +229,56 @@ Adding images, changing image size and alignment
 ```
 
 
-Text (bold, italic, headings, fonts, colours, highlighting)
+## 3b. Text 
 
-- **ctrl** + **b** to automatically get the code for bold text
+### Headings
+
+<p>&nbsp;</p>
+
+### Bold Text
+
+The code for bold text is:
 
 ```diff
 **Your bold text here**
 ```
 
-- **ctrl** + **i** to automatically get the code for italic text
+<mark>To automatically get the code for bold text press **ctrl** + **b** together.</mark>
 
+<p>&nbsp;</p>
+
+### Italic Text 
+
+The code for italic text is:
 ```diff
 _Your italic text here_
 ```
+
+<mark>To automatically get the code for italic text press **ctrl** + **i** together.</mark>
+
+<p>&nbsp;</p>
+
+### Highlighted Text
+
+To highlight text simply use the below code:
+
+```diff
+<mark> Your highlighted text </mark>
+```
+
+<p>&nbsp;</p>
+
+### Coloured Text
+
+To generate different coloured text use the below code:
+
+```diff
+$\color{blue}{\text{Your\ text\ here}}$
+```
+
+Add a backslash (\) and a space after each word to create spaces between the words. To change the colour simply type the colour you want into the curly brackets where **blue** currently is e.g. purple, green, yellow.
+
+**Important Note!** <mark>By changing the colour of the text the font of the text also changes. There isn't a way around this and so bear this in mind when changing the colour of your text.</mark>
 
 <p>&nbsp;</p>
 
@@ -311,7 +350,7 @@ This allows others to quickly and easily copy whatever is in the box. It is a ve
 
 <p>&nbsp;</p>
 
-## 3b. Adding Links
+## 3c. Adding Links
 
 ### Linking Within Github
 To link within Github you can either **link to something in your Markdown document** or you can **link to another folder/file in your general repository**. To link to something that's in your Markdown document you simply use the following code:
@@ -353,7 +392,7 @@ Thankfully linking outwith Github is a lot simpler! Just copy and paste the link
 
 <p>&nbsp;</p>
 
-## 3c. General Formatting
+## 3d. General Formatting
 
 ### Adding Sections to Your Markdown
 
