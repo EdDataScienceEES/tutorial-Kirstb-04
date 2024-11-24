@@ -8,8 +8,20 @@ This document will provide sources for the media used in [my tutorial](index.md)
 
 <img align="left" width = "100" src="https://github.com/user-attachments/assets/20eb3c53-d63a-4dd8-8e51-1b1bce654f1d" />
 
-- The diagram used in the **Recap - What is Github?** section was from the website [Noble Desktop](https://www.nobledesktop.com/learn/git/what-is-git)
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+- The diagram used in the **Recap - What is Github?** section was from the website [Noble Desktop].(https://www.nobledesktop.com/learn/git/what-is-git)
 
 <img align="centre" width="632" alt="image" src="https://github.com/user-attachments/assets/514e5702-fd33-414d-beae-2c358ef7d80c">
 
-- The example Markdown documents used in the **Tips for a Professional Markdown** section were adapted from the Markdown I made in **Challenge 2** of Data Science 2024
+
+<p>&nbsp;</p>
+
+- The example Markdown documents used in the **Tips for a Professional Markdown** section were adapted from the Markdown I made in **Challenge 2** of Data Science 2024.
