@@ -234,7 +234,7 @@ To get the link for your image, paste your image into the Markdown and copy the 
 <img width="550" src="https://github.com/user-attachments/assets/d3f3c701-7174-4e90-8f24-a7e0ff1d8c8f">
 
 - You can change the alignment by replacing **"left"** with **"center"** or **"right"**
-- You can change the width simply by changing the width number
+- You can change the overall size of the image simply by changing the width number
 
 
 
