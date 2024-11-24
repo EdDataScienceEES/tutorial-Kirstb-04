@@ -117,13 +117,13 @@ The easiest way to move folders and files in Github is to use the Github Web Edi
 
 <p>&nbsp;</p>
 
-Whether you want to move a single file or a whole folder the process is the same. Simply **left click** on the folder or file you want to move and **drag** it to whatever folder you want to add it to. You will then get a message pop up asking if you are sure, click **Move**
+Whether you want to move a single file or a whole folder the process is the same. Simply **left click** on the folder or file you want to move and **drag** it to whatever folder you want to add it to. You will then get a message pop up asking if you are sure, click **Move**.
 
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/6b80685f-d198-4ab2-9b9e-47b9c24ca68e">
 
 <p>&nbsp;</p>
 
-Once you have done this you will need to commit your changes. Go to the **Source Control** tab on the left hand side of the Web Editor, add a meaninfull commit message and then click **Commit & Push**
+Once you have done this you will need to commit your changes. Go to the **Source Control** tab on the left hand side of the Web Editor, add a meaningfull commit message and then click **Commit & Push**.
 
 <img width="400" alt="Screenshot 2024-11-23 155905" src="https://github.com/user-attachments/assets/dfb5acd2-00e1-4165-9b81-12261dddb18e">
 
