@@ -217,8 +217,9 @@ Once back to your repository check that your revert was successful. You should h
 
 ## 2. What is a Markdown?
 
-A Markdown is a document which uses the Markdown markup coding language (confusing names I know!) 
-[R Markdown](https://ourcodingclub.github.io/tutorials/rmarkdown/)
+A Markdown is a plain-text document that uses a markup language to add formatting elements, such as headings and images. You can create a Markdown in a number of programs including R studio (for a tutorial on this see the coding club's tutorial [Getting Started with R Markdown](https://ourcodingclub.github.io/tutorials/rmarkdown/)). However I will be going over how to create a Markdown in Github. To do this simply add a new file into your repository, name it whatever you like but remeber to end your name with .md e.g. Coding Tutorial.md, this will create a markdown file. 
+
+Once created you can explore your Markdown. There are two tabs at the top, **Edit** and **Preview**. The **Edit** tab is where you write your text and markup language, and the **Preview tab** is where you can check how your code will look before you commit it. 
 
 <p>&nbsp;</p>
 
