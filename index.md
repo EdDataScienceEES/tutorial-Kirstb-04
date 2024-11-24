@@ -247,15 +247,15 @@ Changing text size and alignment
 
 To add a quote into your markdown simply put a **>** before your quote:
 
-```diff
+```plaintext
 
-> Your quote here e.g One small step for man, one giant leap for man kind
+> Your quote here
 
 ```
 
 This becomes;
 
-> Your quote here e.g One small step for man, one giant leap for man kind
+> Your quote here
 
 <p>&nbsp;</p>
 
@@ -264,12 +264,12 @@ This becomes;
 To **add code** you simply add backticks (**`**) around the code:
 
 ```diff
-`Your code here e.g. library(dplyr)`
+`Your code here, e.g. library(dplyr)`
 ```
 
 This becomes;
 
-`Your code here e.g. library(dplyr)`
+`Your code here, e.g. library(dplyr)`
 
 <p>&nbsp;</p>
 
@@ -277,14 +277,14 @@ To **add automatic copying** around text, as I have been using throughout this t
 
 ```diff
 
-```diff
+```plaintext
 The text you want copied here
 ```
 
 
 **Important Note!** <mark>You need to add another three backticks below the text you want copied for the code to work.</mark> Due to a formatting glitch I couldn't add this into the above code! e.g. 
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/52567ed3-0218-4db2-a06f-c63b0e2c9745">
+<img width="290" alt="image" src="https://github.com/user-attachments/assets/38576cd1-56f0-41de-8ad0-c8c01bbd5c9c">
 
 
 This allows others to quickly and easily copy whatever is in the box. It is a very useful code, especially if you are making a coding tutorial!
