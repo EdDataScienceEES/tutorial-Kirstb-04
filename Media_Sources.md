@@ -12,4 +12,4 @@ This document will provide sources for the media used in [my tutorial](index.md)
 
 <img align="centre" width="632" alt="image" src="https://github.com/user-attachments/assets/514e5702-fd33-414d-beae-2c358ef7d80c">
 
-- The example Markdown documents used in the **Tips for a Professional Markdown** section were adapted from the Markdown I made in [Challenge 2](../Challenge-2-group-7/Markdown/Markdown_BBC_News_Story.md) of Data Science 2024
+- The example Markdown documents used in the **Tips for a Professional Markdown** section were adapted from the Markdown I made in Challenge 2 of Data Science 2024
