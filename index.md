@@ -241,7 +241,9 @@ Text (bold, italic, headings, fonts, colours, highlighting)
 _Your italic text here_
 ```
 
-### Changing text alignment
+<p>&nbsp;</p>
+
+### Changing Text Alignment
 
 If you want to change your text alignment simply use the below code:
 
