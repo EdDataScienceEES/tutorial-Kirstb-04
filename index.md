@@ -216,7 +216,8 @@ Once back to your repository check that your revert was successful. You should h
 
 Merge conflicts occur when you are collaborating with others on the same project and multiple people are trying to merge branches that have competing commits. Essentially you have each made different edits to the same script and Github doesn't understand how to combine them and so instead comes up with an error, a **merge conflict**. The merge conflict will appear when you create a pull request to merge two branches _e.g. here I am trying to merge the alpha branch with the main branch but it isn't working due to a merge conflict._
 
-<img width="787" alt="image" src="https://github.com/user-attachments/assets/18c297f1-ae05-4da3-a76d-0daedf1feb96">
+<img width="787" alt="Screenshot 2024-11-24 131941" src="https://github.com/user-attachments/assets/1a64d344-597d-46e7-90e3-1650fee789f1">
+
 
 <p>&nbsp;</p>
 
@@ -228,6 +229,7 @@ There you can view the competing codes (highlighted by the red lines), and you c
 
 <img width="928" alt="image" src="https://github.com/user-attachments/assets/b3f92bda-31c6-43b3-9374-0b95df25a6e9">
 
+Once you have resolved the code, you select **Mark as resolved** in the top right corner, then **Commit merge**. You will then be taken back to your repository where you can **Merge pull request** and **Confirm merge**.
 
 <p>&nbsp;</p>
 
