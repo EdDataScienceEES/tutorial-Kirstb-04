@@ -391,7 +391,7 @@ To link to elsewhere in your repository it will be a similar code:
 [the title of your link](the file path)
 ```
 
-If you want to link to a file that is in the same place as your Markdown, then the file path is simply the files name e.g. README.md for example. However if the file or folder is not in the same place as your Markdown then you need to type **../** before you type the file path. This command essentially says take me to the main directory and then find the file from there. So let's say you wanted to link to a file called **Outputs** that was in **Folder1**, then your file path would be **<mark>(../Folder1/Outputs)</mark>**.
+If you want to link to a file that is in the same place as your Markdown, then the file path is simply the name of the file e.g. README.md for example. However if the file or folder is not in the same place as your Markdown then you need to type **../** before you type the file path. This command essentially says take me to the main directory and then find the file from there. So let's say you wanted to link to a file called **Outputs** that was in **Folder1**, then your file path would be **<mark>(../Folder1/Outputs)</mark>**.
 
 <p>&nbsp;</p>
 
