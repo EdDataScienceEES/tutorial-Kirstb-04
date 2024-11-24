@@ -227,7 +227,7 @@ The easiest way to resolve merge conflicts is use the Github **web editor**. The
 <img width="683" alt="Screenshot 2024-11-24 131300" src="https://github.com/user-attachments/assets/022b685f-ddbc-4d05-a574-851f048b5e74">
 
 <p>&nbsp;</p>
-Click on the web editor link and there you can view the competing codes (highlighted by the red lines), and you can manually go through it to ascertain where the problem lies and which code to keep, or how to combine them ( the resolution is very dependent on the specific situation).
+Click on the web editor link and there you can view the competing codes (which are helpfully highlighted), and you can manually go through it to ascertain where the problem lies and which code to keep, or how to combine them ( the resolution is very dependent on the specific situation).
 
 ![Screenshot 2024-11-24 131425](https://github.com/user-attachments/assets/454c26b8-d33c-4f6e-8140-20d32b1d354d)
 
