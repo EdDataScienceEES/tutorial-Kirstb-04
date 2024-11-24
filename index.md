@@ -353,7 +353,7 @@ You can add as many collapsable sections into your markdown as you like, it can 
 
 ### Adding Spacing to Your Markdown
 
-You may have noticed that no matter how many times you hit **Enter** in your Markdown code as soon as you click **Preview** the space you created disappeared and your blocks of text comes one after the other. A useful code to sort this is:
+You may have noticed that no matter how many times you hit **Enter** in your Markdown code as soon as you click **Preview** the space you created disappeared and your blocks of text come one after the other. A useful code to sort this is:
 
 ```diff
 <p>&nbsp;</p>
