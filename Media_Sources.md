@@ -17,7 +17,7 @@ This document provides the sources of the media used in [my tutorial](index.md).
 
 <p>&nbsp;</p>
 
-- The diagram used in the **Recap - What is Github?** section was from the website [Noble Desktop].(https://www.nobledesktop.com/learn/git/what-is-git)
+- The diagram used in the **Recap - What is Github?** section was from the website [Noble Desktop](https://www.nobledesktop.com/learn/git/what-is-git).
 
 <img align="centre" width="632" alt="image" src="https://github.com/user-attachments/assets/514e5702-fd33-414d-beae-2c358ef7d80c">
 
