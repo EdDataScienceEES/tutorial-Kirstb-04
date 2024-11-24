@@ -30,7 +30,7 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
   
 2. [**What is a Markdown?**](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#2-what-is-a-markdown) - Section two will cover what a Markdown document is
 
-3. **Formatting a Markdown** - Section three will go over useful Markdown language
+3. [**Formatting a Markdown**] (https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#3-formatting-a-markdown)- Section three will go over useful Markdown language
   
 *Images*
 
@@ -224,6 +224,8 @@ Once created you can explore your Markdown. When editing your document there are
 Although the prospect of learning another coding langauge may be daunting, don't worry! The markup langauge is actually very simple and straight forward, I'll go through some of the most common codes below.
 
 <p>&nbsp;</p>
+
+## 3. Formatting a Markdown
 
 ## 3a. Images
 
