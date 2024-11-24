@@ -248,18 +248,18 @@ _Your italic text here_
 If you want to change your text alignment simply use the below code:
 
 ```diff
-<p align="right">
+<p align="center">
 Your content
 </p>
 ```
 
 This becomes;
 
-<p align="centre">
+<p align="center">
 Your content
 </p>
 
-If you want your text aligned to the right then simply remove **"centre"** from the above code and replace it with **"right"**.
+If you want your text aligned to the right then simply remove **"center"** from the above code and replace it with **"right"**.
 
 <p>&nbsp;</p>
 
