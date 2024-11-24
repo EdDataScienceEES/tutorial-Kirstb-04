@@ -280,6 +280,11 @@ The text you want copied here
 ```
 
 
+**Important Note!** <mark>You need to add another three backticks below the text you want copied for the code to work.</mark> Due to a formatting glitch I couldn't add this into the above code! e.g. 
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/52567ed3-0218-4db2-a06f-c63b0e2c9745">
+
+
 This allows others to quickly and easily copy whatever is in the box. It is a very useful code, especially if you are making a coding tutorial!
 
 <p>&nbsp;</p>
