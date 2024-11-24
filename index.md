@@ -51,7 +51,7 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
 <p>&nbsp;</p>
 
 4. **Bonus Section** - This section will offer general tips for the topics covered in this tutorial
-- [Tips for a professional Markdown](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#4-bonus-section---tips-for-a-professional-markdown)
+- [Tips for a professional Markdown](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#tips-for-a-professional-markdown)
 
 <p>&nbsp;</p>
 
@@ -363,7 +363,9 @@ This creates a line of space. Simply copy and paste this as many times as you li
 
 <p>&nbsp;</p>
 
-## 4. Bonus Section - tips for a professional Markdown
+## 4. Bonus Section 
+
+### Tips for a professional Markdown
 
 The style and layout of your Markdown will vary depending on your specific project, but in this section I will go over some general tips that are good to keep in mind!
 
