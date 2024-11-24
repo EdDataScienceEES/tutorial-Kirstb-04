@@ -34,7 +34,7 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
 - Adding images
 - Changing image size and alignment
 - Text (bold, italic, headings, fonts, colours, highlighting)
-- Changing text size and alignment
+- [Changing text alignment](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#changing-text-alignment)
 - [Adding quotes](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#adding-quotes)
 - [Adding code & automatic copying](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#adding-code--automatic-copying)
   
@@ -241,7 +241,25 @@ Text (bold, italic, headings, fonts, colours, highlighting)
 _Your italic text here_
 ```
 
-Changing text size and alignment
+### Changing text alignment
+
+If you want to change your text alignment simply use the below code:
+
+```diff
+<p align="right">
+Your content
+</p>
+```
+
+This becomes;
+
+<p align="centre">
+Your content
+</p>
+
+If you want your text aligned to the right then simply remove **"centre"** from the above code and replace it with **"right"**.
+
+<p>&nbsp;</p>
 
 ### Adding quotes
 
