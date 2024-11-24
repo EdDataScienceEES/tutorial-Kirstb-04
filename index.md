@@ -25,9 +25,9 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
 - [Reverting Commits](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1c-reverting-commits)
 - Merge Conflicts - what do they mean?
   
-2. **What is a Markdown?** - Section two will cover what a markdown document is
+2. **What is a Markdown?** - Section two will cover what a Markdown document is
 
-3. **Formatting a Markdown** - Section three will go over useful markdown language
+3. **Formatting a Markdown** - Section three will go over useful Markdown language
   
 *Images*
 
@@ -137,7 +137,7 @@ To return to your repository click the three horizontal lines in the top left of
 
 ### Renaming and Deleting Folders and Files
 
-There are a number of ways that you can change folder and file names as well as deleting them. You can makes changes in R studio (if you have connected your Github repository and your R studio), you can make changes in your Github repository directly, or you can use the Github web editor. Although all valid choices I will again be showing you how to do this in the web editor. It's a very useful tool and it's therefore good to get to grips with it. 
+There are a number of ways that you can change folder and file names as well as deleting them. You can makes changes in R studio (if you have connected your Github repository and your R studio), you can make changes in your Github repository directly, or you can use the Github Web Editor. Although all valid choices I will again be showing you how to do this in the Web Editor. It's a very useful tool and it's therefore good to get to grips with it. 
 
 Open the Github Web Editor (on the homepage of your repository press the full stop/period key (**.**)). Once on the Web Editor simply right click on whatever folder or file you want to rename or delete and select whichever option is appropriate.
 
@@ -151,7 +151,7 @@ Then simply follow the on-screen instructions. Before returning to your reposito
 
 ## 1c. Reverting Commits
 
-Ever mistakenly made a commit that you desperately want to take back? Don't worry we've all done it. Simply use the Github web editor to revert your commit. 
+Ever mistakenly made a commit that you desperately want to take back? Don't worry we've all done it. Simply use the Github Web Editor to revert your commit. 
 
 First you need to copy the id code of the commit your wanting to convert.
 - Go into your commit history
@@ -166,7 +166,7 @@ First you need to copy the id code of the commit your wanting to convert.
 
 <p>&nbsp;</p>
 
-You then need to open the Github **web page editor**. To do this go to your repository home page and press the full stop/period key (**.**)
+You then need to open the Github **Web Editor**. To do this go to your repository home page and press the full stop/period key (**.**)
 - You should get a page that looks something like this
 
 <img width="955" alt="Screenshot 2024-11-22 160336" src="https://github.com/user-attachments/assets/1de26c52-b74a-40c9-82f4-e22e7cd0b989">
@@ -222,7 +222,7 @@ A Markdown is a document which uses the Markdown markup coding language (confusi
 ## 3a. Images
 
 ### Adding Images, Changing Size & Alignment
-Adding images into your markdown document is surprisingly easy. Simply copy your desired image and paste it in!
+Adding images into your Markdown document is surprisingly easy. Simply copy your desired image and paste it in!
 You can then change your image size and alignment using the below code:
 
 ```diff
@@ -317,7 +317,7 @@ If you want your text aligned to the right then simply remove **"center"** from 
 
 ### Adding quotes
 
-To add a quote into your markdown simply put a **>** before your quote:
+To add a quote into your Markdown simply put a **>** before your quote:
 
 ```plaintext
 
@@ -428,7 +428,7 @@ Your section contents
 
 </details>
 
-You can add as many collapsable sections into your markdown as you like, it can be very useful if you have a long document!
+You can add as many collapsable sections into your Markdown as you like, it can be very useful if you have a long document!
 
 <p>&nbsp;</p>
 
