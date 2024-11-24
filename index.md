@@ -508,3 +508,13 @@ On the other hand this example looks more like a school project than a proffessi
 
 
 This is a good mix of the two above examples. It has a set format throughout, and only uses images and colours where necessary. It engages the viewer but also provides only the necessary information, resulting in a concise and professional Markdown document.
+
+<p>&nbsp;</p>
+
+
+### Tips for Getting Help with Github
+A final tip I have for you is to use google, I cannot emphasise this enough!! All of the things I've talked through in this tutorial I learned through websites, chat forums, and videos. I gurantee that any question you have, whether it be on markup language, on Github, or even on general coding someone else has had the same question! You would be suprised by how useful google results are even for the most obscure questions. 
+
+## Useful Links:
+- For all of the Coding Club tutorials [click here](https://ourcodingclub.github.io/tutorials)
+- For the sources of the media I used in this tutorial see the [Media Sources](Media Sources.md) document in this repository
