@@ -217,7 +217,7 @@ Once back to your repository check that your revert was successful. You should h
 
 ## 2. What is a Markdown?
 
-A Markdown is a plain-text document that uses a markup language to add formatting elements, such as headings and images. You can create a Markdown in a number of programs including R studio (for a tutorial on this see the Coding Club's tutorial [Getting Started with R Markdown](https://ourcodingclub.github.io/tutorials/rmarkdown/)). However I will be going over how to create a Markdown in Github. To do this simply add a new file into your repository, name it whatever you like but remeber to end your name with .md e.g. Coding Tutorial.md, this will create a markdown file. 
+A Markdown is a plain-text document that uses a markup language to add formatting elements, such as headings and images. You can create a Markdown in a number of programs including R studio (for a tutorial on this see the Coding Club's tutorial [Getting Started with R Markdown](https://ourcodingclub.github.io/tutorials/rmarkdown/)). However I will be going over how to create a Markdown in Github. To do this simply add a new file into your repository, name it whatever you like but remeber to end your name with .md _e.g. Coding Tutorial.md_, this will create a markdown file. 
 
 Once created you can explore your Markdown. Once editing your document there are two tabs at the top, **Edit** and **Preview**. The **Edit** tab is where you write your text and markup language, and the **Preview tab** is where you can check how your code will look before you commit it. Once you have commited any changes you can then see a **Preview** of your document, the **Code** used to create it, and a **Blame** where you can see who made changes to the document and when. 
 
@@ -250,7 +250,7 @@ To get the link for your image, paste your image into the Markdown and copy the 
 
 ### Headings
 
-To add headings into your document simply add a hashtag (**#**) and a **space** before your desired heading. The more hashtags you add before your heading, the smaller your heading will become e.g. they will become like subheadings to your bigger headings.  
+To add headings into your document simply add a hashtag (**#**) and a **space** before your desired heading. The more hashtags you add before your heading the smaller your heading will become, they will become like subheadings to your bigger headings.  
 
 <p>&nbsp;</p>
 
@@ -295,7 +295,7 @@ To generate different coloured text use the below code:
 $\color{blue}{\text{Your\ text\ here}}$
 ```
 
-Add a backslash and a space after each word to create spaces between the words. To change the colour simply type the colour you want into the curly brackets where **blue** currently is e.g. purple, green, yellow.
+Add a backslash and a space after each word to create spaces between the words. To change the colour simply type the colour you want into the curly brackets where **blue** currently is _e.g. purple, green, yellow_.
 
 **Important Note!** <mark>By changing the colour of the text the font of the text also changes. There isn't a way around this and so bear this in mind before changing the colour of your text.</mark>
 
@@ -397,7 +397,7 @@ To link to elsewhere in your repository it will be a similar code:
 [the title of your link](the file path)
 ```
 
-If you want to link to a file that is in the same place as your Markdown, then the file path is simply the name of the file e.g. README.md for example. However if the file or folder is not in the same place as your Markdown then you need to type **../** before you type the file path. This command essentially says take me to the main directory and then find the file from there. So let's say you wanted to link to a file called **Outputs** that was in **Folder1**, then your file path would be **<mark>(../Folder1/Outputs)</mark>**.
+If you want to link to a file that is in the same place as your Markdown, then the file path is simply the name of the file _e.g. README.md_ for example. However if the file or folder is not in the same place as your Markdown then you need to type **../** before you type the file path. This command essentially says take me to the main directory and then find the file from there. So let's say you wanted to link to a file called **Outputs** that was in **Folder1**, then your file path would be **<mark>(../Folder1/Outputs)</mark>**.
 
 <p>&nbsp;</p>
 
