@@ -33,7 +33,7 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
 
 - Adding images
 - Changing image size and alignment
-- Text (bold, italic, headings, fonts, colours, highlighting)
+- Text (heading, bold, italic, colours, highlighting)
 - [Changing text alignment](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#changing-text-alignment)
 - [Adding quotes](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#adding-quotes)
 - [Adding code & automatic copying](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#adding-code--automatic-copying)
