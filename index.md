@@ -115,7 +115,7 @@ To have a folder within a folder simply type a forward slash (**/**) after your 
 
 ### Moving Folders & Files
 
-The easiest way to move folders and files in Github is to use the Github web editor. To access this go to the homepage of your repository and press the full stop/period key (**.**). This should open a page that looks something like this:
+The easiest way to move folders and files in Github is to use the Github **web editor**. To access this go to the homepage of your repository and press the full stop/period key (**.**). This should open a page that looks something like this:
 
 <img width="958" alt="image" src="https://github.com/user-attachments/assets/d1b72e49-c16b-4299-bc73-158b2dd96729">
 
@@ -149,7 +149,7 @@ Open the Github web editor (on the homepage of your repository press the full st
 
 <p>&nbsp;</p>
 
-Then simply follow the on-screen instructions. Before returning to your repository remember to **Commit & Push** on the **Source Control** tab, and write a meaningful commit message. **Forgotten how do do these steps?** <mark>See the [Moving Folders & Files](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#moving-folders--files) section above </mark>
+Then simply follow the on-screen instructions. Before returning to your repository remember to **Commit & Push** on the **Source Control** tab, and write a meaningful commit message. **Forgotten how do do these steps?** <mark>See the [Moving Folders & Files](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#moving-folders--files) section above </mark>.
 
 <p>&nbsp;</p>
 
@@ -157,8 +157,7 @@ Then simply follow the on-screen instructions. Before returning to your reposito
 
 Ever mistakenly made a commit that you desperately want to take back? Don't worry we've all done it. Simply use the Github web editor to revert your commit. 
 
-First you need to copy the id code of the commit your wanting to convert.
-- Go into your commit history
+First you need to copy the id code of the commit your wanting to convert. Go into your commit history:
 
 <img width="676" alt="Screenshot 2024-11-22 155851" src="https://github.com/user-attachments/assets/db009ca0-02ac-44f0-9565-044385bcb833">
 
@@ -391,7 +390,7 @@ The text you want copied here
 <img width="290" alt="image" src="https://github.com/user-attachments/assets/38576cd1-56f0-41de-8ad0-c8c01bbd5c9c">
 
 
-This allows others to quickly and easily copy whatever is in the box. It is a very useful code, especially if you are making a coding tutorial!
+This allows others to quickly and easily copy whatever is in the box. It's a very useful code, especially if you are making a coding tutorial!
 
 <p>&nbsp;</p>
 
@@ -513,7 +512,9 @@ This is a good mix of the two above examples. It has a set format throughout, an
 
 
 ### Tips for Getting Help with Github
-A final tip I have for you is to use google, I cannot emphasise this enough!! All of the things I've talked through in this tutorial I learned through websites, chat forums, and videos. I gurantee that any question you have, whether it be on markup language, on Github, or even on general coding someone else has had the same question! You would be suprised by how useful google is even for the most obscure questions. 
+A final tip I have for you is to use Google, I cannot emphasise this enough!! All of the things I've talked through in this tutorial I learned through websites, chat forums, and videos. I gurantee that any question you have, whether it be on markup language, on Github, or even on general coding someone else has had the same question! You would be suprised by how useful Google is even for the most obscure questions. 
+
+Yay, you made it to the end of the tutorial! Hopefully you understand more about Github and Markdowns than you did before, and remember, any questions, ask Google!  
 
 ## Useful Links:
 - For all of the Coding Club tutorials [click here](https://ourcodingclub.github.io/tutorials)
