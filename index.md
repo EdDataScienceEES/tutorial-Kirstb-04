@@ -255,9 +255,9 @@ This becomes;
 
 > Your quote here
 
-Inserting code & automatic copying
+### Adding Code & Automatic Copying
 
-To add code you simply add backticks (**`**) around the code
+To add code you simply add backticks (**`**) around the code:
 
 ```diff
 `Your code here`
@@ -268,17 +268,17 @@ This becomes;
 `Your code here`
 
 
-To add automatic copying around text, as I have been using throughout this tutorial simply use the below code;
+To add automatic copying around text, as I have been using throughout this tutorial simply use the below code:
 
 ```diff
 
 ```diff
 The text you want copied here
 ```
-```
 
 ```
 
+This allows others to quickly and easily copy whatever is in the box. It is a very useful code, especially if you are making a coding tutorial!
 
 <p>&nbsp;</p>
 
