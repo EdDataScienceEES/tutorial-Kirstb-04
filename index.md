@@ -35,7 +35,7 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
 - Changing image size and alignment
 - Text (bold, italic, headings, fonts, colours, highlighting)
 - Changing text size and alignment
-- Adding quotes
+- [Adding quotes](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#adding-quotes)
 - [Adding code & automatic copying](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#adding-code--automatic-copying)
   
 *Adding Links*
@@ -243,17 +243,19 @@ _Your italic text here_
 
 Changing text size and alignment
 
-Adding quotes
+### Adding quotes
 
-To add a quote simply put a **>** before your quote
+To add a quote into your markdown simply put a **>** before your quote:
 
 ```diff
-> Your quote here
+
+> Your quote here e.g One small step for man, one giant leap for man kind
+
 ```
 
 This becomes;
 
-> Your quote here
+> Your quote here e.g One small step for man, one giant leap for man kind
 
 <p>&nbsp;</p>
 
