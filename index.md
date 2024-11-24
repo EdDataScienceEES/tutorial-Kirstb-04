@@ -115,7 +115,7 @@ To have a folder within a folder simply type a forward slash (**/**) after your 
 
 ### Moving Folders & Files
 
-The easiest way to move folders and files in Github is to use the Github Web Editor. To access this go to the homepage of your repository and press the full stop/period key (**.**). This should open a page that looks something like this:
+The easiest way to move folders and files in Github is to use the Github web editor. To access this go to the homepage of your repository and press the full stop/period key (**.**). This should open a page that looks something like this:
 
 <img width="958" alt="image" src="https://github.com/user-attachments/assets/d1b72e49-c16b-4299-bc73-158b2dd96729">
 
@@ -127,7 +127,7 @@ Whether you want to move a single file or a whole folder the process is the same
 
 <p>&nbsp;</p>
 
-Once you have done this you will need to commit your changes. Go to the **Source Control** tab on the left hand side of the Web Editor, add a meaningfull commit message and then click **Commit & Push**.
+Once you have done this you will need to commit your changes. Go to the **Source Control** tab on the left hand side of the web editor, add a meaningfull commit message and then click **Commit & Push**.
 
 <img width="400" alt="Screenshot 2024-11-23 155905" src="https://github.com/user-attachments/assets/dfb5acd2-00e1-4165-9b81-12261dddb18e">
 
@@ -141,9 +141,9 @@ To return to your repository click the three horizontal lines in the top left of
 
 ### Renaming and Deleting Folders and Files
 
-There are a number of ways that you can change folder and file names as well as deleting them. You can makes changes in R studio (if you have connected your Github repository and your R studio), you can make changes in your Github repository directly, or you can use the Github Web Editor. Although all valid choices I will again be showing you how to do this in the Web Editor. It's a very useful tool and it's therefore good to get to grips with it. 
+There are a number of ways that you can change folder and file names as well as deleting them. You can makes changes in R studio (if you have connected your Github repository and your R studio), you can make changes in your Github repository directly, or you can use the Github web editor. Although all valid choices I will again be showing you how to do this in the web editor. It's a very useful tool and it's therefore good to get to grips with it. 
 
-Open the Github Web Editor (on the homepage of your repository press the full stop/period key (**.**)). Once on the Web Editor simply right click on whatever folder or file you want to rename or delete and select whichever option is appropriate.
+Open the Github web editor (on the homepage of your repository press the full stop/period key (**.**)). Once on the web editor simply right click on whatever folder or file you want to rename or delete and select whichever option is appropriate.
 
 <img width = "400" alt="Screenshot 2024-11-23 160820" src="https://github.com/user-attachments/assets/ab92481a-3d13-422a-8ea4-f946a4193a7c">
 
@@ -155,7 +155,7 @@ Then simply follow the on-screen instructions. Before returning to your reposito
 
 ## 1c. Reverting Commits
 
-Ever mistakenly made a commit that you desperately want to take back? Don't worry we've all done it. Simply use the Github Web Editor to revert your commit. 
+Ever mistakenly made a commit that you desperately want to take back? Don't worry we've all done it. Simply use the Github web editor to revert your commit. 
 
 First you need to copy the id code of the commit your wanting to convert.
 - Go into your commit history
@@ -170,7 +170,7 @@ First you need to copy the id code of the commit your wanting to convert.
 
 <p>&nbsp;</p>
 
-You then need to open the Github **Web Editor**. To do this go to your repository home page and press the full stop/period key (**.**)
+You then need to open the Github **web editor**. To do this go to your repository home page and press the full stop/period key (**.**)
 - You should get a page that looks something like this
 
 <img width="955" alt="Screenshot 2024-11-22 160336" src="https://github.com/user-attachments/assets/1de26c52-b74a-40c9-82f4-e22e7cd0b989">
@@ -223,12 +223,12 @@ Merge conflicts occur when you are collaborating with others on the same project
 
 <p>&nbsp;</p>
 
-The easiest way to resolve merge conflicts is use the Github **Web Editor**. The below message will appear once you have submitted the pull request. 
+The easiest way to resolve merge conflicts is use the Github **web editor**. The below message will appear once you have submitted the pull request. 
 
 <img width="683" alt="Screenshot 2024-11-24 131300" src="https://github.com/user-attachments/assets/022b685f-ddbc-4d05-a574-851f048b5e74">
 
 <p>&nbsp;</p>
-Click on the Web Editor link and there you can view the competing codes (highlighted by the red lines), and you can manually go through it to ascertain where the problem lies and which code to keep, or how to combine them ( the resolution is very dependent on the specific situation).
+Click on the web editor link and there you can view the competing codes (highlighted by the red lines), and you can manually go through it to ascertain where the problem lies and which code to keep, or how to combine them ( the resolution is very dependent on the specific situation).
 
 ![Screenshot 2024-11-24 131425](https://github.com/user-attachments/assets/454c26b8-d33c-4f6e-8140-20d32b1d354d)
 
