@@ -516,7 +516,7 @@ A final tip I have for you is to use Google, I cannot emphasise this enough!! Al
 
 <p>&nbsp;</p>
 
-<mark>Anyway, that's it, you made it to the end of the tutorial! Hopefully you understand more about Github and Markdowns than you did before, and remember, any questions, ask Google!</mark>
+<mark>**Anyway, that's it, you made it to the end of the tutorial!** Hopefully you understand more about Github and Markdowns than you did before, and remember, any questions, ask Google!</mark>
 
 ## Useful Links:
 - For all of the Coding Club tutorials [click here](https://ourcodingclub.github.io/tutorials)
