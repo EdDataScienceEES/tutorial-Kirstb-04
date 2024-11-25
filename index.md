@@ -60,6 +60,10 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
 - [Tips for a professional Markdown](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#tips-for-a-professional-markdown)
 - [Tips for getting help with GitHub](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#tips-for-getting-help-with-github)
 
+5. [**Useful Links**](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#useful-links)
+
+6. [**Contact Details**](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#contact-details)
+
 <p>&nbsp;</p>
 
 ## 1a. Recap - what is GitHub?
@@ -518,8 +522,15 @@ A final tip I have for you is to use Google, I cannot emphasise this enough!! Al
 
 <p>&nbsp;</p>
 
-<mark>**Anyway, that's it, you made it to the end of the tutorial!** Hopefully you understand more about GitHub and Markdowns than you did before, and remember, any questions, ask Google!</mark>
+<mark>**Anyway, that's it, you made it to the end of the tutorial!** Hopefully you understand more about GitHub and Markdowns than you did before!</mark>
+
+<p>&nbsp;</p>
 
 ## Useful Links:
 - For all of the Coding Club tutorials [click here](https://ourcodingclub.github.io/tutorials)
 - For the sources of the media I used in this tutorial see the [Media Sources](Media_Sources.md) document in this repository
+
+<p>&nbsp;</p>
+
+## Contact Details:
+- Got questions about the contents of this tutorial? Feel free to contact me at **S2359118@ed.ac.uk**.
