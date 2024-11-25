@@ -169,7 +169,7 @@ First you need to copy the id code of the commit your wanting to convert. Go int
 
 <p>&nbsp;</p>
 
-- Then copy the id code
+Then copy the id code:
 
 <img width="930" alt="Screenshot 2024-11-22 155511" src="https://github.com/user-attachments/assets/31ce3b36-5905-4f11-bc9b-098bbef000fc">
 
