@@ -20,6 +20,8 @@ Do you want to make exciting and interactive Markdown files? Do you want to easi
 The overall aim of this tutorial is to give the reader a comprehensive overview of how to use GitHub, and to cover the main topics that people struggle with when first using GitHub. It acts as a part two to the [Intro to GitHub for version control](https://ourcodingclub.github.io/tutorials/git/) Coding Club tutorial. There you can learn a bit about what GitHub is, how version control works,  how to connect up your R studio with GitHub, and how to make your own repository in GitHub (go there now if you’re completely new to GitHub). For those who have completed that tutorial or are already familiar with GitHub, carry on reading! 
  
 
+- Add how to make tables
+- Add Github Aims + Steps
 
 
 ## Tutorial Aims:
