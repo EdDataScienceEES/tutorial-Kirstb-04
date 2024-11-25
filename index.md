@@ -512,9 +512,14 @@ This is a good mix of the two above examples. It has a set format throughout, an
 
 
 ### Tips for Getting Help with Github
-A final tip I have for you is to use Google, I cannot emphasise this enough!! All of the things I've talked through in this tutorial I learned through websites, chat forums, and videos. I gurantee that any question you have, whether it be on markup language, on Github, or even on general coding someone else has had the same question! You would be suprised by how useful Google is even for the most obscure questions. 
+A final tip I have for you is to use Google, I cannot emphasise this enough!! All of the things I've talked through in this tutorial I learned through websites, chat forums, and videos. I gurantee that any question you have, whether it be on markup language, on Github, or even on general coding someone else has had the same question! You would be suprised by how useful Google is even for the most obscure questions.
 
-Yay, you made it to the end of the tutorial! Hopefully you understand more about Github and Markdowns than you did before, and remember, any questions, ask Google!  
+<img width="400" src="https://github.com/user-attachments/assets/b6770ca6-ca4c-47d2-9b75-ec781abcddf8">
+
+
+<p>&nbsp;</p>
+
+Anyway, that's it, you made it to the end of the tutorial! Hopefully you understand more about Github and Markdowns than you did before, and remember, any questions, ask Google!  
 
 ## Useful Links:
 - For all of the Coding Club tutorials [click here](https://ourcodingclub.github.io/tutorials)
