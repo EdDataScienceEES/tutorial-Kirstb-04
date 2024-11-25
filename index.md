@@ -175,15 +175,17 @@ First you need to copy the id code of the commit your wanting to convert. Go int
 
 <p>&nbsp;</p>
 
-You then need to open the GitHub **web editor**. To do this go to your repository home page and press the full stop/period key (**.**)
-- You should get a page that looks something like this
+You then need to open the GitHub **web editor**. To do this go to your repository home page and press the full stop/period key (**.**), you should get a page that looks something like this:
 
 <img width="955" alt="Screenshot 2024-11-22 160336" src="https://github.com/user-attachments/assets/1de26c52-b74a-40c9-82f4-e22e7cd0b989">
 
 <p>&nbsp;</p>
 
-- You then need to select **Continue working in GitHub Codespaces** so that you can work in an environment where you can run code. Once you've done this you should be taken to a sepearate page called **Codespace**. Here is where you revert your commit.
-- At the bottom of the **Codespace** page you will have a terminal where you can type in code. After the dollar sign (**$**) type **git revert**, then paste your commit id, and press enter.
+You then need to select **Continue working in GitHub Codespaces** so that you can work in an environment where you can run code. Once you've done this you should be taken to a sepearate page called **Codespace**. Here is where you revert your commit.
+
+<p>&nbsp;</p>
+
+At the bottom of the **Codespace** page you will have a terminal where you can type in code. After the dollar sign (**$**) type **git revert**, then paste your commit id, and press enter.
 
 <p>&nbsp;</p>
 <img width="692" alt="Screenshot 2024-11-22 160919" src="https://github.com/user-attachments/assets/73ecf72c-0047-43f1-b41b-a7e0084f95d8">
