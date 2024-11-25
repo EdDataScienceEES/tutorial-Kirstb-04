@@ -2,7 +2,7 @@
 
 
 **Overall Tutorial Aim:** 
-To give the reader a comprehensive overview of how to use Github, in a tutorial that will act as a part two to the coding club's [Intro to Github for version control](https://ourcodingclub.github.io/tutorials/git/) tutorial. 
+To give the reader a comprehensive overview of how to use Github, in a tutorial that will act as a part two to the coding club's [Intro to Github for version control](https://ourcodingclub.github.io/tutorials/git/) tutorial.
 
 **Background:**
 
