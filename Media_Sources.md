@@ -24,4 +24,4 @@ This document provides the sources for the media used in [my tutorial](index.md)
 
 <p>&nbsp;</p>
 
-- The example Markdown documents used in the **Tips for a Professional Markdown** section were adapted from the Markdown I made in **Challenge 2** of Data Science 2024.
+- The example Markdown documents used in the **Tips for a Professional Markdown** section were adapted from the Markdown I made in **Challenge 2** of Data Science 2024. The figure in the Markdown was created by Sofia Anker, myself (Kirsty Booth), Eva Dowding, Zeynepy dyuksel, and  Anna Longenbaugh.
