@@ -8,22 +8,22 @@
 <p>&nbsp;</p>
 
 
- # An overview of Github - Github basics, Markdown formatting & general tips
+ # An overview of GitHub - GitHub basics, Markdown formatting & general tips
 
 _Created by Kirsty (November 2024) - For some background on why I chose this tutorial topic see the main [README](README.md) document of this repository._
 
-Do you want to make exciting and interactive Markdown files? Do you want to easily change folder names, and move files about in Github but don’t know how to? Well then, this is the tutorial for you! When people are first introduced to Github they can find it confusing and hard to follow (as I did initially) but through some simple hacks and codes you will soon be a Github pro! 
+Do you want to make exciting and interactive Markdown files? Do you want to easily change folder names, and move files about in GitHub but don’t know how to? Well then, this is the tutorial for you! When people are first introduced to GitHub they can find it confusing and hard to follow (as I did initially) but through some simple hacks and codes you will soon be a GitHub pro! 
 
 
-The overall aim of this tutorial is to give the reader a comprehensive overview of how to use Github, and to cover the main topics that people struggle with when first using Github. It acts as a part two to the [Intro to Github for version control](https://ourcodingclub.github.io/tutorials/git/) Coding Club tutorial. There you can learn a bit about what Github is, how version control works,  how to connect up your R studio with Github, and how to make your own repository in Github (go there now if you’re completely new to Github). For those who have completed that tutorial or are already familiar with Github, carry on reading! 
+The overall aim of this tutorial is to give the reader a comprehensive overview of how to use GitHub, and to cover the main topics that people struggle with when first using GitHub. It acts as a part two to the [Intro to GitHub for version control](https://ourcodingclub.github.io/tutorials/git/) Coding Club tutorial. There you can learn a bit about what GitHub is, how version control works,  how to connect up your R studio with GitHub, and how to make your own repository in GitHub (go there now if you’re completely new to GitHub). For those who have completed that tutorial or are already familiar with GitHub, carry on reading! 
  
 
 
 
 ## Tutorial Aims:
 
-1. **Github** - Section one aims to cover some of the Github basics that a lot of people struggle with
-- [Recap - What is Github?](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1a-recap---what-is-github)
+1. **GitHub** - Section one aims to cover some of the GitHub basics that a lot of people struggle with
+- [Recap - What is GitHub?](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1a-recap---what-is-github)
 - [Folders & Files](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1b-folders--files---creating-them-moving-them-changing-their-names-and-deleting-them) - [Creating them](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#creating-folders--files), [moving them](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#moving-folders--files), [changing their names and deleting them](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#renaming-and-deleting-folders-and-files)
 - [Reverting Commits](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1c-reverting-commits)
 - [Merge Conflicts:](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1e-merge-conflicts-what-they-mean--how-to-resolve-them) What they mean & how to resolve them
@@ -44,8 +44,8 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
   
 *Adding Links*
 
-- [Linking within Github](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#linking-within-github)
-- [Linking outwith Github](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#linking-outwith-github)
+- [Linking within GitHub](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#linking-within-github)
+- [Linking outwith GitHub](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#linking-outwith-github)
   
 *General Formatting*
 
@@ -56,46 +56,46 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
 
 4. **Bonus Section** - This section will offer some general tips for the topics covered in this tutorial
 - [Tips for a professional Markdown](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#tips-for-a-professional-markdown)
-- [Tips for getting help with Github](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#tips-for-getting-help-with-github)
+- [Tips for getting help with GitHub](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#tips-for-getting-help-with-github)
 
 <p>&nbsp;</p>
 
-## 1a. Recap - what is Github?
+## 1a. Recap - what is GitHub?
 
-One of the first things I struggled with when I first started using Github was not fully understanding what Github is. So to start lets answer the question **What is Github?**
+One of the first things I struggled with when I first started using GitHub was not fully understanding what GitHub is. So to start lets answer the question **What is GitHub?**
 
-To fully understand Github you first need to understand what Git is. First released in 2005, Git is one of the most popular version control tools used by developers. It is installed locally onto your personal computer and allows you to track the changes you make to files, giving you a record of what has been changed, meaning you can revert to old versions of files where necessary. It is also highly useful when collaborating with others, as it means that multiple people can make changes to the one project. 
+To fully understand GitHub you first need to understand what Git is. First released in 2005, Git is one of the most popular version control tools used by developers. It is installed locally onto your personal computer and allows you to track the changes you make to files, giving you a record of what has been changed, meaning you can revert to old versions of files where necessary. It is also highly useful when collaborating with others, as it means that multiple people can make changes to the one project. 
 
 <img align="centre" width="632" alt="image" src="https://github.com/user-attachments/assets/514e5702-fd33-414d-beae-2c358ef7d80c">
 
 
-**Words you'll come across in Github:**
+**Words you'll come across in GitHub:**
 - <mark>Files for particular projects are saved in **repositories** </mark> (or repos as they are often referred to), which are essentially storage spaces for all of the files relating to your project. 
-- <mark>Another word that you'll come across when using Github is **branches**. </mark> Your repositories contain the master branch which is the main code of the repository. From this master branch you can create other branches where you can experiment with the code without having to change the main code. If you are happy with changes you have made in your branch you can then commit them to the master branch. This means that you can safely experiment with code without interfering with the main code.
+- <mark>Another word that you'll come across when using GitHub is **branches**. </mark> Your repositories contain the master branch which is the main code of the repository. From this master branch you can create other branches where you can experiment with the code without having to change the main code. If you are happy with changes you have made in your branch you can then commit them to the master branch. This means that you can safely experiment with code without interfering with the main code.
 
-This leads us onto Github itself which essentially acts as the cloud for Git. It is a cloud-based system that holds all of your Git repositories and is specifically designed to make managing your repositories easier. For instance Github has **Pull requests**. This is when you request to merge changes from one branch to another branch, collaborators can then discuss and examine the changes before commiting the changes to another branch. There is also an **Issues tab** in Github repositories where you can flag issues you are having with your collaborators and you can then discuss ways of resolving them.
+This leads us onto GitHub itself which essentially acts as the cloud for Git. It is a cloud-based system that holds all of your Git repositories and is specifically designed to make managing your repositories easier. For instance GitHub has **Pull requests**. This is when you request to merge changes from one branch to another branch, collaborators can then discuss and examine the changes before commiting the changes to another branch. There is also an **Issues tab** in GitHub repositories where you can flag issues you are having with your collaborators and you can then discuss ways of resolving them.
 
 <img width="641" alt="Screenshot 2024-11-22 150049" src="https://github.com/user-attachments/assets/faa81953-9701-462a-85aa-ca03bfb237d6">
 
-A final note about Github is that its repositories are largely open to the public, making collaborating and discussing with the wider programming community easier.
+A final note about GitHub is that its repositories are largely open to the public, making collaborating and discussing with the wider programming community easier.
 
- #### Essentially Git is the software and Github is the programme that hosts and manages the software. 
+ #### Essentially Git is the software and GitHub is the programme that hosts and manages the software. 
 
 <mark>Still confused? Visit these websites that go into more detail:</mark>
-- [Git vs Github: Key differences](https://www.simplilearn.com/tutorials/git-tutorial/git-vs-github)
-- [What is Github?](https://blog.hubspot.com/website/what-is-github-used-for#what-github)
-- [Collaborating made easier on Github](https://www.gitkraken.com/blog/collaborate-on-github#:~:text=Using%20Branches%20Effectively,or%20implementing%20a%20particular%20feature.)
+- [Git vs GitHub: Key differences](https://www.simplilearn.com/tutorials/git-tutorial/git-vs-github)
+- [What is GitHub?](https://blog.hubspot.com/website/what-is-github-used-for#what-github)
+- [Collaborating made easier on GitHub](https://www.gitkraken.com/blog/collaborate-on-github#:~:text=Using%20Branches%20Effectively,or%20implementing%20a%20particular%20feature.)
 
 <p>&nbsp;</p>
 
 ## 1b. Folders & Files - Creating them, moving them, changing their names, and deleting them
 
-As a very organised person I like to have folders within folders, and I am constantly deleting and moving files about in my repositories. However when I first started using Github I could not get my head around how to do this. So for the hyper organised like me, follow these simple steps to get a beautifully organised repo!
+As a very organised person I like to have folders within folders, and I am constantly deleting and moving files about in my repositories. However when I first started using GitHub I could not get my head around how to do this. So for the hyper organised like me, follow these simple steps to get a beautifully organised repo!
 
 <p>&nbsp;</p>
 
 ### Creating Folders & Files
-To create a file in Github simply go to the homepage of your repository, click **Add file**, and then **Create new file**.
+To create a file in GitHub simply go to the homepage of your repository, click **Add file**, and then **Create new file**.
 
 <img width="691" alt="Screenshot 2024-11-23 152318" src="https://github.com/user-attachments/assets/ddac8102-b3f0-4395-8e37-4997ba0b3986">
 
@@ -115,7 +115,7 @@ To have a folder within a folder simply type a forward slash (**/**) after your 
 
 ### Moving Folders & Files
 
-The easiest way to move folders and files in Github is to use the Github **web editor**. To access this go to the homepage of your repository and press the full stop/period key (**.**). This should open a page that looks something like this:
+The easiest way to move folders and files in GitHub is to use the GitHub **web editor**. To access this go to the homepage of your repository and press the full stop/period key (**.**). This should open a page that looks something like this:
 
 <img width="958" alt="image" src="https://github.com/user-attachments/assets/d1b72e49-c16b-4299-bc73-158b2dd96729">
 
@@ -141,9 +141,9 @@ To return to your repository click the three horizontal lines in the top left of
 
 ### Renaming and Deleting Folders and Files
 
-There are a number of ways that you can change folder and file names as well as deleting them. You can makes changes in R studio (if you have connected your Github repository and your R studio), you can make changes in your Github repository directly, or you can use the Github web editor. Although all valid choices I will again be showing you how to do this in the web editor. It's a very useful tool and it's therefore good to get to grips with it. 
+There are a number of ways that you can change folder and file names as well as deleting them. You can makes changes in R studio (if you have connected your GitHub repository and your R studio), you can make changes in your GitHub repository directly, or you can use the GitHub web editor. Although all valid choices I will again be showing you how to do this in the web editor. It's a very useful tool and it's therefore good to get to grips with it. 
 
-Open the Github web editor (on the homepage of your repository press the full stop/period key (**.**)). Once on the web editor simply right click on whatever folder or file you want to rename or delete and select whichever option is appropriate.
+Open the GitHub web editor (on the homepage of your repository press the full stop/period key (**.**)). Once on the web editor simply right click on whatever folder or file you want to rename or delete and select whichever option is appropriate.
 
 <img width = "400" alt="Screenshot 2024-11-23 160820" src="https://github.com/user-attachments/assets/ab92481a-3d13-422a-8ea4-f946a4193a7c">
 
@@ -169,14 +169,14 @@ First you need to copy the id code of the commit your wanting to convert. Go int
 
 <p>&nbsp;</p>
 
-You then need to open the Github **web editor**. To do this go to your repository home page and press the full stop/period key (**.**)
+You then need to open the GitHub **web editor**. To do this go to your repository home page and press the full stop/period key (**.**)
 - You should get a page that looks something like this
 
 <img width="955" alt="Screenshot 2024-11-22 160336" src="https://github.com/user-attachments/assets/1de26c52-b74a-40c9-82f4-e22e7cd0b989">
 
 <p>&nbsp;</p>
 
-- You then need to select **Continue working in Github Codespaces** so that you can work in an environment where you can run code. Once you've done this you should be taken to a sepearate page called **Codespace**. Here is where you revert your commit.
+- You then need to select **Continue working in GitHub Codespaces** so that you can work in an environment where you can run code. Once you've done this you should be taken to a sepearate page called **Codespace**. Here is where you revert your commit.
 - At the bottom of the **Codespace** page you will have a terminal where you can type in code. After the dollar sign (**$**) type **git revert**, then paste your commit id, and press enter.
 
 <p>&nbsp;</p>
@@ -213,7 +213,7 @@ Once back to your repository check that your revert was successful. You should h
 
 ## 1e. Merge Conflicts: What they mean & how to resolve them?
 
-Merge conflicts occur when you are collaborating with others on the same project and multiple people are trying to merge branches that have competing commits. Essentially you have each made different edits to the same script and Github doesn't understand how to combine them and so instead comes up with an error, a **merge conflict**. The merge conflict will appear when you create a pull request to merge two branches e.g. here I am trying to merge the alpha branch with the main branch but it isn't working due to a merge conflict.
+Merge conflicts occur when you are collaborating with others on the same project and multiple people are trying to merge branches that have competing commits. Essentially you have each made different edits to the same script and GitHub doesn't understand how to combine them and so instead comes up with an error, a **merge conflict**. The merge conflict will appear when you create a pull request to merge two branches e.g. here I am trying to merge the alpha branch with the main branch but it isn't working due to a merge conflict.
 
 <p>&nbsp;</p>
 
@@ -222,7 +222,7 @@ Merge conflicts occur when you are collaborating with others on the same project
 
 <p>&nbsp;</p>
 
-The easiest way to resolve merge conflicts is use the Github **web editor**. The below message will appear once you have submitted the pull request. 
+The easiest way to resolve merge conflicts is use the GitHub **web editor**. The below message will appear once you have submitted the pull request. 
 
 <img width="683" alt="Screenshot 2024-11-24 131300" src="https://github.com/user-attachments/assets/022b685f-ddbc-4d05-a574-851f048b5e74">
 
@@ -240,7 +240,7 @@ Once you have resolved the code, select **Mark as resolved** in the top right co
 
 ## 2. What is a Markdown?
 
-A Markdown is a plain-text document that uses a markup language to add formatting elements, such as headings and images. You can create a Markdown in a number of programs including R studio (for a tutorial on this see the Coding Club's tutorial [Getting Started with R Markdown](https://ourcodingclub.github.io/tutorials/rmarkdown/)). However I will be going over how to create a Markdown in Github. To do this simply add a new file into your repository, name it whatever you like but remeber to end your name with .md _e.g. Coding Tutorial.md_, this will create a markdown file. 
+A Markdown is a plain-text document that uses a markup language to add formatting elements, such as headings and images. You can create a Markdown in a number of programs including R studio (for a tutorial on this see the Coding Club's tutorial [Getting Started with R Markdown](https://ourcodingclub.github.io/tutorials/rmarkdown/)). However I will be going over how to create a Markdown in GitHub. To do this simply add a new file into your repository, name it whatever you like but remeber to end your name with .md _e.g. Coding Tutorial.md_, this will create a markdown file. 
 
 Once created you can explore your Markdown. When editing your document there are two tabs at the top, **Edit** and **Preview**. The **Edit** tab is where you write your text and markup language, and the **Preview** tab is where you can check how your code will look before you commit it. Once you have commited any changes you can then see a **Preview** of your document, the **Code** used to create it, and a **Blame** tab where you can see who made changes to the document and when. 
 
@@ -396,8 +396,8 @@ This allows others to quickly and easily copy whatever is in the box. It's a ver
 
 ## 3c. Adding Links
 
-### Linking Within Github
-To link within Github you can either **link to something in your Markdown document** or you can **link to another folder/file in your general repository**. To link to something that's in your Markdown document you simply use the following code:
+### Linking Within GitHub
+To link within GitHub you can either **link to something in your Markdown document** or you can **link to another folder/file in your general repository**. To link to something that's in your Markdown document you simply use the following code:
 
 ```diff
 [the title of your link](the link address)
@@ -426,9 +426,9 @@ If you want to link to a file that is in the same place as your Markdown, then t
 
 <p>&nbsp;</p>
 
-### Linking Outwith Github
+### Linking Outwith GitHub
 
-Thankfully linking outwith Github is a lot simpler! Just copy and paste the link for the website into the following code and that's it:
+Thankfully linking outwith GitHub is a lot simpler! Just copy and paste the link for the website into the following code and that's it:
 
 ```diff
 [the title of your link](link address)
@@ -511,12 +511,12 @@ This is a good mix of the two above examples. It has a set format throughout, an
 <p>&nbsp;</p>
 
 
-### Tips for Getting Help with Github
-A final tip I have for you is to use Google, I cannot emphasise this enough!! All of the things I've talked through in this tutorial I learned through websites, chat forums, and videos. I gurantee that any question you have, whether it be on markup language, on Github, or even on general coding someone else has had the same question! You would be suprised by how useful Google is even for the most obscure questions.
+### Tips for Getting Help with GitHub
+A final tip I have for you is to use Google, I cannot emphasise this enough!! All of the things I've talked through in this tutorial I learned through websites, chat forums, and videos. I gurantee that any question you have, whether it be on markup language, on GitHub, or even on general coding someone else has had the same question! You would be suprised by how useful Google is even for the most obscure questions.
 
 <p>&nbsp;</p>
 
-<mark>**Anyway, that's it, you made it to the end of the tutorial!** Hopefully you understand more about Github and Markdowns than you did before, and remember, any questions, ask Google!</mark>
+<mark>**Anyway, that's it, you made it to the end of the tutorial!** Hopefully you understand more about GitHub and Markdowns than you did before, and remember, any questions, ask Google!</mark>
 
 ## Useful Links:
 - For all of the Coding Club tutorials [click here](https://ourcodingclub.github.io/tutorials)
