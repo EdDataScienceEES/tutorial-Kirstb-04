@@ -8,11 +8,14 @@
 <p>&nbsp;</p>
 
 
- ## An overview of GitHub - GitHub basics, Markdown formatting & general tips
+ # An overview of GitHub - GitHub basics, Markdown formatting & general tips
 
 _Created by Kirsty (November 2024) - For some background on why I chose this tutorial topic see the main [README](README.md) document of this repository._
 
 <mark>For this tutorial in website form see [this link](https://eddatascienceees.github.io/tutorial-Kirstb-04/).</mark>
+
+- What is HTML
+- Finish table section
 
 Do you want to make exciting and interactive Markdown files? Do you want to easily change folder names, and move files about in GitHub but don’t know how to? Well then, this is the tutorial for you! When people are first introduced to GitHub they can find it confusing and hard to follow (as I did initially) but through some simple hacks and codes you will soon be a GitHub pro! 
 
