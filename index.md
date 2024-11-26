@@ -411,7 +411,7 @@ This allows others to quickly and easily copy whatever is in the box. It's a ver
 ### Creating Tables
 Want to add a table into your markdown? No bother, just follow the below steps!
 
-To create tables you'll need to use pipes `|` (used to create collumns), and hyphens `-` (used to create headers). To start create a blank line above where your table will be, this ensures that the markdown understands that you're making a table.
+To create tables you'll need to use pipes **|** (used to create collumns), and hyphens **-** (used to create headers). To start create a blank line above where your table will be, this ensures that the markdown understands that you're making a table.
 
 |Header 1|Header 2|
 | ----   | ----   |
