@@ -44,7 +44,7 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
 - [Changing text alignment](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#changing-text-alignment)
 - [Adding quotes](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#adding-quotes)
 - [Adding code & automatic copying](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#adding-code--automatic-copying)
-- [Adding Tables]()
+- [Creating Tables](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#creating-tables)
   
 *Adding Links*
 
