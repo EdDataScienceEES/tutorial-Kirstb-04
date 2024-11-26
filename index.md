@@ -7,7 +7,6 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-
  # An overview of GitHub - GitHub basics, Markdown formatting & general tips
 
 _Created by Kirsty (November 2024) - For some background on why I chose this tutorial topic see the main [README](README.md) document of this repository._
@@ -337,7 +336,7 @@ $\color{blue}{\text{Your\ text\ here}}$
 
 Add a backslash and a space after each word to create spaces between the words. To change the colour simply type the colour you want into the curly brackets where **blue** currently is _e.g. purple, green, yellow_.
 
-**Important Note!** <mark>By changing the colour of the text the font of the text also changes. There isn't a way around this and so bear this in mind before changing the colour of your text.</mark>
+**Important Note!** <mark>**This code is a HTML tag as opposed to markup language, which is not fully supported by GitHub markdown**. I would therefore recommend using this code sparingly and in personal as opposed to professional Markdowns as it can be temperamental. Additionally, by changing the colour of the text the font of the text also changes. There isn't a way around this and so bear this in mind before changing the colour of your text.</mark>
 
 <p>&nbsp;</p>
 
