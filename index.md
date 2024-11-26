@@ -21,10 +21,9 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
  
 
 - Add how to make tables
-- Add Github Aims + Steps
 
 
-## Tutorial Aims:
+## Tutorial Aims & Steps:
 
 1. **GitHub** - Section one aims to cover some of the GitHub basics that a lot of people struggle with
 - [Recap - What is GitHub?](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1a-recap---what-is-github)
@@ -32,9 +31,9 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
 - [Reverting Commits](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1c-reverting-commits)
 - [Merge Conflicts:](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#1e-merge-conflicts-what-they-mean--how-to-resolve-them) What they mean & how to resolve them
   
-2. [**What is a Markdown?**](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#2-what-is-a-markdown) - Section two will cover what a Markdown document is
+2. [**What is a Markdown?**](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#2-what-is-a-markdown) - Section two aims to cover what a Markdown document is
 
-3. [**Formatting a Markdown**](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#3-formatting-a-markdown)- Section three will go over useful Markdown language
+3. [**Formatting a Markdown**](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#3-formatting-a-markdown)- Section three aims to cover some useful Markdown language
   
 *Images*
 
@@ -45,6 +44,7 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
 - [Changing text alignment](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#changing-text-alignment)
 - [Adding quotes](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#adding-quotes)
 - [Adding code & automatic copying](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#adding-code--automatic-copying)
+- [Adding Tables]()
   
 *Adding Links*
 
@@ -403,6 +403,17 @@ The text you want copied here
 
 
 This allows others to quickly and easily copy whatever is in the box. It's a very useful code, especially if you are making a coding tutorial!
+
+<p>&nbsp;</p>
+
+### Creating Tables
+Want to add a table into your markdown? No bother, just follow the below steps!
+
+To create tables you'll need to use pipes `|` (used to create collumns), and hyphens `-` (used to create headers). To start create a blank line above where your table will be,this ensure that the markdown understands that you're making a table.
+
+|Header 1|Header 2|
+| ----   | ----   |
+| Cell content| Cell content |
 
 <p>&nbsp;</p>
 
