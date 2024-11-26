@@ -8,7 +8,7 @@
 <p>&nbsp;</p>
 
 
- # An overview of GitHub - GitHub basics, Markdown formatting & general tips
+ <h1> An overview of GitHub - GitHub basics, Markdown formatting & general tips 1</h1>
 
 _Created by Kirsty (November 2024) - For some background on why I chose this tutorial topic see the main [README](README.md) document of this repository._
 
