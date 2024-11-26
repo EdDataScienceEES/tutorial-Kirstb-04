@@ -13,16 +13,12 @@ _Created by Kirsty (November 2024) - For some background on why I chose this tut
 
 <mark>For this tutorial in website form see [this link](https://eddatascienceees.github.io/tutorial-Kirstb-04/).</mark>
 
-- What is HTML
 - Finish table section
 
 Do you want to make exciting and interactive Markdown files? Do you want to easily change folder names, and move files about in GitHub but don’t know how to? Well then, this is the tutorial for you! When people are first introduced to GitHub they can find it confusing and hard to follow (as I did initially) but through some simple hacks and codes you will soon be a GitHub pro! 
 
 
 The overall aim of this tutorial is to give the reader a comprehensive overview of how to use GitHub, and to cover the main topics that people struggle with when first using GitHub. It acts as a part two to the [Intro to GitHub for version control](https://ourcodingclub.github.io/tutorials/git/) Coding Club tutorial. There you can learn a bit about what GitHub is, how version control works,  how to connect up your R studio with GitHub, and how to make your own repository in GitHub (go there now if you’re completely new to GitHub). For those who have completed that tutorial or are already familiar with GitHub, carry on reading! 
- 
-
-- Add how to make tables
 
 
 ## Tutorial Aims & Steps:
@@ -254,7 +250,7 @@ Once you have resolved the code, select **Mark as resolved** in the top right co
 
 ## 2. What is a Markdown?
 
-A Markdown is a plain-text document that uses a markup language to add formatting elements, such as headings and images. You can create a Markdown in a number of programs including R studio (for a tutorial on this see the Coding Club's tutorial [Getting Started with R Markdown](https://ourcodingclub.github.io/tutorials/rmarkdown/)). However I will be going over how to create a Markdown in GitHub. To do this simply add a new file into your repository, name it whatever you like but remeber to end your name with .md _e.g. Coding Tutorial.md_, this will create a markdown file. 
+A Markdown is a plain-text document that uses a markup language, as well as some HTML tags, to add formatting elements, such as headings and images. You can create a Markdown in a number of programs including R studio (for a tutorial on this see the Coding Club's tutorial [Getting Started with R Markdown](https://ourcodingclub.github.io/tutorials/rmarkdown/)). However I will be going over how to create a Markdown in GitHub. To do this simply add a new file into your repository, name it whatever you like but remeber to end your name with .md _e.g. Coding Tutorial.md_, this will create a markdown file. 
 
 Once created you can explore your Markdown. When editing your document there are two tabs at the top, **Edit** and **Preview**. The **Edit** tab is where you write your text and markup language, and the **Preview** tab is where you can check how your code will look before you commit it. Once you have commited any changes you can then see a **Preview** of your document, the **Code** used to create it, and a **Blame** tab where you can see who made changes to the document and when. 
 
@@ -336,7 +332,11 @@ $\color{blue}{\text{Your\ text\ here}}$
 
 Add a backslash and a space after each word to create spaces between the words. To change the colour simply type the colour you want into the curly brackets where **blue** currently is _e.g. purple, green, yellow_.
 
-**Important Note!** <mark>**This code is a HTML tag as opposed to markup language, which is not fully supported by GitHub markdown**. I would therefore recommend using this code sparingly and in personal as opposed to professional Markdowns as it can be temperamental. Additionally, by changing the colour of the text the font of the text also changes. There isn't a way around this and so bear this in mind before changing the colour of your text.</mark>
+**Important Notes!** 
+
+- **<mark>This code is a type of HTML tag as opposed to markup language, which is not fully supported by GitHub markdown.</mark>** I would therefore recommend using this code sparingly and in personal as opposed to professional Markdowns as it can be temperamental. 
+
+- **<mark>Additionally, by changing the colour of the text the font of the text also changes.</mark>** There isn't a way around this and so bear this in mind before changing the colour of your text.
 
 <p>&nbsp;</p>
 
