@@ -38,7 +38,7 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
 - [Adding images, changing size & alignment](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#3a-images)
 
 *Text*
-- [Headings](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#headings), [bold](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#bold-text), [italic](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#italic-text), [highlighting](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#highlighted-text), [colours](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#coloured-text)
+- [Headings](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#headings), [bold](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#bold-text), [italic](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#italic-text), [highlighting](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#highlighted-text)
 - [Changing text alignment](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#changing-text-alignment)
 - [Adding quotes](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#adding-quotes)
 - [Adding code & automatic copying](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#adding-code--automatic-copying)
@@ -57,6 +57,7 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
 <p>&nbsp;</p>
 
 4. **Bonus Section** - This section will offer some general tips for the topics covered in this tutorial
+- [Creating coloured text in a Markdown](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#creating-coloured-text-in-a-markdown)
 - [Tips for a professional Markdown](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#tips-for-a-professional-markdown)
 - [Tips for getting help with GitHub](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#tips-for-getting-help-with-github)
 
@@ -322,24 +323,6 @@ To highlight text simply use the below code:
 
 <p>&nbsp;</p>
 
-### Coloured Text
-
-To generate different coloured text use the below code:
-
-```diff
-$\color{blue}{\text{Your\ text\ here}}$
-```
-
-Add a backslash and a space after each word to create spaces between the words. To change the colour simply type the colour you want into the curly brackets where **blue** currently is _e.g. purple, green, yellow_.
-
-**Important Notes!** 
-
-- **<mark>This code is a type of HTML tag as opposed to markup language, which is not fully supported by GitHub markdown.</mark>** I would therefore recommend using this code sparingly and in personal as opposed to professional Markdowns as it can be temperamental. 
-
-- **<mark>Additionally, by changing the colour of the text the font of the text also changes.</mark>** There isn't a way around this and so bear this in mind before changing the colour of your text.
-
-<p>&nbsp;</p>
-
 ### Changing Text Alignment
 
 If you want to change your text alignment simply use the below code:
@@ -501,6 +484,24 @@ This creates a line of space. Simply copy and paste this as many times as you li
 <p>&nbsp;</p>
 
 ## 4. Bonus Section 
+
+### Creating Coloured Text in a Markdown
+
+Creating coloured text in a Github Markdown is not fully realiable as it uses a specific type of HTML tag that GitHub doesn't support. I would therefore recommend only using coloured text for personal as opposed to professional Markdowns as the code can be temporamental, but nevertheless it can be fun to play around with!
+
+To generate different coloured text use the below code:
+
+```diff
+$\color{blue}{\text{Your\ text\ here}}$
+```
+
+Add a backslash and a space after each word to create spaces between the words. To change the colour simply type the colour you want into the curly brackets where **blue** currently is _e.g. purple, green, yellow_.
+
+**Important Note!** 
+
+- **<mark>By changing the colour of the text the font of the text also changes.</mark>** There isn't a way around this and so bear this in mind before changing the colour of your text.
+
+<p>&nbsp;</p>
 
 ### Tips for a professional Markdown
 
