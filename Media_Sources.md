@@ -1,6 +1,6 @@
 # Media Sources
 
-This document provides the sources for the media used in [my tutorial](index.md).
+This document provides the sources for the media used in [my tutorial](https://eddatascienceees.github.io/tutorial-Kirstb-04/).
 
 - The two images used at the top of the tutorial were from [Coding Club](https://ourcodingclub.github.io/) and [Github](https://github.com/) respectively.
 
