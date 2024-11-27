@@ -11,7 +11,6 @@
 
 _Created by Kirsty (November 2024) - For some background on why I chose this tutorial topic see the main [README](README.md) document of this repository._
 
-<mark>For this tutorial in website form see [this link](https://eddatascienceees.github.io/tutorial-Kirstb-04/).</mark>
 
 Do you want to make exciting and interactive Markdown files? Do you want to easily change folder names, and move files about in GitHub but don’t know how to? Well then, this is the tutorial for you! When people are first introduced to GitHub they can find it confusing and hard to follow (as I did initially) but through some simple hacks and codes you will soon be a GitHub pro! 
 
@@ -74,8 +73,8 @@ To fully understand GitHub you first need to understand what Git is. First relea
 
 
 **Words you'll come across in GitHub:**
-- <mark>Files for particular projects are saved in **repositories** </mark> (or repos as they are often referred to), which are essentially storage spaces for all of the files relating to your project. 
-- <mark>Another word that you'll come across when using GitHub is **branches**. </mark> Your repositories contain the master branch which is the main code of the repository. From this master branch you can create other branches where you can experiment with the code without having to change the main code. If you are happy with changes you have made in your branch you can then commit them to the master branch. This means that you can safely experiment with code without interfering with the main code.
+- <mark>Files for particular projects are saved in repositories </mark> (or repos as they are often referred to), which are essentially storage spaces for all of the files relating to your project. 
+- <mark>Another word that you'll come across when using GitHub is branches. </mark> Your repositories contain the master branch which is the main code of the repository. From this master branch you can create other branches where you can experiment with the code without having to change the main code. If you are happy with changes you have made in your branch you can then commit them to the master branch. This means that you can safely experiment with code without interfering with the main code.
 
 This leads us onto GitHub itself which essentially acts as the cloud for Git. It is a cloud-based system that holds all of your Git repositories and is specifically designed to make managing your repositories easier. For instance, GitHub has **Pull requests**. This is when you request to merge changes from one branch to another branch, collaborators can then discuss and examine the changes before committing the changes to another branch. There is also an **Issues tab** in GitHub repositories where you can flag issues you are having with your collaborators and you can then discuss ways of resolving them.
 
@@ -153,7 +152,7 @@ Open the GitHub web editor (on the homepage of your repository press the full st
 
 <p>&nbsp;</p>
 
-Then simply follow the on-screen instructions. Before returning to your repository remember to **Commit & Push** on the **Source Control** tab and write a meaningful commit message. **Forgotten how to do these steps?** <mark>See the [Moving Folders & Files](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#moving-folders--files) section above </mark>.
+Then simply follow the on-screen instructions. Before returning to your repository remember to **Commit & Push** on the **Source Control** tab and write a meaningful commit message. **Forgotten how to do these steps?** See the [Moving Folders & Files](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#moving-folders--files) section above.
 
 <p>&nbsp;</p>
 
@@ -191,7 +190,7 @@ At the bottom of the **Codespace** page you will have a terminal where you can t
 
 <p>&nbsp;</p>
 
-**Important Note!** <mark> If it was a merge commit, like the below example, then you will need a slightly different code. After the dollar sign (**$**) type **git revert -m 1**, then paste your commit id, and press enter </mark>
+**Important Note!** <mark> If it was a merge commit, like the below example, then you will need a slightly different code.</mark> After the dollar sign (**$**) type **git revert -m 1**, then paste your commit id, and press enter.
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/23adc034-247d-4564-a66c-77130682c2a1">
 
@@ -297,7 +296,7 @@ The code for bold text is:
 **Your bold text here**
 ```
 
-<mark>To automatically make text bold, highlight the desired text and press **ctrl** + **b** together.</mark>
+<mark>To automatically make text bold </mark>, highlight the desired text and press **ctrl** + **b** together.
 
 <p>&nbsp;</p>
 
@@ -308,7 +307,7 @@ The code for italic text is:
 _Your italic text here_
 ```
 
-<mark>To automatically make text italic, highlight the desired text and press **ctrl** + **i** together.</mark>
+<mark>To automatically make text italic</mark>, highlight the desired text and press **ctrl** + **i** together.
 
 <p>&nbsp;</p>
 
@@ -443,8 +442,8 @@ To get the link address hover over the link symbol next to the heading, right cl
 
 
 **Important Notes!** 
-- **<mark>You can only create a link to a heading**, so much sure to add a hashtag (**#**) before the place you want to link to </mark>
-- **<mark>If you are previewing your Markdown and copy the link address from the preview, then the link will take you to the preview**. To change this so that you are taken to the final Markdown document either commit your changes and copy the link address from the fully updated Markdown or change the **/edit/** section of your link address to **/blob/**, e.g.</mark>
+- **<mark>You can only create a link to a heading</mark>**, so much sure to add a hashtag (**#**) before the place you want to link to 
+- **<mark>If you are previewing your Markdown and copy the link address from the preview, then the link will take you to the preview</mark>**. To change this so that you are taken to the final Markdown document either commit your changes and copy the link address from the fully updated Markdown or change the **/edit/** section of your link address to **/blob/**, e.g.
 
 <img width="600" alt="Screenshot 2024-11-23 175601" src="https://github.com/user-attachments/assets/539cadab-f60d-4b06-b132-be7f84b95cd0">
 
@@ -550,7 +549,7 @@ A final tip I have for you is to use Google, I cannot emphasise this enough!! Al
 
 <p>&nbsp;</p>
 
-<mark>**Anyway, that's it, you made it to the end of the tutorial!** Hopefully you understand more about GitHub and Markdowns than you did before!</mark>
+**Anyway, that's it, you made it to the end of the tutorial!** Hopefully you understand more about GitHub and Markdowns than you did before!
 
 <p>&nbsp;</p>
 
