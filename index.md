@@ -175,9 +175,10 @@ Then copy the id code:
 
 <p>&nbsp;</p>
 
-You then need to open the GitHub **web editor**. To do this go to your repository home page and press the full stop/period key (**.**), you should get a page that looks something like this:
+You then need to open the GitHub **web editor**. To do this go to your repository home page and press the full stop/period key (**.**), you should get a page that looks something like this: (Make sure to click on the second toggle in the top right corner of the page, to get this page set-up!)
 
-<img width="955" alt="Screenshot 2024-11-22 160336" src="https://github.com/user-attachments/assets/1de26c52-b74a-40c9-82f4-e22e7cd0b989">
+<img width="677" alt="image" src="https://github.com/user-attachments/assets/62bd3597-930b-4069-a9b9-2898de6d807e">
+
 
 <p>&nbsp;</p>
 
