@@ -1,4 +1,4 @@
-[Click here](../index.md) to return to the tutorial
+[Click here](https://eddatascienceees.github.io/tutorial-Kirstb-04/) to return to the tutorial
 
 <img align="right" width="100" height="150" src="https://github.com/user-attachments/assets/f027de00-1e3b-49bc-b358-d435ee95d216">
 
