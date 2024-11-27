@@ -29,7 +29,7 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
   
 2. [**What is a Markdown?**](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#2-what-is-a-markdown) - Section two aims to cover what a Markdown document is
 
-3. [**Formatting a Markdown**](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#3-formatting-a-markdown)- Section three aims to cover some useful Markdown language
+3. [**Formatting a Markdown**](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#3-formatting-a-markdown)- Section three aims to cover some useful markup language
   
 *Images*
 
