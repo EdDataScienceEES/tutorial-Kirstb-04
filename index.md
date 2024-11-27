@@ -275,6 +275,7 @@ To get the link for your image, paste your image into the Markdown and copy the 
 
 - You can change the alignment by replacing **"left"** with **"center"** or **"right"**
 - You can change the overall size of the image simply by changing the width number
+- You can also manually change height (add height= " " after width), however I prefer to only use width as using both can sometimes stretch or squish the dimensions of your image
 
 
 
