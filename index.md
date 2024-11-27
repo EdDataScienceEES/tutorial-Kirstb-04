@@ -66,7 +66,7 @@ The overall aim of this tutorial is to give the reader a comprehensive overview 
 
 ## 1a. Recap - what is GitHub?
 
-One of the first things I struggled with when I first started using GitHub was not fully understanding what GitHub is. So to start lets answer the question **What is GitHub?**
+One of the things I struggled with when I first started using GitHub was not fully understanding what GitHub is. So to start lets answer the question **What is GitHub?**
 
 To fully understand GitHub you first need to understand what Git is. First released in 2005, Git is one of the most popular version control tools used by developers. It is installed locally onto your personal computer and allows you to track the changes you make to files, giving you a record of what has been changed, meaning you can revert to old versions of files where necessary. It is also highly useful when collaborating with others, as it means that multiple people can make changes to the one project. 
 
