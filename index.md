@@ -265,7 +265,7 @@ Although the prospect of learning another coding language may be daunting, don't
 Adding images into your Markdown document is surprisingly easy. Simply copy your desired image and paste it in!
 You can then change your image size and alignment using the below code:
 
-```diff
+```plaintext
 <img align="left" width="150" src="the link for your image" />
 ```
 
@@ -293,7 +293,7 @@ To add headings into your document simply add a hashtag (**#**) and a **space** 
 
 The code for bold text is:
 
-```diff
+```plaintext
 **Your bold text here**
 ```
 
@@ -304,7 +304,7 @@ The code for bold text is:
 ### Italic Text 
 
 The code for italic text is:
-```diff
+```plaintext
 _Your italic text here_
 ```
 
@@ -316,7 +316,7 @@ _Your italic text here_
 
 To highlight text simply use the below code:
 
-```diff
+```plaintext
 <mark> Your highlighted text </mark>
 ```
 
@@ -328,7 +328,7 @@ Creating coloured text in a GitHub Markdown is not fully reliable as it uses a s
 
 To generate different coloured text, use the below code:
 
-```diff
+```plaintext
 $\color{blue}{\text{Your\ text\ here}}$
 ```
 
@@ -344,7 +344,7 @@ Add a backslash and a space after each word to create spaces between the words. 
 
 If you want to change your text alignment, simply use the below code:
 
-```diff
+```plaintext
 <p align="center">
 Your content
 </p>
@@ -380,7 +380,7 @@ This becomes;
 
 To **add code** you simply add backticks (**`**) around the code:
 
-```diff
+```plaintext
 `Your code here, e.g. library(dplyr)`
 ```
 
@@ -392,7 +392,7 @@ This becomes;
 
 To **add automatic copying** around text, as I have been using throughout this tutorial, simply use the below code:
 
-```diff
+```plaintext
 
 ```plaintext
 The text you want copied here
@@ -414,7 +414,7 @@ Want to add a table into your markdown? No bother, just follow the below steps!
 To create tables, you'll need to use pipes `|` (used to create columns), and hyphens `-` (used to create headers). To start, create a blank line above where your table will be, this ensures that the markdown understands that you're making a table.
 
 Use the below code as the structure for making tables, make sure to have at least three hyphens below your headers, and don't worry about your columns lining up perfectly in the code, they will once you commit your changes!
-```diff
+```plaintext
 |Header 1|Header 2|
 | ----   | ----   |
 | Cell content| Cell content |
@@ -433,7 +433,7 @@ This becomes;
 ### Linking Within GitHub
 To link within GitHub, you can either **link to something in your Markdown document** or you can **link to another folder/file in your general repository**. To link to something that's in your Markdown document you simply use the following code:
 
-```diff
+```plaintext
 [the title of your link](the link address)
 ```
 
@@ -452,7 +452,7 @@ To get the link address hover over the link symbol next to the heading, right cl
 
 To link to elsewhere in your repository, it will be a similar code:
 
-```diff
+```plaintext
 [the title of your link](the file path)
 ```
 
@@ -464,7 +464,7 @@ If you want to link to a file that is in the same place as your Markdown, then t
 
 Thankfully linking outwith GitHub is a lot simpler! Just copy and paste the link for the website into the following code and that's it:
 
-```diff
+```plaintext
 [the title of your link](link address)
 ```
 
@@ -475,7 +475,7 @@ Thankfully linking outwith GitHub is a lot simpler! Just copy and paste the link
 ### Adding Sections to Your Markdown
 
 To add **collapsable sections** into your Markdown simply use the below code:
-```diff
+```plaintext
 <details>
 <summary> Your section title </summary>
 
@@ -501,7 +501,7 @@ You can add as many collapsable sections into your Markdown as you like, it can 
 
 You may have noticed that no matter how many times you hit **Enter** in your Markdown code as soon as you click **Preview** the space you created disappeared and your blocks of text come one after the other. A useful code to sort this is:
 
-```diff
+```plaintext
 <p>&nbsp;</p>
 ```
 
