@@ -1,4 +1,4 @@
-[Click here](../index.md) to return to the tutorial
+[Click here](https://eddatascienceees.github.io/tutorial-Kirstb-04/) to return to the tutorial
 
 
 ![Screenshot 2024-10-29 080129](https://github.com/user-attachments/assets/669518a3-b93a-49bc-bce8-4d1c48c18c11)
