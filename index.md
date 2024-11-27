@@ -147,7 +147,7 @@ To return to your repository click the three horizontal lines in the top left of
 
 There are a number of ways that you can change folder and file names as well as deleting them. You can make changes in R studio (if you have connected your GitHub repository and your R studio), you can make changes in your GitHub repository directly, or you can use the GitHub web editor. Although all valid choices I will again be showing you how to do this in the web editor. It's a very useful tool and it's therefore good to get to grips with it. 
 
-Open the GitHub web editor (on the homepage of your repository press the full stop/period key (**.**)). Once on the web editor simply right click on whatever folder or file you want to rename or delete and select whichever option is appropriate.
+Open the GitHub web editor (on the homepage of your repository press the full stop/period key (**.**). Once on the web editor simply right click on whatever folder or file you want to rename or delete and select whichever option is appropriate.
 
 <img width = "400" alt="Screenshot 2024-11-23 160820" src="https://github.com/user-attachments/assets/ab92481a-3d13-422a-8ea4-f946a4193a7c">
 
