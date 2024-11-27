@@ -79,13 +79,13 @@ To fully understand GitHub you first need to understand what Git is. First relea
 - <mark>Files for particular projects are saved in **repositories** </mark> (or repos as they are often referred to), which are essentially storage spaces for all of the files relating to your project. 
 - <mark>Another word that you'll come across when using GitHub is **branches**. </mark> Your repositories contain the master branch which is the main code of the repository. From this master branch you can create other branches where you can experiment with the code without having to change the main code. If you are happy with changes you have made in your branch you can then commit them to the master branch. This means that you can safely experiment with code without interfering with the main code.
 
-This leads us onto GitHub itself which essentially acts as the cloud for Git. It is a cloud-based system that holds all of your Git repositories and is specifically designed to make managing your repositories easier. For instance GitHub has **Pull requests**. This is when you request to merge changes from one branch to another branch, collaborators can then discuss and examine the changes before commiting the changes to another branch. There is also an **Issues tab** in GitHub repositories where you can flag issues you are having with your collaborators and you can then discuss ways of resolving them.
+This leads us onto GitHub itself which essentially acts as the cloud for Git. It is a cloud-based system that holds all of your Git repositories and is specifically designed to make managing your repositories easier. For instance, GitHub has **Pull requests**. This is when you request to merge changes from one branch to another branch, collaborators can then discuss and examine the changes before committing the changes to another branch. There is also an **Issues tab** in GitHub repositories where you can flag issues you are having with your collaborators and you can then discuss ways of resolving them.
 
 <img width="641" alt="Screenshot 2024-11-22 150049" src="https://github.com/user-attachments/assets/faa81953-9701-462a-85aa-ca03bfb237d6">
 
 A final note about GitHub is that its repositories are largely open to the public, making collaborating and discussing with the wider programming community easier.
 
- #### Essentially Git is the software and GitHub is the programme that hosts and manages the software. 
+ #### Essentially Git is the software, and GitHub is the programme that hosts and manages the software. 
 
 <mark>Still confused? Visit these websites that go into more detail:</mark>
 - [Git vs GitHub: Key differences](https://www.simplilearn.com/tutorials/git-tutorial/git-vs-github)
@@ -96,7 +96,7 @@ A final note about GitHub is that its repositories are largely open to the publi
 
 ## 1b. Folders & Files - Creating them, moving them, changing their names, and deleting them
 
-As a very organised person I like to have folders within folders, and I am constantly deleting and moving files about in my repositories. However when I first started using GitHub I could not get my head around how to do this. So for the hyper organised like me, follow these simple steps to get a beautifully organised repo!
+As a very organised person I like to have folders within folders, and I am constantly deleting and moving files about in my repositories. However, when I first started using GitHub I could not get my head around how to do this. So, for the hyper organised like me, follow these simple steps to get a beautifully organised repo!
 
 <p>&nbsp;</p>
 
@@ -133,7 +133,7 @@ Whether you want to move a single file or a whole folder the process is the same
 
 <p>&nbsp;</p>
 
-Once you have done this you will need to commit your changes. Go to the **Source Control** tab on the left hand side of the web editor, add a meaningfull commit message and then click **Commit & Push**.
+Once you have done this you will need to commit your changes. Go to the **Source Control** tab on the left-hand side of the web editor, add a meaningful  commit message and then click **Commit & Push**.
 
 <img width="400" alt="Screenshot 2024-11-23 155905" src="https://github.com/user-attachments/assets/dfb5acd2-00e1-4165-9b81-12261dddb18e">
 
@@ -147,7 +147,7 @@ To return to your repository click the three horizontal lines in the top left of
 
 ### Renaming and Deleting Folders and Files
 
-There are a number of ways that you can change folder and file names as well as deleting them. You can makes changes in R studio (if you have connected your GitHub repository and your R studio), you can make changes in your GitHub repository directly, or you can use the GitHub web editor. Although all valid choices I will again be showing you how to do this in the web editor. It's a very useful tool and it's therefore good to get to grips with it. 
+There are a number of ways that you can change folder and file names as well as deleting them. You can make changes in R studio (if you have connected your GitHub repository and your R studio), you can make changes in your GitHub repository directly, or you can use the GitHub web editor. Although all valid choices I will again be showing you how to do this in the web editor. It's a very useful tool and it's therefore good to get to grips with it. 
 
 Open the GitHub web editor (on the homepage of your repository press the full stop/period key (**.**)). Once on the web editor simply right click on whatever folder or file you want to rename or delete and select whichever option is appropriate.
 
@@ -155,15 +155,15 @@ Open the GitHub web editor (on the homepage of your repository press the full st
 
 <p>&nbsp;</p>
 
-Then simply follow the on-screen instructions. Before returning to your repository remember to **Commit & Push** on the **Source Control** tab, and write a meaningful commit message. **Forgotten how do do these steps?** <mark>See the [Moving Folders & Files](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#moving-folders--files) section above </mark>.
+Then simply follow the on-screen instructions. Before returning to your repository remember to **Commit & Push** on the **Source Control** tab and write a meaningful commit message. **Forgotten how to do these steps?** <mark>See the [Moving Folders & Files](https://github.com/EdDataScienceEES/tutorial-Kirstb-04/blob/master/index.md#moving-folders--files) section above </mark>.
 
 <p>&nbsp;</p>
 
 ## 1c. Reverting Commits
 
-Ever mistakenly made a commit that you desperately want to take back? Don't worry we've all done it. Simply use the Github web editor to revert your commit. 
+Ever mistakenly made a commit that you desperately want to take back? Don't worry we've all done it. Simply use the GitHub web editor to revert your commit. 
 
-First you need to copy the id code of the commit your wanting to convert. Go into your commit history:
+First you need to copy the id code of the commit that you're wanting to convert. Go into your commit history:
 
 <img width="676" alt="Screenshot 2024-11-22 155851" src="https://github.com/user-attachments/assets/db009ca0-02ac-44f0-9565-044385bcb833">
 
@@ -181,7 +181,7 @@ You then need to open the GitHub **web editor**. To do this go to your repositor
 
 <p>&nbsp;</p>
 
-You then need to select **Continue working in GitHub Codespaces** so that you can work in an environment where you can run code. Once you've done this you should be taken to a sepearate page called **Codespace**. Here is where you revert your commit.
+You then need to select **Continue working in GitHub Codespaces** so that you can work in an environment where you can run code. Once you've done this you should be taken to a separate page called **Codespace**. Here is where you revert your commit.
 
 <p>&nbsp;</p>
 
@@ -215,13 +215,13 @@ Once back to your repository check that your revert was successful. You should h
 
 <p>&nbsp;</p>
 
-**You have to be very cafeful when reverting commits as you need to make sure that people haven't already pulled the commit you're trying to revert, especially if you are reverting a commit you made to the master branch, as this can cause major issues. But as long as you're sensible with it and let collaborators know all should be fine!**
+**You have to be very careful when reverting commits as you need to make sure that people haven't already pulled the commit you're trying to revert, especially if you are reverting a commit you made to the master branch, as this can cause major issues. But as long as you're sensible with it and let collaborators know all should be fine!**
 
 <p>&nbsp;</p>
 
 ## 1e. Merge Conflicts: What they mean & how to resolve them?
 
-Merge conflicts occur when you are collaborating with others on the same project and multiple people are trying to merge branches that have competing commits. Essentially you have each made different edits to the same script and GitHub doesn't understand how to combine them and so instead comes up with an error, a **merge conflict**. The merge conflict will appear when you create a pull request to merge two branches e.g. here I am trying to merge the alpha branch with the main branch but it isn't working due to a merge conflict.
+Merge conflicts occur when you are collaborating with others on the same project and multiple people are trying to merge branches that have competing commits. Essentially you have each made different edits to the same script and GitHub doesn't understand how to combine them and so instead comes up with an error, a **merge conflict**. The merge conflict will appear when you create a pull request to merge two branches e.g. here, I am trying to merge the alpha branch with the main branch but it isn't working due to a merge conflict.
 
 <p>&nbsp;</p>
 
@@ -250,11 +250,11 @@ Once you have resolved the code, select **Mark as resolved** in the top right co
 
 ## 2. What is a Markdown?
 
-A Markdown is a plain-text document that uses a markup language, as well as some HTML tags, to add formatting elements, such as headings and images. You can create a Markdown in a number of programs including R studio (for a tutorial on this see the Coding Club's tutorial [Getting Started with R Markdown](https://ourcodingclub.github.io/tutorials/rmarkdown/)). However I will be going over how to create a Markdown in GitHub. To do this simply add a new file into your repository, name it whatever you like but remeber to end your name with .md _e.g. Coding Tutorial.md_, this will create a markdown file. 
+A Markdown is a plain-text document that uses a markup language, as well as some HTML tags, to add formatting elements, such as headings and images. You can create a Markdown in a number of programs including R studio (for a tutorial on this see the Coding Club's tutorial [Getting Started with R Markdown](https://ourcodingclub.github.io/tutorials/rmarkdown/)). However, I will be going over how to create a Markdown in GitHub. To do this simply add a new file into your repository, name it whatever you like but remember to end your name with .md _e.g. Coding Tutorial.md_, this will create a markdown file. 
 
-Once created you can explore your Markdown. When editing your document there are two tabs at the top, **Edit** and **Preview**. The **Edit** tab is where you write your text and markup language, and the **Preview** tab is where you can check how your code will look before you commit it. Once you have commited any changes you can then see a **Preview** of your document, the **Code** used to create it, and a **Blame** tab where you can see who made changes to the document and when. 
+Once created you can explore your Markdown. When editing your document there are two tabs at the top, **Edit** and **Preview**. The **Edit** tab is where you write your text and markup language, and the **Preview** tab is where you can check how your code will look before you commit it. Once you have committed any changes you can then see a **Preview** of your document, the **Code** used to create it, and a **Blame** tab where you can see who made changes to the document and when. 
 
-Although the prospect of learning another coding langauge may be daunting, don't worry! The markup langauge is actually very simple and straight forward, I'll go through some of the most common codes below.
+Although the prospect of learning another coding language may be daunting, don't worry! The markup language is actually very simple and straight forward, I'll go through some of the most common codes below.
 
 <p>&nbsp;</p>
 
@@ -285,7 +285,7 @@ To get the link for your image, paste your image into the Markdown and copy the 
 
 ### Headings
 
-To add headings into your document simply add a hashtag (**#**) and a **space** before your desired heading. The more hashtags you add before your heading the smaller your heading will become, they will become like subheadings to your bigger headings.  
+To add headings into your document simply add a hashtag (**#**) and a **space** before your desired heading. The more hashtags you add before your heading the smaller your heading will become; they will become like subheadings to your bigger headings.  
 
 <p>&nbsp;</p>
 
@@ -324,9 +324,9 @@ To highlight text simply use the below code:
 
 ### Coloured Text 
 
-Creating coloured text in a Github Markdown is not fully realiable as it uses a specific type of HTML tag that GitHub doesn't support. I would therefore recommend only using coloured text for personal as opposed to professional Markdowns as the code can be temporamental, but nevertheless it can be fun to play around with!
+Creating coloured text in a GitHub Markdown is not fully reliable as it uses a specific type of HTML tag that GitHub doesn't support. I would therefore recommend only using coloured text for personal as opposed to professional Markdowns as the code can be temperamental, but nevertheless it can be fun to play around with!
 
-To generate different coloured text use the below code:
+To generate different coloured text, use the below code:
 
 ```diff
 $\color{blue}{\text{Your\ text\ here}}$
@@ -342,7 +342,7 @@ Add a backslash and a space after each word to create spaces between the words. 
 
 ### Changing Text Alignment
 
-If you want to change your text alignment simply use the below code:
+If you want to change your text alignment, simply use the below code:
 
 ```diff
 <p align="center">
@@ -356,7 +356,7 @@ This becomes;
 Your content
 </p>
 
-If you want your text aligned to the right then simply remove **"center"** from the above code and replace it with **"right"**.
+If you want your text aligned to the right, then simply remove **"center"** from the above code and replace it with **"right"**.
 
 <p>&nbsp;</p>
 
@@ -411,9 +411,9 @@ This allows others to quickly and easily copy whatever is in the box. It's a ver
 ### Creating Tables
 Want to add a table into your markdown? No bother, just follow the below steps!
 
-To create tables you'll need to use pipes `|` (used to create collumns), and hyphens `-` (used to create headers). To start create a blank line above where your table will be, this ensures that the markdown understands that you're making a table.
+To create tables, you'll need to use pipes `|` (used to create columns), and hyphens `-` (used to create headers). To start, create a blank line above where your table will be, this ensures that the markdown understands that you're making a table.
 
-Use the below code as the structure for making tables, make sure to have at least three hyphens below your headers, and don't worry about your collumns lining up perfectly in the code, they will once you commit your changes!
+Use the below code as the structure for making tables, make sure to have at least three hyphens below your headers, and don't worry about your columns lining up perfectly in the code, they will once you commit your changes!
 ```diff
 |Header 1|Header 2|
 | ----   | ----   |
@@ -431,7 +431,7 @@ This becomes;
 ## 3c. Adding Links
 
 ### Linking Within GitHub
-To link within GitHub you can either **link to something in your Markdown document** or you can **link to another folder/file in your general repository**. To link to something that's in your Markdown document you simply use the following code:
+To link within GitHub, you can either **link to something in your Markdown document** or you can **link to another folder/file in your general repository**. To link to something that's in your Markdown document you simply use the following code:
 
 ```diff
 [the title of your link](the link address)
@@ -450,7 +450,7 @@ To get the link address hover over the link symbol next to the heading, right cl
 
 <p>&nbsp;</p>
 
-To link to elsewhere in your repository it will be a similar code:
+To link to elsewhere in your repository, it will be a similar code:
 
 ```diff
 [the title of your link](the file path)
@@ -513,11 +513,11 @@ This creates a line of space. Simply copy and paste this as many times as you li
 
 ### Tips for a professional Markdown
 
-The style and layout of your Markdown will vary depending on your specific project, but in this section I will go over some general tips that are good to keep in mind!
+The style and layout of your Markdown will vary depending on your specific project, but in this section, I will go over some general tips that are good to keep in mind!
 
-When trying to make a document look good it can be easy to under or over do-it. Plain black and white text is proffessional right? Adding lots of colours and pictures will make it more interesing! No and no. It's tricky but you need to find a balance. A plain document can be boring and tedious to read, whilst a document that uses an array of colours and pictures without adding to the readers understanding can be overwhelming and unproffessional. 
+When trying to make a document look good it can be easy to under or over do-it. Plain black and white text is professional right? Adding lots of colours and pictures will make it more interesting! No and no. It's tricky but you need to find a balance. A plain document can be boring and tedious to read, whilst a document that uses an array of colours and pictures without adding to the readers understanding can be overwhelming and unprofessional. 
 
-For example look at these three Markdown examples on creating a BBC news story:
+For example, look at these three Markdown examples on creating a BBC news story:
 1. [Too simple](Example_markdowns/BBC_too_simple.md)
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/bcf290ce-08bc-49c3-b9bd-5e06e628146d">
@@ -531,7 +531,7 @@ The paragraphs of text in this example makes it seem more like an essay than a M
 
 
 
-On the other hand this example looks more like a school project than a proffessional document to be taken seriously. It has no set formatting e.g. different picture sizes and alignments, a range of text colours, and overuse of underlining and making words bold, and so it looks messy and unproffessional. 
+On the other hand, this example looks more like a school project than a professional document to be taken seriously. It has no set formatting e.g. different picture sizes and alignments, a range of text colours, and overuse of underlining and making words bold, and so it looks messy and unprofessional. 
 
 3. [Just right](Example_markdowns/BBC_good.md)
 
@@ -546,7 +546,7 @@ This is a good mix of the two above examples. It has a set format throughout, an
 
 
 ### Tips for Getting Help with GitHub
-A final tip I have for you is to use Google, I cannot emphasise this enough!! All of the things I've talked through in this tutorial I learned through websites, chat forums, and videos. I gurantee that any question you have, whether it be on markup language, on GitHub, or even on general coding someone else has had the same question! You would be suprised by how useful Google is even for the most obscure questions.
+A final tip I have for you is to use Google, I cannot emphasise this enough!! All of the things I've talked through in this tutorial I learned through websites, chat forums, and videos. I guarantee that any question you have, whether it be on markup language, on GitHub, or even on general coding someone else has had the same question! You would be surprised by how useful Google is even for the most obscure questions.
 
 <p>&nbsp;</p>
 
