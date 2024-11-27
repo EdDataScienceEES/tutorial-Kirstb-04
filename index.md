@@ -73,8 +73,8 @@ To fully understand GitHub you first need to understand what Git is. First relea
 
 
 **Words you'll come across in GitHub:**
-- <mark>Files for particular projects are saved in repositories </mark> (or repos as they are often referred to), which are essentially storage spaces for all of the files relating to your project. 
-- <mark>Another word that you'll come across when using GitHub is branches. </mark> Your repositories contain the master branch which is the main code of the repository. From this master branch you can create other branches where you can experiment with the code without having to change the main code. If you are happy with changes you have made in your branch you can then commit them to the master branch. This means that you can safely experiment with code without interfering with the main code.
+- **<mark>Files for particular projects are saved in repositories </mark>** (or repos as they are often referred to), which are essentially storage spaces for all of the files relating to your project. 
+- **<mark>Another word that you'll come across when using GitHub is branches. </mark>** Your repositories contain the master branch which is the main code of the repository. From this master branch you can create other branches where you can experiment with the code without having to change the main code. If you are happy with changes you have made in your branch you can then commit them to the master branch. This means that you can safely experiment with code without interfering with the main code.
 
 This leads us onto GitHub itself which essentially acts as the cloud for Git. It is a cloud-based system that holds all of your Git repositories and is specifically designed to make managing your repositories easier. For instance, GitHub has **Pull requests**. This is when you request to merge changes from one branch to another branch, collaborators can then discuss and examine the changes before committing the changes to another branch. There is also an **Issues tab** in GitHub repositories where you can flag issues you are having with your collaborators and you can then discuss ways of resolving them.
 
@@ -190,7 +190,7 @@ At the bottom of the **Codespace** page you will have a terminal where you can t
 
 <p>&nbsp;</p>
 
-**Important Note!** <mark> If it was a merge commit, like the below example, then you will need a slightly different code.</mark> After the dollar sign (**$**) type **git revert -m 1**, then paste your commit id, and press enter.
+**Important Note!** **<mark> If it was a merge commit, like the below example, then you will need a slightly different code.</mark>** After the dollar sign (**$**) type **git revert -m 1**, then paste your commit id, and press enter.
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/23adc034-247d-4564-a66c-77130682c2a1">
 
@@ -296,7 +296,7 @@ The code for bold text is:
 **Your bold text here**
 ```
 
-<mark>To automatically make text bold </mark>, highlight the desired text and press **ctrl** + **b** together.
+**<mark>To automatically make text bold </mark>**, highlight the desired text and press **ctrl** + **b** together.
 
 <p>&nbsp;</p>
 
@@ -307,7 +307,7 @@ The code for italic text is:
 _Your italic text here_
 ```
 
-<mark>To automatically make text italic</mark>, highlight the desired text and press **ctrl** + **i** together.
+**<mark>To automatically make text italic</mark>**, highlight the desired text and press **ctrl** + **i** together.
 
 <p>&nbsp;</p>
 
@@ -398,7 +398,7 @@ The text you want copied here
 ```
 
 
-**Important Note!** <mark>You need to add another three backticks below the text you want copied for the code to work.</mark> Due to a formatting glitch I couldn't add this into the above code! e.g. 
+**Important Note!** **<mark>You need to add another three backticks below the text you want copied for the code to work.</mark>** Due to a formatting glitch I couldn't add this into the above code! e.g. 
 
 <img width="290" alt="image" src="https://github.com/user-attachments/assets/38576cd1-56f0-41de-8ad0-c8c01bbd5c9c">
 
