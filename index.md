@@ -83,7 +83,7 @@ This leads us onto GitHub itself which essentially acts as the cloud for Git. It
 
 A final note about GitHub is that its repositories are largely open to the public, making collaborating and discussing with the wider programming community easier.
 
- #### Essentially Git is the software, and GitHub is the programme that hosts and manages the software. 
+#### Essentially Git is the software, and GitHub is the programme that hosts and manages the software. 
 
 <mark>Still confused? Visit these websites that go into more detail:</mark>
 - [Git vs GitHub: Key differences](https://www.simplilearn.com/tutorials/git-tutorial/git-vs-github)
