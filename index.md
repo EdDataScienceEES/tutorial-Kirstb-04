@@ -413,6 +413,15 @@ Want to add a table into your markdown? No bother, just follow the below steps!
 
 To create tables you'll need to use pipes `|` (used to create collumns), and hyphens `-` (used to create headers). To start create a blank line above where your table will be, this ensures that the markdown understands that you're making a table.
 
+The below code is the structure for making tables, make sure to have at least three hyphens below your headers, and don't worry about you're collumns lining up perfectly in the code, they will once you commit your changes!
+```diff
+|Header 1|Header 2|
+| ----   | ----   |
+| Cell content| Cell content |
+```
+
+This becomes;
+
 |Header 1|Header 2|
 | ----   | ----   |
 | Cell content| Cell content |
