@@ -560,4 +560,4 @@ A final tip I have for you is to use Google, I cannot emphasise this enough!! Al
 <p>&nbsp;</p>
 
 ## Contact Details:
-- **Got questions about the contents of this tutorial?** Feel free to contact me at **S2359118@ed.ac.uk**
+- <mark>**Got questions about the contents of this tutorial?**</mark> Feel free to contact me at **S2359118@ed.ac.uk**
