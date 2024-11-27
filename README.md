@@ -1,12 +1,7 @@
 # Final Assessment in Data Science 2024: Creating a tutorial
 
-**Contact Details:**
+**Contact Details:** Kirsty Booth, S2359118@ed.ac.uk
 
-Name: *Kirsty Booth*
-
-Email: *S2359118@ed.ac.uk*
-
-<p>&nbsp;</p>
 
 **Overall Tutorial Aim:** 
 To give the reader a comprehensive overview of how to use Github, in a tutorial that will act as a part two to the coding club's [Intro to Github for version control](https://ourcodingclub.github.io/tutorials/git/) tutorial.
