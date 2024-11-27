@@ -296,7 +296,7 @@ The code for bold text is:
 **Your bold text here**
 ```
 
-<mark>To automatically make text bold highlight the desired text and press **ctrl** + **b** together.</mark>
+<mark>To automatically make text bold, highlight the desired text and press **ctrl** + **b** together.</mark>
 
 <p>&nbsp;</p>
 
@@ -307,7 +307,7 @@ The code for italic text is:
 _Your italic text here_
 ```
 
-<mark>To automatically make text italic highlight the desired text and press **ctrl** + **i** together.</mark>
+<mark>To automatically make text italic, highlight the desired text and press **ctrl** + **i** together.</mark>
 
 <p>&nbsp;</p>
 
